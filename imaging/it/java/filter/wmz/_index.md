@@ -133,6 +133,7 @@ WMZ è un'estensione di file per un formato di file skin in/per/utilizzato da Wi
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/filter/wmf/" name="WMF" description="Metafile di Microsoft Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/filter/tga/" name="TGA" description="Grafica Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/filter/svg/" name="SVG" description="Grafica vettoriale scalabile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/filter/eps/" name="EPS" description="Linguaggio PostScript incapsulato" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/filter/cdr/" name="CDR" description="Immagine di disegno vettoriale" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/filter/cmx/" name="CMX" description="Immagine di scambio di Corel" >}}

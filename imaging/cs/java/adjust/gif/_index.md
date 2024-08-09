@@ -138,6 +138,7 @@ Formát GIF nebo Graphical Interchange Format je typ vysoce komprimovaného obr�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/java/adjust/cmx/" name="CMX" description="Obrázek Corel Exchange" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/java/adjust/otg/" name="OTG" description="OpenDocument Standard" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/java/adjust/odg/" name="ODG" description="Formát Apache OpenOffice Draw" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/java/adjust/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

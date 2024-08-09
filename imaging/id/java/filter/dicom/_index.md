@@ -133,6 +133,7 @@ DICOM adalah singkatan dari Digital Imaging and Communications in Medicine dan b
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/filter/wmz/" name="WMZ" description="Kulit Windows Media Player Terkompresi" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/filter/tga/" name="TGA" description="Grafis Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/filter/svg/" name="SVG" description="Grafik Vektor Skalabel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/filter/eps/" name="EPS" description="Bahasa PostScript Terenkapsulasi" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/filter/cdr/" name="CDR" description="Gambar Gambar Vektor" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/filter/cmx/" name="CMX" description="Corel Exchange Gambar" >}}

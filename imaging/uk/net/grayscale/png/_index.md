@@ -113,6 +113,7 @@ PNG, Portable Network Graphics, відноситься до типу форма�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/net/grayscale/emz/" name="EMZ" description="Windows Compressed Enhanced Metafile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/net/grayscale/gif/" name="GIF" description="Графічний формат обміну" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/net/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/net/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/net/grayscale/j2k/" name="J2K" description="Wavelet Compressed Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/net/grayscale/tiff/" name="TIFF" description="Формат зображення з тегами" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/net/grayscale/tif/" name="TIF" description="Формат зображення з тегами" >}}

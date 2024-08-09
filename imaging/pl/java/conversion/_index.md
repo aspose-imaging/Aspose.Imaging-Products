@@ -188,6 +188,7 @@ Poniżej znajduje się pełna lista formatów graficznych, do których można do
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/from/otg/" style="padding:15px;">Konwertuj z OTG</a></div>
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/from/odg/" style="padding:15px;">Konwertuj z ODG</a></div>
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/from/ico/" style="padding:15px;">Konwertuj z ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/from/avif/" style="padding:15px;">Konwertuj z AVIF</a></div>
                 </div>
         </div>
     </div>

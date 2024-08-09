@@ -108,6 +108,7 @@ Tệp có phần mở rộng tệp EMZ là tệp hình ảnh nén, được gọ
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/python-net/grayscale/emf/" name="EMF" description="Định dạng siêu tệp nâng cao" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/python-net/grayscale/gif/" name="GIF" description="Định dạng trao đổi đồ họa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/python-net/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/python-net/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/python-net/grayscale/j2k/" name="J2K" description="Hình ảnh nén Wavelet" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/python-net/grayscale/png/" name="PNG" description="Biểu đồ minh họa mạng lưới không dây" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/python-net/grayscale/tiff/" name="TIFF" description="Định dạng hình ảnh được gắn thẻ" >}}

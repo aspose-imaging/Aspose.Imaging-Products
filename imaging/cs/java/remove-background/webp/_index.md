@@ -136,6 +136,7 @@ WebP, představený společností Google, je moderní formát rastrových webov�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/java/remove-background/cmx/" name="CMX" description="Obrázek Corel Exchange" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/java/remove-background/otg/" name="OTG" description="OpenDocument Standard" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/java/remove-background/odg/" name="ODG" description="Formát Apache OpenOffice Draw" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/java/remove-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

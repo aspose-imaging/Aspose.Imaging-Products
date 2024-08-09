@@ -120,6 +120,7 @@ ODG failo formatą naudoja „Apache OpenOffice“ programa „Draw“, kad išs
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/python-net/change-background/cdr/" name="CDR" description="Vektorinio piešimo vaizdas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/python-net/change-background/cmx/" name="CMX" description="Corel Exchange vaizdas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/python-net/change-background/otg/" name="OTG" description="OpenDocument standartas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/python-net/change-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -126,6 +126,7 @@ Soubory s příponou .BMP představují soubory bitmapových obrázků, které s
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/net/binarize/cmx/" name="CMX" description="Obrázek Corel Exchange" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/net/binarize/otg/" name="OTG" description="OpenDocument Standard" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/net/binarize/odg/" name="ODG" description="Formát Apache OpenOffice Draw" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/net/binarize/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

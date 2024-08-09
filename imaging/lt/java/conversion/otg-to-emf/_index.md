@@ -71,7 +71,8 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Įdiegta JDK 1.6 arba naujesnė versija.
++ Operacinė sistema: Windows arba Linux.
++ Kūrimo aplinka: palaiko .NET Core 7 ir naujesnę versiją, pvz., Microsoft Visual Studio.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

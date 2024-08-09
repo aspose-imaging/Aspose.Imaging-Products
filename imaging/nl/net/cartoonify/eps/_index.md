@@ -125,6 +125,7 @@ Bestanden met de extensie EPS beschrijven in wezen een Encapsulated PostScript-t
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/cartoonify/cmx/" name="CMX" description="Corel Exchange-afbeelding" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/cartoonify/otg/" name="OTG" description="OpenDocument-standaard" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/cartoonify/odg/" name="ODG" description="Apache OpenOffice Draw-indeling" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/cartoonify/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

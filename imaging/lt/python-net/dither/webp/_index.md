@@ -100,6 +100,7 @@ Aspose.Imaging API yra vaizdo apdorojimo sprendimas, skirtas kurti, modifikuoti,
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/python-net/dither/bmp/" name="BMP" description="Bitmap paveikslėlis" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/python-net/dither/ico/" name="ICO" description="Windows piktograma" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/python-net/dither/jpg/" name="JPG" description="Jungtinė fotografijos ekspertų grupė" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/python-net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/python-net/dither/jpeg/" name="JPEG" description="Jungtinė fotografijos ekspertų grupė" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/python-net/dither/dib/" name="DIB" description="Nuo įrenginio nepriklausomas bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/python-net/dither/dicom/" name="DICOM" description="Skaitmeninis vaizdas ir ryšiai" >}}

@@ -112,6 +112,7 @@ CDR failas yra vektorinio piešimo vaizdo failas, sukurtas naudojant CorelDRAW, 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/grayscale/emz/" name="EMZ" description="„Windows“ suspaustas patobulintas metafailas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/grayscale/gif/" name="GIF" description="Grafinis mainų formatas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/grayscale/j2k/" name="J2K" description="„Wavelet“ suspaustas vaizdas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/grayscale/png/" name="PNG" description="Nešiojamoji tinklo grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/grayscale/tiff/" name="TIFF" description="Pažymėtas vaizdo formatas" >}}

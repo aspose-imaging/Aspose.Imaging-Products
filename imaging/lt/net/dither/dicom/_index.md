@@ -103,6 +103,7 @@ DICOM yra skaitmeninio vaizdo gavimo ir ryšių medicinos akronimas ir yra susij
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/dither/bmp/" name="BMP" description="Bitmap paveikslėlis" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/dither/ico/" name="ICO" description="Windows piktograma" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/dither/jpg/" name="JPG" description="Jungtinė fotografijos ekspertų grupė" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/dither/jpeg/" name="JPEG" description="Jungtinė fotografijos ekspertų grupė" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/dither/dib/" name="DIB" description="Nuo įrenginio nepriklausomas bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/dither/djvu/" name="DJVU" description="Grafikos formatas" >}}

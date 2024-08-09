@@ -117,6 +117,7 @@ I file SVG sono file di grafica vettoriale scalabili che utilizzano un formato d
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/python-net/filter/wmf/" name="WMF" description="Metafile di Microsoft Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/python-net/filter/wmz/" name="WMZ" description="Skin compressa di Windows Media Player" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/python-net/filter/tga/" name="TGA" description="Grafica Targa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/python-net/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/python-net/filter/eps/" name="EPS" description="Linguaggio PostScript incapsulato" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/python-net/filter/cdr/" name="CDR" description="Immagine di disegno vettoriale" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/python-net/filter/cmx/" name="CMX" description="Immagine di scambio di Corel" >}}

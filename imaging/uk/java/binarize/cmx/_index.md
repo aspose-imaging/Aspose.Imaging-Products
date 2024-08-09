@@ -138,6 +138,7 @@ API Aspose.Imaging — це рішення для обробки зображе�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/java/binarize/cdr/" name="CDR" description="Векторний малюнок зображення" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/java/binarize/otg/" name="OTG" description="Стандарт OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/java/binarize/odg/" name="ODG" description="Формат Apache OpenOffice Draw" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/java/binarize/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

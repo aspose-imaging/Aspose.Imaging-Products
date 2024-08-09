@@ -138,6 +138,7 @@ DjVu, prononcé comme DJVU, est un format de fichier graphique destiné aux docu
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/cartoonify/cmx/" name="CMX" description="Image d'échange Corel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/cartoonify/otg/" name="OTG" description="Norme OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/cartoonify/odg/" name="ODG" description="Format de dessin Apache OpenOffice" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/cartoonify/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

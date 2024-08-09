@@ -188,6 +188,7 @@ Aspose.Imaging for Python via .NET API में प्रोग्रामर�
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/from/otg/" style="padding:15px;">से कनवर्ट करें OTG</a></div>
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/from/odg/" style="padding:15px;">से कनवर्ट करें ODG</a></div>
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/from/ico/" style="padding:15px;">से कनवर्ट करें ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/from/avif/" style="padding:15px;">से कनवर्ट करें AVIF</a></div>
                 </div>
         </div>
     </div>

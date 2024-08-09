@@ -116,6 +116,7 @@ DICOM चिकित्सा में डिजिटल इमेजिं�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/dither/bmp/" name="BMP" description="बिटमैप चित्र" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/dither/ico/" name="ICO" description="विंडोज आइकन" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/dither/jpg/" name="JPG" description="फ़ोटोग्राफ़ी संबंधी विशेषज्ञों का संयुक्त समूह" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/dither/jpeg/" name="JPEG" description="फ़ोटोग्राफ़ी संबंधी विशेषज्ञों का संयुक्त समूह" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/dither/dib/" name="DIB" description="डिवाइस स्वतंत्र बिटमैप" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/dither/djvu/" name="DJVU" description="ग्राफिक्स प्रारूप" >}}

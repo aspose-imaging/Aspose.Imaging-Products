@@ -71,7 +71,8 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
 
 {{% /blocks/products/pf/agp/text %}}
 
-- JDK 1.6 of hoger is geïnstalleerd.
++ Besturingssysteem: Windows of Linux.
++ Ontwikkelomgeving: Ondersteunt .NET Core 7 en hoger, zoals Microsoft Visual Studio.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

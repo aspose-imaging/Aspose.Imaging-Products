@@ -122,6 +122,7 @@ OTG 文件是使用遵循 OASIS Office Applications 1.0 規範的 OpenDocument �
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/adjust/cdr/" name="CDR" description="矢量繪圖圖像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/adjust/cmx/" name="CMX" description="Corel 交換圖像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/adjust/odg/" name="ODG" description="Apache OpenOffice 繪圖格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/adjust/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

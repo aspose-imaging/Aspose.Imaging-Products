@@ -113,6 +113,7 @@ WebP, představený společností Google, je moderní formát rastrových webov�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/net/grayscale/emz/" name="EMZ" description="Windows Compressed Enhanced Metafile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/net/grayscale/gif/" name="GIF" description="Grafický výměnný formát" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/net/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/net/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/net/grayscale/j2k/" name="J2K" description="Wavelet Compressed Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/net/grayscale/png/" name="PNG" description="Přenosná síťová grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/net/grayscale/tiff/" name="TIFF" description="Formát tagovaného obrázku" >}}

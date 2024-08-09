@@ -138,6 +138,7 @@ Format file ICO adalah format file gambar untuk ikon komputer di Microsoft Windo
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/adjust/cmx/" name="CMX" description="Corel Exchange Gambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/adjust/otg/" name="OTG" description="Standar Dokumen Terbuka" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/adjust/odg/" name="ODG" description="Format Undian Apache OpenOffice" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/adjust/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

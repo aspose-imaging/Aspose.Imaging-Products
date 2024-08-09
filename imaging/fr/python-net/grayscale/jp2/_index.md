@@ -108,6 +108,7 @@ JPEG 2000 (JP2) est un système de codage d'image et une norme de compression d'
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/python-net/grayscale/emf/" name="EMF" description="Format de métafichier amélioré" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/python-net/grayscale/emz/" name="EMZ" description="Métafichier amélioré compressé Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/python-net/grayscale/gif/" name="GIF" description="Format d'échange graphique" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/python-net/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/python-net/grayscale/j2k/" name="J2K" description="Image compressée en ondelettes" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/python-net/grayscale/png/" name="PNG" description="Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/python-net/grayscale/tiff/" name="TIFF" description="Format d'image balisé" >}}

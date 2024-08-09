@@ -125,6 +125,7 @@ File dengan ekstensi .apng (Animated Portable Network Graphics) adalah format gr
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/cartoonify/cmx/" name="CMX" description="Corel Exchange Gambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/cartoonify/otg/" name="OTG" description="Standar Dokumen Terbuka" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/cartoonify/odg/" name="ODG" description="Format Undian Apache OpenOffice" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/cartoonify/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

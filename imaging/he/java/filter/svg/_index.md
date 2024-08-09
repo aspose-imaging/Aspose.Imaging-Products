@@ -133,6 +133,7 @@ Aspose.Imaging API הוא פתרון לעיבוד תמונה ליצירה, שי�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/java/filter/wmf/" name="WMF" description="Microsoft Windows Metafile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/java/filter/wmz/" name="WMZ" description="עור דחוס של Windows Media Player" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/java/filter/tga/" name="TGA" description="טארגה גרפיקה" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/java/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/java/filter/eps/" name="EPS" description="שפת PostScript מובלעת" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/java/filter/cdr/" name="CDR" description="תמונה של ציור וקטור" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/java/filter/cmx/" name="CMX" description="תמונת Corel Exchange" >}}

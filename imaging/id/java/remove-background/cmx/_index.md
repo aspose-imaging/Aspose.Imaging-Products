@@ -136,6 +136,7 @@ File dengan ekstensi CMX adalah format file gambar Corel Exchange yang digunakan
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/remove-background/cdr/" name="CDR" description="Gambar Gambar Vektor" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/remove-background/otg/" name="OTG" description="Standar Dokumen Terbuka" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/remove-background/odg/" name="ODG" description="Format Undian Apache OpenOffice" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/remove-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

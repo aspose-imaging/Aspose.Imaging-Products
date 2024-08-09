@@ -122,6 +122,7 @@ Een bestand met de extensie .apng (Animated Portable Network Graphics) is een gr
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/python-net/binarize/cmx/" name="CMX" description="Corel Exchange-afbeelding" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/python-net/binarize/otg/" name="OTG" description="OpenDocument-standaard" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/python-net/binarize/odg/" name="ODG" description="Apache OpenOffice Draw-indeling" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/python-net/binarize/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

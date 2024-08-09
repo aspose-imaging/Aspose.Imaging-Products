@@ -118,6 +118,7 @@ File CDR adalah file gambar gambar vektor yang dibuat secara native dengan Corel
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/python-net/filter/wmz/" name="WMZ" description="Kulit Windows Media Player Terkompresi" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/python-net/filter/tga/" name="TGA" description="Grafis Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/python-net/filter/svg/" name="SVG" description="Grafik Vektor Skalabel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/python-net/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/python-net/filter/eps/" name="EPS" description="Bahasa PostScript Terenkapsulasi" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/python-net/filter/cmx/" name="CMX" description="Corel Exchange Gambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/python-net/filter/otg/" name="OTG" description="Standar Dokumen Terbuka" >}}

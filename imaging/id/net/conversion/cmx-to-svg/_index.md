@@ -56,9 +56,8 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows atau OS yang kompatibel dengan .NET Framework, .NET Core, Aplikasi Windows, Aplikasi Web ASP.NET.
-- Lingkungan pengembangan seperti Microsoft Visual Studio.
-- Aspose.Imaging untuk .NET direferensikan dalam proyek Anda.
++ Sistem operasi: Windows atau Linux.
++ Lingkungan pengembangan: Mendukung .NET Core 7 dan lebih tinggi, seperti Microsoft Visual Studio.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

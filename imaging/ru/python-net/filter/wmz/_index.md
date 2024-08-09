@@ -117,6 +117,7 @@ WMZ — это расширение файла для формата файла 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/python-net/filter/wmf/" name="WMF" description="Метафайл Microsoft Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/python-net/filter/tga/" name="TGA" description="Тарга Графика" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/python-net/filter/svg/" name="SVG" description="Масштабируемая векторная графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/python-net/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/python-net/filter/eps/" name="EPS" description="Инкапсулированный язык PostScript" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/python-net/filter/cdr/" name="CDR" description="Векторный рисунок изображения" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/python-net/filter/cmx/" name="CMX" description="Обмен изображениями Corel" >}}

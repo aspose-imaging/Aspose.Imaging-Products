@@ -100,6 +100,7 @@ DIB（设备独立位图）文件是一种光栅图像文件，其结构类似�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/python-net/dither/bmp/" name="BMP" description="位图图片" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/python-net/dither/ico/" name="ICO" description="窗口图标" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/python-net/dither/jpg/" name="JPG" description="联合摄影专家组" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/python-net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/python-net/dither/jpeg/" name="JPEG" description="联合摄影专家组" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/python-net/dither/dicom/" name="DICOM" description="数码影像与通讯" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/python-net/dither/djvu/" name="DJVU" description="图形格式" >}}

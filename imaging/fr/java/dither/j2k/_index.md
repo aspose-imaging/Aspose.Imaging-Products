@@ -116,6 +116,7 @@ Un fichier J2K est une image compressée à l'aide de la compression par ondelet
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/dither/bmp/" name="BMP" description="Image bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/dither/ico/" name="ICO" description="Icône Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/dither/jpg/" name="JPG" description="Groupe mixte d'experts photographiques" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/dither/jpeg/" name="JPEG" description="Groupe mixte d'experts photographiques" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/dither/dib/" name="DIB" description="Bitmap indépendant du périphérique" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/dither/dicom/" name="DICOM" description="Imagerie numérique et communications" >}}

@@ -108,6 +108,7 @@ Un GIF o formato de intercambio gráfico es un tipo de imagen altamente comprimi
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/python-net/grayscale/emf/" name="EMF" description="Formato de metarchivo mejorado" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/python-net/grayscale/emz/" name="EMZ" description="Metarchivo mejorado comprimido de Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/python-net/grayscale/jp2/" name="JP2" description="JPEG2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/python-net/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/python-net/grayscale/j2k/" name="J2K" description="Imagen comprimida Wavelet" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/python-net/grayscale/png/" name="PNG" description="Gráficos de red portátiles" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/python-net/grayscale/tiff/" name="TIFF" description="Formato de imagen etiquetada" >}}

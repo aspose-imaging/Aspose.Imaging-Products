@@ -133,6 +133,7 @@ WMZ היא סיומת קובץ עבור פורמט קובץ סקין ב/עבור
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/java/filter/wmf/" name="WMF" description="Microsoft Windows Metafile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/java/filter/tga/" name="TGA" description="טארגה גרפיקה" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/java/filter/svg/" name="SVG" description="גרפיקה וקטורית ניתנת להרחבה" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/java/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/java/filter/eps/" name="EPS" description="שפת PostScript מובלעת" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/java/filter/cdr/" name="CDR" description="תמונה של ציור וקטור" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/java/filter/cmx/" name="CMX" description="תמונת Corel Exchange" >}}

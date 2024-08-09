@@ -104,6 +104,7 @@ O formato de arquivo ICO é um formato de arquivo de imagem para ícones de comp
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/dither/apng/" name="APNG" description="Gráficos de rede portátil animados" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/dither/bmp/" name="BMP" description="Imagem de bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/dither/jpg/" name="JPG" description="Grupo Conjunto de Especialistas em Fotografia" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/dither/jpeg/" name="JPEG" description="Grupo Conjunto de Especialistas em Fotografia" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/dither/dib/" name="DIB" description="Bitmap independente de dispositivo" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/dither/dicom/" name="DICOM" description="Imagens e comunicações digitais" >}}

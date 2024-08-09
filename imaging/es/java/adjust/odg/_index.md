@@ -138,6 +138,7 @@ El formato de archivo ODG es utilizado por la aplicación Draw de Apache OpenOff
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/java/adjust/cdr/" name="CDR" description="Imagen de dibujo vectorial" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/java/adjust/cmx/" name="CMX" description="Imagen de intercambio de Corel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/java/adjust/otg/" name="OTG" description="Estándar de documento abierto" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/java/adjust/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

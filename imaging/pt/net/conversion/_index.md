@@ -188,6 +188,7 @@ Abaixo √© apresentada a lista completa dos formatos de imagem para os quais voc√
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/from/otg/" style="padding:15px;">Converter de OTG</a></div>
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/from/odg/" style="padding:15px;">Converter de ODG</a></div>
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/from/ico/" style="padding:15px;">Converter de ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/from/avif/" style="padding:15px;">Converter de AVIF</a></div>
                 </div>
         </div>
     </div>

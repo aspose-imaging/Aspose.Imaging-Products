@@ -134,6 +134,7 @@ Eine CDR-Datei ist eine Vektorzeichnungsbilddatei, die nativ mit CorelDRAW zum S
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/filter/wmz/" name="WMZ" description="Komprimierte Windows Media Player-Skin" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/filter/tga/" name="TGA" description="Targa-Grafik" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/filter/svg/" name="SVG" description="Skalierbare Vektorgrafiken" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/filter/eps/" name="EPS" description="Gekapselte PostScript-Sprache" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/filter/cmx/" name="CMX" description="Corel Exchange-Bild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/filter/otg/" name="OTG" description="OpenDocument-Standard" >}}

@@ -22,7 +22,7 @@ description: 使用 Aspose.Imaging Adapters 和各種 Aspose 產品簡化格式�
 
 <h3><a href="https://reference.aspose.com/imaging/adapters/net/aspose.imaging.heic.adapter/">Aspose.Imaging.Heic.Adapter</a></h3>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">Aspose.Imaging.Heic.Adapter for .NET 輕鬆結合了兩個功能強大的函式庫：Aspose.Imaging for .NET 和 Openize.Heic for .NET，提供了提升格式轉換功能的完整解決方案。 Openize.Heic是一個開源SDK，整合了HEIF檔案格式解碼器，支援HEVC（高效視訊編碼）編碼影像。鑑於 HEIC 是 iOS 裝置上的預設影像格式，將其轉換為更通用的相容格式以將照片從 iPhone 傳輸到 PC 勢在必行。這種強大的混合有助於 HEIC 格式與各種光柵和向量影像之間的無縫轉換。利用這兩個庫的獨特功能，該適配器開闢了豐富的機會，可以從 HEIC 圖像格式順利轉換為 Aspose.Imaging 庫支援的格式，包括 JPEG、PNG、PDF、GIF、TIFF、WEBP 等。無論是優化影像管理系統、簡化媒體處理工作流程，Aspose.Imaging Heic.Adapter for .NET 都使開發人員能夠探索新的技術視野並推動管理數位資產的創新。</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">Aspose.Imaging.Heic.Adapter for .NET 輕鬆結合了兩個功能強大的函式庫：Aspose.Imaging for .NET 和 FileFormat.Heic for .NET，提供了提升格式轉換功能的完整解決方案。 FileFormat.Heic是一個開源SDK，整合了HEIF檔案格式解碼器，支援HEVC（高效視訊編碼）編碼影像。鑑於 HEIC 是 iOS 裝置上的預設影像格式，將其轉換為更通用的相容格式以將照片從 iPhone 傳輸到 PC 勢在必行。這種強大的混合有助於 HEIC 格式與各種光柵和向量影像之間的無縫轉換。利用這兩個庫的獨特功能，該適配器開闢了豐富的機會，可以從 HEIC 圖像格式順利轉換為 Aspose.Imaging 庫支援的格式，包括 JPEG、PNG、PDF、GIF、TIFF、WEBP 等。無論是優化影像管理系統、簡化媒體處理工作流程，Aspose.Imaging Heic.Adapter for .NET 都使開發人員能夠探索新的技術視野並推動管理數位資產的創新。</p>
 
 
 {{% /blocks/products/pf/agp/content %}}

@@ -124,6 +124,7 @@ GIF або Graphical Interchange Format — це тип сильно стисн�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/java/grayscale/emf/" name="EMF" description="Розширений формат метафайлу" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/java/grayscale/emz/" name="EMZ" description="Windows Compressed Enhanced Metafile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/java/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/java/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/java/grayscale/j2k/" name="J2K" description="Wavelet Compressed Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/java/grayscale/png/" name="PNG" description="Портативна мережева графіка" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/java/grayscale/tiff/" name="TIFF" description="Формат зображення з тегами" >}}

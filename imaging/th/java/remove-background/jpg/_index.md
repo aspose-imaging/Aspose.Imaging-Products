@@ -136,6 +136,7 @@ JPEG เป็นรูปแบบรูปภาพประเภทหนึ
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/java/remove-background/cmx/" name="CMX" description="รูปภาพ Corel Exchange" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/java/remove-background/otg/" name="OTG" description="มาตรฐาน OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/java/remove-background/odg/" name="ODG" description="รูปแบบการวาด Apache OpenOffice" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/java/remove-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -188,6 +188,7 @@ Java Image API позволяет разработчикам создавать,
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ru/java/conversion/from/otg/" style="padding:15px;">Конвертировать из OTG</a></div>
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ru/java/conversion/from/odg/" style="padding:15px;">Конвертировать из ODG</a></div>
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ru/java/conversion/from/ico/" style="padding:15px;">Конвертировать из ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ru/java/conversion/from/avif/" style="padding:15px;">Конвертировать из AVIF</a></div>
                 </div>
         </div>
     </div>

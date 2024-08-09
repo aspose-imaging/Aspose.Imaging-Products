@@ -109,6 +109,7 @@ TIFF nebo TIF, Tagged Image File Format, představuje rastrové obrázky, které
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/python-net/grayscale/emz/" name="EMZ" description="Windows Compressed Enhanced Metafile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/python-net/grayscale/gif/" name="GIF" description="Grafický výměnný formát" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/python-net/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/python-net/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/python-net/grayscale/j2k/" name="J2K" description="Wavelet Compressed Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/python-net/grayscale/png/" name="PNG" description="Přenosná síťová grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/python-net/grayscale/tif/" name="TIF" description="Formát tagovaného obrázku" >}}

@@ -58,9 +58,8 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 또는 .NET Framework, .NET Core, Windows 애플리케이션, ASP.NET 웹 애플리케이션과 호환되는 OS.
-- Microsoft Visual Studio와 같은 개발 환경.
-- 프로젝트에서 참조되는 .NET용 Aspose.Imaging.
++ 운영 체제: Windows 또는 Linux.
++ 개발 환경: Microsoft Visual Studio 등 .NET Core 7 이상을 지원합니다.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

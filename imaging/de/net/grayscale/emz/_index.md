@@ -112,6 +112,7 @@ Eine Datei mit der EMZ-Dateierweiterung ist eine komprimierte Bilddatei, die gen
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/grayscale/emf/" name="EMF" description="Verbessertes Metafile-Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/grayscale/gif/" name="GIF" description="Grafisches Austauschformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/grayscale/jp2/" name="JP2" description="JPEG2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/grayscale/j2k/" name="J2K" description="Wavelet-komprimiertes Bild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/grayscale/png/" name="PNG" description="Portable Netzwerkgrafiken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/grayscale/tiff/" name="TIFF" description="Markiertes Bildformat" >}}

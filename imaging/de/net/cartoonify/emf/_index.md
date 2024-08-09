@@ -126,6 +126,7 @@ Enhanced Metafile Format (EMF) speichert grafische Bilder geräteunabhängig. Me
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/cartoonify/cmx/" name="CMX" description="Corel Exchange-Bild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/cartoonify/otg/" name="OTG" description="OpenDocument-Standard" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/cartoonify/odg/" name="ODG" description="Apache OpenOffice Draw-Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/cartoonify/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

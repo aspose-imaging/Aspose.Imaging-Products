@@ -125,6 +125,7 @@ TIFF hoặc TIF, Định dạng tệp hình ảnh được gắn thẻ, đại d
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/grayscale/emz/" name="EMZ" description="Siêu tệp nâng cao được nén của Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/grayscale/gif/" name="GIF" description="Định dạng trao đổi đồ họa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/grayscale/j2k/" name="J2K" description="Hình ảnh nén Wavelet" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/grayscale/png/" name="PNG" description="Biểu đồ minh họa mạng lưới không dây" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/grayscale/tif/" name="TIF" description="Định dạng hình ảnh được gắn thẻ" >}}

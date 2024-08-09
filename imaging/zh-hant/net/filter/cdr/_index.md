@@ -121,6 +121,7 @@ CDR 文件是使用 CorelDRAW 本地創建的矢量繪圖圖像文件，用於�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/filter/wmz/" name="WMZ" description="壓縮的 Windows Media Player 皮膚" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/filter/tga/" name="TGA" description="塔加圖形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/filter/svg/" name="SVG" description="可縮放矢量圖形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/filter/eps/" name="EPS" description="封裝的 PostScript 語言" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/filter/cmx/" name="CMX" description="Corel 交換圖像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/filter/otg/" name="OTG" description="開放文檔標準" >}}

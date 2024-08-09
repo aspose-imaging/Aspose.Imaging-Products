@@ -127,6 +127,7 @@ EMF(Enhanced Metafile Format)는 그래픽 이미지를 장치에 독립적으�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/cartoonify/cmx/" name="CMX" description="Corel 교환 이미지" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/cartoonify/otg/" name="OTG" description="OpenDocument 표준" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/cartoonify/odg/" name="ODG" description="Apache OpenOffice 그리기 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/cartoonify/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

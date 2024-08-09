@@ -71,7 +71,8 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
 
 {{% /blocks/products/pf/agp/text %}}
 
-- JDK 1.6 eller högre är installerat.
++ Operativsystem: Windows eller Linux.
++ Utvecklingsmiljö: Stöder .NET Core 7 och högre, såsom Microsoft Visual Studio.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

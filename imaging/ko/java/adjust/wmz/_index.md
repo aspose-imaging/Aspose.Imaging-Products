@@ -138,6 +138,7 @@ WMZ는 Windows Media Player에서 사용되는 스킨 파일 형식의 파일 �
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/adjust/cmx/" name="CMX" description="Corel 교환 이미지" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/adjust/otg/" name="OTG" description="OpenDocument 표준" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/adjust/odg/" name="ODG" description="Apache OpenOffice 그리기 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/adjust/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

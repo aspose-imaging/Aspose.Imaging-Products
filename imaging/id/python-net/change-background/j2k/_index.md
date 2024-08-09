@@ -120,6 +120,7 @@ File J2K adalah gambar yang dikompres menggunakan kompresi wavelet, bukan kompre
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/python-net/change-background/cmx/" name="CMX" description="Corel Exchange Gambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/python-net/change-background/otg/" name="OTG" description="Standar Dokumen Terbuka" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/python-net/change-background/odg/" name="ODG" description="Format Undian Apache OpenOffice" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/python-net/change-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -103,6 +103,7 @@ File J2K adalah gambar yang dikompres menggunakan kompresi wavelet, bukan kompre
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/dither/bmp/" name="BMP" description="Gambar Bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/dither/ico/" name="ICO" description="ikon Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/dither/jpg/" name="JPG" description="Kelompok Ahli Fotografi Bersama" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/dither/jpeg/" name="JPEG" description="Kelompok Ahli Fotografi Bersama" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/dither/dib/" name="DIB" description="Bitmap Independen Perangkat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/dither/dicom/" name="DICOM" description="Pencitraan & Komunikasi Digital" >}}

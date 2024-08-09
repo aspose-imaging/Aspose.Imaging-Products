@@ -56,9 +56,8 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/text %}}
 
--Microsoft Windows、または.NET Framework、.NET Core、Windowsアプリケーション、ASP.NETWebアプリケーションと互換性のあるOS。
--Microsoft VisualStudioのような開発環境。
--プロジェクトで参照されているAspose.Imagingfor.NET。
++ オペレーティング システム: Windows または Linux。
++ 開発環境: Microsoft Visual Studio などの .NET Core 7 以降をサポートします。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

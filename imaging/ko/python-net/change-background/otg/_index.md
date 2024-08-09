@@ -120,6 +120,7 @@ OTG 파일은 OASIS Office Applications 1.0 사양을 따르는 OpenDocument 표
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/python-net/change-background/cdr/" name="CDR" description="벡터 드로잉 이미지" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/python-net/change-background/cmx/" name="CMX" description="Corel 교환 이미지" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/python-net/change-background/odg/" name="ODG" description="Apache OpenOffice 그리기 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/python-net/change-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

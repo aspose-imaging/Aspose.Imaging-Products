@@ -104,6 +104,7 @@ ICO 파일 형식은 Microsoft Windows의 컴퓨터 아이콘에 대한 이미�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/dither/apng/" name="APNG" description="애니메이션 휴대용 네트워크 그래픽" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/dither/bmp/" name="BMP" description="비트맵 그림" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/dither/jpg/" name="JPG" description="공동 사진 전문가 그룹" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/dither/jpeg/" name="JPEG" description="공동 사진 전문가 그룹" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/dither/dib/" name="DIB" description="장치 독립 비트맵" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/dither/dicom/" name="DICOM" description="디지털 이미징 및 통신" >}}

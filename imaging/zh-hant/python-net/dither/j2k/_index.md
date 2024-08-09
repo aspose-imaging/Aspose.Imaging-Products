@@ -100,6 +100,7 @@ J2K 文件是使用小波壓縮而不是 DCT 壓縮壓縮的圖像。
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/dither/bmp/" name="BMP" description="位圖圖片" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/dither/ico/" name="ICO" description="窗口圖標" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/dither/jpg/" name="JPG" description="聯合攝影專家組" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/dither/jpeg/" name="JPEG" description="聯合攝影專家組" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/dither/dib/" name="DIB" description="設備無關位圖" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/dither/dicom/" name="DICOM" description="數碼影像與通訊" >}}

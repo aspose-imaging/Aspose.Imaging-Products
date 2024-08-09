@@ -108,6 +108,7 @@ Enhanced Metafile Format (EMF) speichert grafische Bilder geräteunabhängig. Me
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/python-net/grayscale/emz/" name="EMZ" description="Windows komprimierte erweiterte Metadatei" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/python-net/grayscale/gif/" name="GIF" description="Grafisches Austauschformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/python-net/grayscale/jp2/" name="JP2" description="JPEG2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/python-net/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/python-net/grayscale/j2k/" name="J2K" description="Wavelet-komprimiertes Bild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/python-net/grayscale/png/" name="PNG" description="Portable Netzwerkgrafiken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/python-net/grayscale/tiff/" name="TIFF" description="Markiertes Bildformat" >}}

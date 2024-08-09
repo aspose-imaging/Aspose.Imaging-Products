@@ -116,6 +116,7 @@ Failas su EMZ failo plėtiniu yra suspausto vaizdo failas, tiksliau vadinamas �
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/dither/bmp/" name="BMP" description="Bitmap paveikslėlis" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/dither/ico/" name="ICO" description="Windows piktograma" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/dither/jpg/" name="JPG" description="Jungtinė fotografijos ekspertų grupė" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/dither/jpeg/" name="JPEG" description="Jungtinė fotografijos ekspertų grupė" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/dither/dib/" name="DIB" description="Nuo įrenginio nepriklausomas bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/dither/dicom/" name="DICOM" description="Skaitmeninis vaizdas ir ryšiai" >}}

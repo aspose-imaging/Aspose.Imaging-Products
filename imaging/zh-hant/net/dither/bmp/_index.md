@@ -102,6 +102,7 @@ Aspose.Imaging API 是一種圖像處理解決方案，用於在應用程序中�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/dither/apng/" name="APNG" description="動畫便攜式網絡圖形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/dither/ico/" name="ICO" description="窗口圖標" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/dither/jpg/" name="JPG" description="聯合攝影專家組" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/dither/jpeg/" name="JPEG" description="聯合攝影專家組" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/dither/dib/" name="DIB" description="設備無關位圖" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/dither/dicom/" name="DICOM" description="數碼影像與通訊" >}}

@@ -109,6 +109,7 @@ PNG(Portable Network Graphics)는 무손실 압축을 사용하는 래스터 이
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/python-net/grayscale/emz/" name="EMZ" description="Windows 압축 확장 메타파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/python-net/grayscale/gif/" name="GIF" description="그래픽 교환 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/python-net/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/python-net/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/python-net/grayscale/j2k/" name="J2K" description="웨이블릿 압축 이미지" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/python-net/grayscale/tiff/" name="TIFF" description="태그가 지정된 이미지 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/python-net/grayscale/tif/" name="TIF" description="태그가 지정된 이미지 형식" >}}

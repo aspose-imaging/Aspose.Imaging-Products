@@ -99,6 +99,7 @@ Các tệp có phần mở rộng .BMP đại diện cho các tệp Hình ảnh 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/python-net/dither/apng/" name="APNG" description="Đồ họa mạng di động hoạt hình" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/python-net/dither/ico/" name="ICO" description="Biểu tượng Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/python-net/dither/jpg/" name="JPG" description="Nhóm chuyên gia nhiếp ảnh chung" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/python-net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/python-net/dither/jpeg/" name="JPEG" description="Nhóm chuyên gia nhiếp ảnh chung" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/python-net/dither/dib/" name="DIB" description="Bản đồ bit độc lập với thiết bị" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/python-net/dither/dicom/" name="DICOM" description="Hình ảnh & Truyền thông Kỹ thuật số" >}}

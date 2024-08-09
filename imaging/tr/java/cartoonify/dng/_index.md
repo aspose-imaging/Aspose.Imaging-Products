@@ -138,6 +138,7 @@ DNG, ham dosyaların depolanması için kullanılan bir dijital kamera görünt�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/cartoonify/cmx/" name="CMX" description="Corel Exchange Görüntüsü" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/cartoonify/otg/" name="OTG" description="OpenDocument Standardı" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/cartoonify/odg/" name="ODG" description="Apache OpenOffice Çizim Formatı" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/cartoonify/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

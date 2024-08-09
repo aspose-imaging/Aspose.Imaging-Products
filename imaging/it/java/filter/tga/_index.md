@@ -133,6 +133,7 @@ Truevision TGA, spesso indicato come TARGA, è un formato di file di grafica ras
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/filter/wmf/" name="WMF" description="Metafile di Microsoft Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/filter/wmz/" name="WMZ" description="Skin compressa di Windows Media Player" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/filter/svg/" name="SVG" description="Grafica vettoriale scalabile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/filter/eps/" name="EPS" description="Linguaggio PostScript incapsulato" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/filter/cdr/" name="CDR" description="Immagine di disegno vettoriale" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/filter/cmx/" name="CMX" description="Immagine di scambio di Corel" >}}

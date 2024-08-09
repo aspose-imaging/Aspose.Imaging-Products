@@ -134,6 +134,7 @@ Les fichiers avec l'extension EPS décrivent essentiellement un programme de lan
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/filter/wmz/" name="WMZ" description="Skin du lecteur Windows Media compressé" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/filter/tga/" name="TGA" description="Graphique Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/filter/svg/" name="SVG" description="Image Vectorielle" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/filter/cdr/" name="CDR" description="Image de dessin vectoriel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/filter/cmx/" name="CMX" description="Image d'échange Corel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/filter/otg/" name="OTG" description="Norme OpenDocument" >}}

@@ -57,9 +57,8 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows oder ein kompatibles Betriebssystem mit .NET Framework, .NET Core, Windows-Anwendung, ASP.NET-Webanwendung.
-- Entwicklungsumgebung wie Microsoft Visual Studio.
-- Aspose.Imaging für .NET, auf das in Ihrem Projekt verwiesen wird.
++ Betriebssystem: Windows oder Linux.
++ Entwicklungsumgebung: Unterstützt .NET Core 7 und höher, z. B. Microsoft Visual Studio.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -126,6 +126,7 @@ WMZ เป็นนามสกุลไฟล์สำหรับรูปแ�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/net/adjust/cmx/" name="CMX" description="รูปภาพ Corel Exchange" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/net/adjust/otg/" name="OTG" description="มาตรฐาน OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/net/adjust/odg/" name="ODG" description="รูปแบบการวาด Apache OpenOffice" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/net/adjust/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

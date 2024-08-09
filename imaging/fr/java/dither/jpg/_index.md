@@ -115,6 +115,7 @@ Un JPEG est un type de format d'image enregistré à l'aide de la méthode de co
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/dither/apng/" name="APNG" description="Graphiques de réseau portables animés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/dither/bmp/" name="BMP" description="Image bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/dither/ico/" name="ICO" description="Icône Windows" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/dither/jpeg/" name="JPEG" description="Groupe mixte d'experts photographiques" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/dither/dib/" name="DIB" description="Bitmap indépendant du périphérique" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/dither/dicom/" name="DICOM" description="Imagerie numérique et communications" >}}

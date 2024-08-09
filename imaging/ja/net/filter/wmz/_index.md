@@ -120,6 +120,7 @@ WMZは、Windows MediaPlayerで使用される/使用される/使用される�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/filter/wmf/" name="WMF" description="MicrosoftWindowsメタファイル" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/filter/tga/" name="TGA" description="タルガグラフィック" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/filter/svg/" name="SVG" description="スケーラブルベクターグラフィックス" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/filter/eps/" name="EPS" description="カプセル化されたPostScript言語" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/filter/cdr/" name="CDR" description="ベクトル描画画像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/filter/cmx/" name="CMX" description="CorelExchangeイメージ" >}}

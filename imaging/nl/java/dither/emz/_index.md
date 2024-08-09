@@ -116,6 +116,7 @@ Een bestand met de EMZ-bestandsextensie is een gecomprimeerd afbeeldingsbestand,
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/dither/bmp/" name="BMP" description="Bitmapafbeelding" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/dither/ico/" name="ICO" description="Windows-pictogram" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/dither/jpg/" name="JPG" description="Joint Photographic Experts Group" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/dither/jpeg/" name="JPEG" description="Joint Photographic Experts Group" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/dither/dib/" name="DIB" description="Apparaatonafhankelijke bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/dither/dicom/" name="DICOM" description="Digitale beeldvorming en communicatie" >}}

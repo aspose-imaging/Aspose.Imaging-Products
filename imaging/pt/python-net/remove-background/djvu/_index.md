@@ -120,6 +120,7 @@ DjVu, pronunciado como DJVU, é um formato de arquivo gráfico destinado a docum
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/python-net/remove-background/cmx/" name="CMX" description="Imagem do Corel Exchange" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/python-net/remove-background/otg/" name="OTG" description="Padrão OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/python-net/remove-background/odg/" name="ODG" description="Formato de desenho do Apache OpenOffice" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/python-net/remove-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

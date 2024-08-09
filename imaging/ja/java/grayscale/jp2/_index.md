@@ -124,6 +124,7 @@ JPEG 2000（JP2）は、画像コーディングシステムであり、最先�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/grayscale/emf/" name="EMF" description="強化されたメタファイル形式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/grayscale/emz/" name="EMZ" description="Windows圧縮拡張メタファイル" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/grayscale/gif/" name="GIF" description="グラフィカルな交換形式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/grayscale/j2k/" name="J2K" description="ウェーブレット圧縮画像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/grayscale/png/" name="PNG" description="ポータブルネットワークグラフィックス" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/grayscale/tiff/" name="TIFF" description="タグ付き画像形式" >}}

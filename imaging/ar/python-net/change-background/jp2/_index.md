@@ -120,6 +120,7 @@ JPEG 2000 (JP2) هو نظام ترميز للصور وأحدث معايير ضغ
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/python-net/change-background/cmx/" name="CMX" description="كوريل تبادل الصورة" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/python-net/change-background/otg/" name="OTG" description="معيار OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/python-net/change-background/odg/" name="ODG" description="تنسيق رسم Apache OpenOffice" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/python-net/change-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

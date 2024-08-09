@@ -116,6 +116,7 @@ En DIB-fil (Device Independent Bitmap) är en rasterbildsfil som i struktur likn
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/java/dither/bmp/" name="BMP" description="Bitmap bild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/java/dither/ico/" name="ICO" description="Windows-ikonen" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/java/dither/jpg/" name="JPG" description="Förenade Fotografers Expert Grupp" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/java/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/java/dither/jpeg/" name="JPEG" description="Förenade Fotografers Expert Grupp" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/java/dither/dicom/" name="DICOM" description="Digital bildbehandling och kommunikation" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/java/dither/djvu/" name="DJVU" description="Grafikformat" >}}

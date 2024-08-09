@@ -134,6 +134,7 @@ Aspose.Imaging API अनुप्रयोगों के भीतर छव�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/filter/wmz/" name="WMZ" description="संपीड़ित विंडोज मीडिया प्लेयर त्वचा" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/filter/tga/" name="TGA" description="टार्गा ग्राफिक" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/filter/svg/" name="SVG" description="स्केलेबल वेक्टर ग्राफिक्स" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/filter/cdr/" name="CDR" description="वेक्टर ड्राइंग छवि" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/filter/cmx/" name="CMX" description="कोरल एक्सचेंज इमेज" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/filter/otg/" name="OTG" description="OpenDocument मानक" >}}

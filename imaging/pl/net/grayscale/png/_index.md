@@ -114,6 +114,7 @@ PNG, Portable Network Graphics, odnosi się do formatu pliku obrazu rastrowego, 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/grayscale/emz/" name="EMZ" description="Rozszerzony metaplik skompresowany w systemie Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/grayscale/gif/" name="GIF" description="Graficzny format wymiany" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/grayscale/j2k/" name="J2K" description="Skompresowany obraz falkowy" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/grayscale/tiff/" name="TIFF" description="Oznaczony format obrazu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/grayscale/tif/" name="TIF" description="Oznaczony format obrazu" >}}

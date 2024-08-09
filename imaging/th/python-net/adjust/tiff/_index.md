@@ -122,6 +122,7 @@ TIFF หรือ TIF ซึ่งเป็นรูปแบบไฟล์ภ�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/python-net/adjust/cmx/" name="CMX" description="รูปภาพ Corel Exchange" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/python-net/adjust/otg/" name="OTG" description="มาตรฐาน OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/python-net/adjust/odg/" name="ODG" description="รูปแบบการวาด Apache OpenOffice" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/python-net/adjust/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

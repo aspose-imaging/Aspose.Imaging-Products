@@ -125,6 +125,7 @@ Pliki o rozszerzeniu .BMP reprezentują pliki obrazów bitmapowych, które są u
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/remove-background/cmx/" name="CMX" description="Obraz wymiany firmy Corel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/remove-background/otg/" name="OTG" description="Standard OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/remove-background/odg/" name="ODG" description="Apache OpenOffice Draw format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/remove-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

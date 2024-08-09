@@ -124,6 +124,7 @@ JPEG 2000 (JP2) is een beeldcoderingssysteem en de modernste beeldcompressiestan
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/grayscale/emf/" name="EMF" description="Verbeterde metabestandsindeling" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/grayscale/emz/" name="EMZ" description="Windows gecomprimeerd verbeterd metabestand" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/grayscale/gif/" name="GIF" description="Grafisch uitwisselingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/grayscale/j2k/" name="J2K" description="Wavelet gecomprimeerde afbeelding" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/grayscale/png/" name="PNG" description="Draagbare netwerkgrafieken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/grayscale/tiff/" name="TIFF" description="Gelabelde afbeeldingsindeling" >}}

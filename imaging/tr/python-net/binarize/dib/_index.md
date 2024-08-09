@@ -122,6 +122,7 @@ Bir DIB (Aygıttan Bağımsız Bitmap) dosyası, yapı olarak standart Bitmap do
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/python-net/binarize/cmx/" name="CMX" description="Corel Exchange Görüntüsü" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/python-net/binarize/otg/" name="OTG" description="OpenDocument Standardı" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/python-net/binarize/odg/" name="ODG" description="Apache OpenOffice Çizim Formatı" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/python-net/binarize/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

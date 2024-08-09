@@ -122,6 +122,7 @@ Dateien mit der Erweiterung EPS beschreiben im Wesentlichen ein Encapsulated Pos
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/filter/wmz/" name="WMZ" description="Komprimierte Windows Media Player-Skin" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/filter/tga/" name="TGA" description="Targa-Grafik" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/filter/svg/" name="SVG" description="Skalierbare Vektorgrafiken" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/filter/cdr/" name="CDR" description="Vektor-Zeichenbild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/filter/cmx/" name="CMX" description="Corel Exchange-Bild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/filter/otg/" name="OTG" description="OpenDocument-Standard" >}}

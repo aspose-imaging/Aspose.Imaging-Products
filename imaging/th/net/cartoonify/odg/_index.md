@@ -126,6 +126,7 @@ Aspose.Imaging API เป็นโซลูชันการประมวล�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/net/cartoonify/cdr/" name="CDR" description="วาดภาพเวกเตอร์" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/net/cartoonify/cmx/" name="CMX" description="รูปภาพ Corel Exchange" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/net/cartoonify/otg/" name="OTG" description="มาตรฐาน OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/net/cartoonify/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

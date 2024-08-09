@@ -58,9 +58,8 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows lub kompatybilny system operacyjny z .NET Framework, .NET Core, Windows Application, ASP.NET Web Application.
-- Środowisko programistyczne, takie jak Microsoft Visual Studio.
-- Aspose.Imaging dla platformy .NET, do której odwołuje się Twój projekt.
++ System operacyjny: Windows lub Linux.
++ Środowisko programistyczne: obsługuje .NET Core 7 i nowsze wersje, takie jak Microsoft Visual Studio.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -122,6 +122,7 @@ Filer med CMX-tillägget är Corel Exchange-bildfilformat som används som prese
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/python-net/binarize/cdr/" name="CDR" description="Vektor Ritning Bild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/python-net/binarize/otg/" name="OTG" description="OpenDocument Standard" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/python-net/binarize/odg/" name="ODG" description="Apache OpenOffice ritformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/python-net/binarize/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

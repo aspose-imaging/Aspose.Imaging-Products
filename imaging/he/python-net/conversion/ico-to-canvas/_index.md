@@ -54,8 +54,8 @@ description: כיצד להשתמש ב-Python עבור המרת תמונות ות
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows / Linux עם .NET Core Runtime.
-- מנהל חבילות Python ו- PyPi.
++ מערכת הפעלה: ווינדוס או לינוקס.
++ סביבת פיתוח: תומך ב-.NET Core 7 ומעלה, כגון Microsoft Visual Studio.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -120,6 +120,7 @@ Eine OTG-Datei ist eine Zeichnungsvorlage, die mit dem OpenDocument-Standard ers
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/python-net/remove-background/cdr/" name="CDR" description="Vektor-Zeichenbild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/python-net/remove-background/cmx/" name="CMX" description="Corel Exchange-Bild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/python-net/remove-background/odg/" name="ODG" description="Apache OpenOffice Draw-Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/python-net/remove-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

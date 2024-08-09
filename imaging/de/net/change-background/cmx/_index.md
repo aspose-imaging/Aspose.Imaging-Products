@@ -124,6 +124,7 @@ Dateien mit der Erweiterung CMX sind Corel Exchange-Bilddateiformate, die von Co
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/change-background/cdr/" name="CDR" description="Vektor-Zeichenbild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/change-background/otg/" name="OTG" description="OpenDocument-Standard" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/change-background/odg/" name="ODG" description="Apache OpenOffice Draw-Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/change-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

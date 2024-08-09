@@ -138,6 +138,7 @@ Soubor OTG je šablona výkresu vytvořená pomocí standardu OpenDocument podle
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/java/cartoonify/cdr/" name="CDR" description="Vektorové Kreslení Obrázek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/java/cartoonify/cmx/" name="CMX" description="Obrázek Corel Exchange" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/java/cartoonify/odg/" name="ODG" description="Formát Apache OpenOffice Draw" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/java/cartoonify/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -120,6 +120,7 @@ Soubor CDR je soubor s obrázkem vektorové kresby, který je nativně vytvořen
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/python-net/remove-background/cmx/" name="CMX" description="Obrázek Corel Exchange" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/python-net/remove-background/otg/" name="OTG" description="OpenDocument Standard" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/python-net/remove-background/odg/" name="ODG" description="Formát Apache OpenOffice Draw" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/python-net/remove-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

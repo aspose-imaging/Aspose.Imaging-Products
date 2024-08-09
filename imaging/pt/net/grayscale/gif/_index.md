@@ -113,6 +113,7 @@ Um GIF ou Graphical Interchange Format é um tipo de imagem altamente compactada
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/grayscale/emf/" name="EMF" description="Formato de metarquivo aprimorado" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/grayscale/emz/" name="EMZ" description="Meta-arquivo aprimorado compactado do Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/grayscale/j2k/" name="J2K" description="Imagem Comprimida Wavelet" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/grayscale/png/" name="PNG" description="Gráficos Portáteis de Rede" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/grayscale/tiff/" name="TIFF" description="Formato de imagem marcada" >}}

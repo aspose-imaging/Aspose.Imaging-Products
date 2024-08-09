@@ -188,6 +188,7 @@ SVG的转换过程是一样的，加载SVG文件，使用相关的图片保存�
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/from/otg/" style="padding:15px;">转换自 OTG</a></div>
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/from/odg/" style="padding:15px;">转换自 ODG</a></div>
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/from/ico/" style="padding:15px;">转换自 ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/from/avif/" style="padding:15px;">转换自 AVIF</a></div>
                 </div>
         </div>
     </div>

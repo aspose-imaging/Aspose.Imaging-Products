@@ -136,6 +136,7 @@ Das ICO-Dateiformat ist ein Bilddateiformat für Computersymbole in Microsoft Wi
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/change-background/cmx/" name="CMX" description="Corel Exchange-Bild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/change-background/otg/" name="OTG" description="OpenDocument-Standard" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/change-background/odg/" name="ODG" description="Apache OpenOffice Draw-Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/change-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -136,6 +136,7 @@ PNG หรือ Portable Network Graphics หมายถึงรูปแบ�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/java/change-background/cmx/" name="CMX" description="รูปภาพ Corel Exchange" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/java/change-background/otg/" name="OTG" description="มาตรฐาน OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/java/change-background/odg/" name="ODG" description="รูปแบบการวาด Apache OpenOffice" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/java/change-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

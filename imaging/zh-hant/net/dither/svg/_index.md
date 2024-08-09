@@ -103,6 +103,7 @@ SVG 文件是使用基於 XML 的文本格式來描述圖像外觀的可縮放�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/dither/bmp/" name="BMP" description="位圖圖片" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/dither/ico/" name="ICO" description="窗口圖標" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/dither/jpg/" name="JPG" description="聯合攝影專家組" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/dither/jpeg/" name="JPEG" description="聯合攝影專家組" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/dither/dib/" name="DIB" description="設備無關位圖" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/dither/dicom/" name="DICOM" description="數碼影像與通訊" >}}

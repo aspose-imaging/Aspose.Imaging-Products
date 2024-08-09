@@ -125,6 +125,7 @@ Pliki z rozszerzeniem WMF reprezentują Microsoft Windows Metafile (WMF) do prze
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/grayscale/emz/" name="EMZ" description="Rozszerzony metaplik skompresowany w systemie Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/grayscale/gif/" name="GIF" description="Graficzny format wymiany" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/grayscale/j2k/" name="J2K" description="Skompresowany obraz falkowy" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/grayscale/png/" name="PNG" description="Przenośna Grafika Sieciowa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/grayscale/tiff/" name="TIFF" description="Oznaczony format obrazu" >}}

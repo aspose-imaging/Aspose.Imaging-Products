@@ -188,6 +188,7 @@ SVG の変換プロセスは同じです。SVG ファイルを読み込み、関
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/from/otg/" style="padding:15px;">変換元 OTG</a></div>
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/from/odg/" style="padding:15px;">変換元 ODG</a></div>
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/from/ico/" style="padding:15px;">変換元 ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/from/avif/" style="padding:15px;">変換元 AVIF</a></div>
                 </div>
         </div>
     </div>

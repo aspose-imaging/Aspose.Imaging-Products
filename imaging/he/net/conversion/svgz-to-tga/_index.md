@@ -57,9 +57,8 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows או מערכת הפעלה תואמת עם .NET Framework, .NET Core, Windows Application, ASP.NET Web Application.
-- סביבת פיתוח כמו Microsoft Visual Studio.
-- Aspose.Imaging עבור .NET שמוזכר בפרויקט שלך.
++ מערכת הפעלה: ווינדוס או לינוקס.
++ סביבת פיתוח: תומך ב-.NET Core 7 ומעלה, כגון Microsoft Visual Studio.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

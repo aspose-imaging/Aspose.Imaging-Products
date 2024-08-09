@@ -105,6 +105,7 @@ Aspose.Imaging API — это решение для обработки изоб�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/dither/bmp/" name="BMP" description="Растровое изображение" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/dither/ico/" name="ICO" description="Значок Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/dither/jpg/" name="JPG" description="Объединенная группа экспертов по фотографии" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/dither/jpeg/" name="JPEG" description="Объединенная группа экспертов по фотографии" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/dither/dicom/" name="DICOM" description="Цифровая визуализация и связь" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/dither/djvu/" name="DJVU" description="Графический формат" >}}

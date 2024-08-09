@@ -138,6 +138,7 @@ Truevision TGA ، الذي يشار إليه غالبًا باسم TARGA ، هو
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/java/cartoonify/cmx/" name="CMX" description="كوريل تبادل الصورة" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/java/cartoonify/otg/" name="OTG" description="معيار OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/java/cartoonify/odg/" name="ODG" description="تنسيق رسم Apache OpenOffice" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/java/cartoonify/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -124,6 +124,7 @@ Aspose.Imaging API अनुप्रयोगों के भीतर छव�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/grayscale/emf/" name="EMF" description="उन्नत मेटाफ़ाइल प्रारूप" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/grayscale/emz/" name="EMZ" description="विंडोज कम्प्रेस्ड एन्हांस्ड मेटाफाइल" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/grayscale/jp2/" name="JP2" description="जेपीईजी 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/grayscale/j2k/" name="J2K" description="तरंगिका संपीड़ित छवि" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/grayscale/png/" name="PNG" description="पोर्टेबल नेटवर्क ग्राफ़िक्स" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/grayscale/tiff/" name="TIFF" description="टैग की गई छवि प्रारूप" >}}

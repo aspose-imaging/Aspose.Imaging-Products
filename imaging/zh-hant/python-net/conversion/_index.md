@@ -188,6 +188,7 @@ SVG 圖像的轉換是一樣的，加載 SVG 圖像，使用所需的圖像保�
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/from/otg/" style="padding:15px;">轉換自 OTG</a></div>
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/from/odg/" style="padding:15px;">轉換自 ODG</a></div>
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/from/ico/" style="padding:15px;">轉換自 ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/from/avif/" style="padding:15px;">轉換自 AVIF</a></div>
                 </div>
         </div>
     </div>

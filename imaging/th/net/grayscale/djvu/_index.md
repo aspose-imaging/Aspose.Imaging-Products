@@ -112,6 +112,7 @@ DjVu ออกเสียงว่า DJVU รูปแบบไฟล์กร
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/net/grayscale/emz/" name="EMZ" description="Windows บีบอัด Metafile ที่ปรับปรุงแล้ว" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/net/grayscale/gif/" name="GIF" description="รูปแบบการแลกเปลี่ยนกราฟิก" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/net/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/net/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/net/grayscale/j2k/" name="J2K" description="ภาพบีบอัดเวฟเล็ต" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/net/grayscale/png/" name="PNG" description="กราฟิกเครือข่ายแบบพกพา" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/net/grayscale/tiff/" name="TIFF" description="รูปแบบภาพที่ติดแท็ก" >}}

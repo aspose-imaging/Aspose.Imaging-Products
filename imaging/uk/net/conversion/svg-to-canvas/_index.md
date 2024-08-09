@@ -57,9 +57,8 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows або сумісна ОС із .NET Framework, .NET Core, Windows Application, ASP.NET Web Application.
-- Середовище розробки, наприклад Microsoft Visual Studio.
-- Aspose.Imaging для .NET, згаданий у вашому проекті.
++ Операційна система: Windows або Linux.
++ Середовище розробки: підтримує .NET Core 7 і вище, наприклад Microsoft Visual Studio.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -54,8 +54,8 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows / Linux met .NET Core Runtime.
-- Python en PyPi pakketbeheerder.
++ Besturingssysteem: Windows of Linux.
++ Ontwikkelomgeving: Ondersteunt .NET Core 7 en hoger, zoals Microsoft Visual Studio.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

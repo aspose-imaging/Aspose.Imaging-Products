@@ -133,6 +133,7 @@ TIFF или TIF, Tagged Image File Format, представляет собой �
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/filter/wmz/" name="WMZ" description="Сжатая оболочка проигрывателя Windows Media" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/filter/tga/" name="TGA" description="Тарга Графика" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/filter/svg/" name="SVG" description="Масштабируемая векторная графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/filter/eps/" name="EPS" description="Инкапсулированный язык PostScript" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/filter/cdr/" name="CDR" description="Векторный рисунок изображения" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/filter/cmx/" name="CMX" description="Обмен изображениями Corel" >}}

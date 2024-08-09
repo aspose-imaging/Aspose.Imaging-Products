@@ -122,6 +122,7 @@ WMZ — это расширение файла для формата файла 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/python-net/binarize/cmx/" name="CMX" description="Обмен изображениями Corel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/python-net/binarize/otg/" name="OTG" description="Стандарт OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/python-net/binarize/odg/" name="ODG" description="Формат отрисовки Apache OpenOffice" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/python-net/binarize/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -116,6 +116,7 @@ DICOM은 Digital Imaging and Communications in Medicine의 약자로 의료 정�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/dither/bmp/" name="BMP" description="비트맵 그림" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/dither/ico/" name="ICO" description="윈도우 아이콘" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/dither/jpg/" name="JPG" description="공동 사진 전문가 그룹" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/dither/jpeg/" name="JPEG" description="공동 사진 전문가 그룹" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/dither/dib/" name="DIB" description="장치 독립 비트맵" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/dither/djvu/" name="DJVU" description="그래픽 형식" >}}

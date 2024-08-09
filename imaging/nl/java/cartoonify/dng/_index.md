@@ -138,6 +138,7 @@ DNG is een beeldformaat voor digitale camera's dat wordt gebruikt voor de opslag
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/cartoonify/cmx/" name="CMX" description="Corel Exchange-afbeelding" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/cartoonify/otg/" name="OTG" description="OpenDocument-standaard" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/cartoonify/odg/" name="ODG" description="Apache OpenOffice Draw-indeling" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/cartoonify/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

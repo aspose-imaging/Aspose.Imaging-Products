@@ -188,6 +188,7 @@ A continuación se presenta una lista completa de los formatos de imagen a los q
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/from/otg/" style="padding:15px;">Convertir desde OTG</a></div>
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/from/odg/" style="padding:15px;">Convertir desde ODG</a></div>
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/from/ico/" style="padding:15px;">Convertir desde ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/from/avif/" style="padding:15px;">Convertir desde AVIF</a></div>
                 </div>
         </div>
     </div>

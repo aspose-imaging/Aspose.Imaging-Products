@@ -122,6 +122,7 @@ WMZ는 Windows Media Player에서 사용되는 스킨 파일 형식의 파일 �
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/filter/wmf/" name="WMF" description="마이크로소프트 윈도우 메타파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/filter/tga/" name="TGA" description="타르가 그래픽" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/filter/svg/" name="SVG" description="확장 가능한 벡터 그래픽" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/filter/eps/" name="EPS" description="캡슐화된 포스트스크립트 언어" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/filter/cdr/" name="CDR" description="벡터 드로잉 이미지" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/filter/cmx/" name="CMX" description="Corel 교환 이미지" >}}

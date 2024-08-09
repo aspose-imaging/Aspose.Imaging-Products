@@ -102,6 +102,7 @@ Aspose.Imaging API هو حل لمعالجة الصور لإنشاء أو تعد�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/net/dither/bmp/" name="BMP" description="صورة نقطية" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/net/dither/ico/" name="ICO" description="رمز Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/net/dither/jpg/" name="JPG" description="مجموعة خبراء التصوير المشتركة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/net/dither/jpeg/" name="JPEG" description="مجموعة خبراء التصوير المشتركة" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/net/dither/dicom/" name="DICOM" description="التصوير الرقمي والاتصالات" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/net/dither/djvu/" name="DJVU" description="تنسيق الرسومات" >}}

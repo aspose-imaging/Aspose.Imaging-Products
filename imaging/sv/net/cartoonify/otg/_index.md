@@ -126,6 +126,7 @@ En OTG-fil är en ritmall som skapas med OpenDocument-standarden som följer OAS
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/net/cartoonify/cdr/" name="CDR" description="Vektor Ritning Bild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/net/cartoonify/cmx/" name="CMX" description="Corel Exchange-bild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/net/cartoonify/odg/" name="ODG" description="Apache OpenOffice ritformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/net/cartoonify/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

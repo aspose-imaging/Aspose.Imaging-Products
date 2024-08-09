@@ -125,6 +125,7 @@ Um arquivo J2K é uma imagem compactada usando a compactação wavelet em vez da
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/grayscale/emz/" name="EMZ" description="Meta-arquivo aprimorado compactado do Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/grayscale/gif/" name="GIF" description="Formato de intercâmbio gráfico" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/grayscale/png/" name="PNG" description="Gráficos Portáteis de Rede" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/grayscale/tiff/" name="TIFF" description="Formato de imagem marcada" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/grayscale/tif/" name="TIF" description="Formato de imagem marcada" >}}

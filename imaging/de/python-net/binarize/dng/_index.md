@@ -122,6 +122,7 @@ DNG ist ein Bildformat für Digitalkameras, das zum Speichern von Rohdateien ver
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/python-net/binarize/cmx/" name="CMX" description="Corel Exchange-Bild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/python-net/binarize/otg/" name="OTG" description="OpenDocument-Standard" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/python-net/binarize/odg/" name="ODG" description="Apache OpenOffice Draw-Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/python-net/binarize/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

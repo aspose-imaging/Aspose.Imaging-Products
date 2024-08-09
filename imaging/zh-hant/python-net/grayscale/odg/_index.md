@@ -109,6 +109,7 @@ Apache OpenOffice 的 Draw 應用程序使用 ODG 文件格式將繪圖元素存
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/grayscale/emz/" name="EMZ" description="Windows 壓縮增強元文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/grayscale/gif/" name="GIF" description="圖形交換格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/grayscale/j2k/" name="J2K" description="小波壓縮圖像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/grayscale/png/" name="PNG" description="便攜式網絡圖形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/grayscale/tiff/" name="TIFF" description="標記圖像格式" >}}

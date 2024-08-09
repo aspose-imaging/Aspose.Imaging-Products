@@ -122,6 +122,7 @@ Bir OTG dosyası, OASIS Office Applications 1.0 spesifikasyonunu izleyen OpenDoc
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/python-net/cartoonify/cdr/" name="CDR" description="Vektör Çizim Görüntüsü" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/python-net/cartoonify/cmx/" name="CMX" description="Corel Exchange Görüntüsü" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/python-net/cartoonify/odg/" name="ODG" description="Apache OpenOffice Çizim Formatı" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/python-net/cartoonify/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

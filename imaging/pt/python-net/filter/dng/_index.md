@@ -117,6 +117,7 @@ DNG é um formato de imagem de câmera digital usado para o armazenamento de arq
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/python-net/filter/wmz/" name="WMZ" description="Skin compactada do Windows Media Player" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/python-net/filter/tga/" name="TGA" description="Gráfico Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/python-net/filter/svg/" name="SVG" description="Gráficos vetoriais escalonáveis" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/python-net/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/python-net/filter/eps/" name="EPS" description="Linguagem PostScript Encapsulada" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/python-net/filter/cdr/" name="CDR" description="Imagem de desenho vetorial" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/python-net/filter/cmx/" name="CMX" description="Imagem do Corel Exchange" >}}

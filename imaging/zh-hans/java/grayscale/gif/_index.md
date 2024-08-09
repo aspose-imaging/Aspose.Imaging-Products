@@ -125,6 +125,7 @@ GIF 或图形交换格式是一种高度压缩的图像。 GIF 由 Unisys 拥有
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/grayscale/emf/" name="EMF" description="增强的元文件格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/grayscale/emz/" name="EMZ" description="Windows 压缩增强元文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/grayscale/j2k/" name="J2K" description="小波压缩图像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/grayscale/png/" name="PNG" description="便携式网络图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/grayscale/tiff/" name="TIFF" description="标记图像格式" >}}

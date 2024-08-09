@@ -115,6 +115,7 @@ JPEG là một loại định dạng hình ảnh được lưu bằng phương p
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/dither/apng/" name="APNG" description="Đồ họa mạng di động hoạt hình" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/dither/bmp/" name="BMP" description="Ảnh bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/dither/ico/" name="ICO" description="Biểu tượng Windows" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/dither/jpeg/" name="JPEG" description="Nhóm chuyên gia nhiếp ảnh chung" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/dither/dib/" name="DIB" description="Bản đồ bit độc lập với thiết bị" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/dither/dicom/" name="DICOM" description="Hình ảnh & Truyền thông Kỹ thuật số" >}}

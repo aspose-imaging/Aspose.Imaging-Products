@@ -123,6 +123,7 @@ Tệp CDR là tệp hình ảnh bản vẽ vectơ được tạo nguyên bản b
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/filter/wmz/" name="WMZ" description="Giao diện Windows Media Player được nén" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/filter/tga/" name="TGA" description="Đồ họa Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/filter/svg/" name="SVG" description="Đồ họa vector có thể mở rộng" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/filter/eps/" name="EPS" description="Ngôn ngữ PostScript được đóng gói" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/filter/cmx/" name="CMX" description="Hình ảnh trao đổi Corel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/filter/otg/" name="OTG" description="Tiêu chuẩn OpenDocument" >}}

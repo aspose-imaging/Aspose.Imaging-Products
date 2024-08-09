@@ -133,6 +133,7 @@ O formato de arquivo ICO é um formato de arquivo de imagem para ícones de comp
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/filter/wmz/" name="WMZ" description="Skin compactada do Windows Media Player" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/filter/tga/" name="TGA" description="Gráfico Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/filter/svg/" name="SVG" description="Gráficos vetoriais escalonáveis" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/filter/eps/" name="EPS" description="Linguagem PostScript Encapsulada" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/filter/cdr/" name="CDR" description="Imagem de desenho vetorial" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/filter/cmx/" name="CMX" description="Imagem do Corel Exchange" >}}

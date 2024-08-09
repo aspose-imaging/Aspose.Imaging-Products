@@ -133,6 +133,7 @@ DICOM to skrót od Digital Imaging and Communications in Medicine i odnosi się 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/filter/wmz/" name="WMZ" description="Skompresowana skórka Windows Media Player" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/filter/tga/" name="TGA" description="Targa grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/filter/svg/" name="SVG" description="Skalowalna Grafika wektorowa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/filter/eps/" name="EPS" description="Enkapsulowany język PostScript" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/filter/cdr/" name="CDR" description="Obraz rysunku wektorowego" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/filter/cmx/" name="CMX" description="Obraz wymiany firmy Corel" >}}

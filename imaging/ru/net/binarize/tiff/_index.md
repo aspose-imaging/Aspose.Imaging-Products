@@ -127,6 +127,7 @@ TIFF или TIF, Tagged Image File Format, представляет собой �
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/binarize/cmx/" name="CMX" description="Обмен изображениями Corel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/binarize/otg/" name="OTG" description="Стандарт OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/binarize/odg/" name="ODG" description="Формат отрисовки Apache OpenOffice" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/binarize/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -122,6 +122,7 @@ DICOM — это аббревиатура от Digital Imaging and Communication
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/python-net/adjust/cmx/" name="CMX" description="Обмен изображениями Corel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/python-net/adjust/otg/" name="OTG" description="Стандарт OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/python-net/adjust/odg/" name="ODG" description="Формат отрисовки Apache OpenOffice" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/python-net/adjust/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -122,6 +122,7 @@ JPEG 2000 (JP2) est un système de codage d'image et une norme de compression d'
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/filter/wmz/" name="WMZ" description="Skin du lecteur Windows Media compressé" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/filter/tga/" name="TGA" description="Graphique Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/filter/svg/" name="SVG" description="Image Vectorielle" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/filter/eps/" name="EPS" description="Langage PostScript encapsulé" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/filter/cdr/" name="CDR" description="Image de dessin vectoriel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/filter/cmx/" name="CMX" description="Image d'échange Corel" >}}

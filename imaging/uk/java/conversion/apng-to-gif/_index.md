@@ -71,7 +71,8 @@ description: Зразок коду для перетворення APNG у GIF J
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Встановлено JDK 1.6 або вище.
++ Операційна система: Windows або Linux.
++ Середовище розробки: підтримує .NET Core 7 і вище, наприклад Microsoft Visual Studio.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -116,6 +116,7 @@ ODG dosya formatı, çizim öğelerini bir vektör görüntüsü olarak depolama
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/dither/bmp/" name="BMP" description="Bitmap Resmi" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/dither/ico/" name="ICO" description="Windows simgesi" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/dither/jpg/" name="JPG" description="Birleşmiş Fotoğraf Uzmanları Grubu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/dither/jpeg/" name="JPEG" description="Birleşmiş Fotoğraf Uzmanları Grubu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/dither/dib/" name="DIB" description="Cihazdan Bağımsız Bit Eşlem" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/dither/dicom/" name="DICOM" description="Dijital Görüntüleme ve İletişim" >}}

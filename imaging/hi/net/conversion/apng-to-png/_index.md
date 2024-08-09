@@ -57,9 +57,8 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/text %}}
 
-- माइक्रोसॉफ्ट विंडोज या .NET फ्रेमवर्क, .NET कोर, विंडोज एप्लीकेशन, एएसपी.नेट वेब एप्लीकेशन के साथ संगत ओएस।
-- माइक्रोसॉफ्ट विजुअल स्टूडियो जैसे विकास का माहौल।
-- Aspose.Imaging for .NET आपके प्रोजेक्ट में संदर्भित है।
++ ऑपरेटिंग सिस्टम: विंडोज़ या लिनक्स।
++ विकास वातावरण: .NET Core 7 और उच्चतर का समर्थन करता है, जैसे कि Microsoft Visual Studio।
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

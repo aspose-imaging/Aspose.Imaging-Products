@@ -100,6 +100,7 @@ The ODG file format is used by Apache OpenOffice's Draw application to store dra
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/python-net/dither/bmp/" name="BMP" description="Bitmap Picture" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/python-net/dither/ico/" name="ICO" description="Windows icon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/python-net/dither/jpg/" name="JPG" description="Joint Photographic Experts Group" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/python-net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/python-net/dither/jpeg/" name="JPEG" description="Joint Photographic Experts Group" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/python-net/dither/dib/" name="DIB" description="Device Independent Bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/python-net/dither/dicom/" name="DICOM" description="Digital Imaging & Communications" >}}

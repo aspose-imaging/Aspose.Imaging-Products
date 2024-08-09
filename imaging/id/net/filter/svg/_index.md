@@ -120,6 +120,7 @@ File SVG adalah File Grafik Vektor Scalable yang menggunakan format teks berbasi
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/filter/wmf/" name="WMF" description="Metafile Microsoft Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/filter/wmz/" name="WMZ" description="Kulit Windows Media Player Terkompresi" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/filter/tga/" name="TGA" description="Grafis Targa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/filter/eps/" name="EPS" description="Bahasa PostScript Terenkapsulasi" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/filter/cdr/" name="CDR" description="Gambar Gambar Vektor" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/filter/cmx/" name="CMX" description="Corel Exchange Gambar" >}}

@@ -122,6 +122,7 @@ Un file J2K è un'immagine che viene compressa utilizzando la compressione wavel
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/filter/wmz/" name="WMZ" description="Skin compressa di Windows Media Player" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/filter/tga/" name="TGA" description="Grafica Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/filter/svg/" name="SVG" description="Grafica vettoriale scalabile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/filter/eps/" name="EPS" description="Linguaggio PostScript incapsulato" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/filter/cdr/" name="CDR" description="Immagine di disegno vettoriale" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/filter/cmx/" name="CMX" description="Immagine di scambio di Corel" >}}

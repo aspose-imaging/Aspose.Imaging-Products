@@ -122,6 +122,7 @@ WMZ to rozszerzenie pliku dla formatu pliku skóry w/dla/używanego przez Window
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/filter/wmf/" name="WMF" description="Metaplik Microsoft Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/filter/tga/" name="TGA" description="Targa grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/filter/svg/" name="SVG" description="Skalowalna Grafika wektorowa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/filter/eps/" name="EPS" description="Enkapsulowany język PostScript" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/filter/cdr/" name="CDR" description="Obraz rysunku wektorowego" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/filter/cmx/" name="CMX" description="Obraz wymiany firmy Corel" >}}

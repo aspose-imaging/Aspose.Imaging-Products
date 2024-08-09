@@ -122,6 +122,7 @@ DJVU 로 발음되는 DjVu는 특히 텍스트, 그림, 이미지 및 사진의 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/python-net/adjust/cmx/" name="CMX" description="Corel 교환 이미지" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/python-net/adjust/otg/" name="OTG" description="OpenDocument 표준" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/python-net/adjust/odg/" name="ODG" description="Apache OpenOffice 그리기 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/python-net/adjust/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

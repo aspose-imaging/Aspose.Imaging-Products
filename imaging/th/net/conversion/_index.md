@@ -188,6 +188,7 @@ description: แปลงไฟล์รูปภาพ รูปภาพ ร�
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/from/otg/" style="padding:15px;">แปลงจาก OTG</a></div>
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/from/odg/" style="padding:15px;">แปลงจาก ODG</a></div>
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/from/ico/" style="padding:15px;">แปลงจาก ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/from/avif/" style="padding:15px;">แปลงจาก AVIF</a></div>
                 </div>
         </div>
     </div>

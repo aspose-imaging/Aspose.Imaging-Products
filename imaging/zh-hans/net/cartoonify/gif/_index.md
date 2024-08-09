@@ -125,6 +125,7 @@ GIF 或图形交换格式是一种高度压缩的图像。 GIF 由 Unisys 拥有
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/cartoonify/cmx/" name="CMX" description="Corel 交换图像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/cartoonify/otg/" name="OTG" description="开放文档标准" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/cartoonify/odg/" name="ODG" description="Apache OpenOffice 绘图格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/cartoonify/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

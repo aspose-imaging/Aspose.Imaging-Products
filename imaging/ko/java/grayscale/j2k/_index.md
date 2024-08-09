@@ -125,6 +125,7 @@ J2K 파일은 DCT 압축 대신 웨이블릿 압축을 사용하여 압축한 �
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/grayscale/emz/" name="EMZ" description="Windows 압축 확장 메타파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/grayscale/gif/" name="GIF" description="그래픽 교환 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/grayscale/png/" name="PNG" description="휴대용 네트워크 그래픽" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/grayscale/tiff/" name="TIFF" description="태그가 지정된 이미지 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/grayscale/tif/" name="TIF" description="태그가 지정된 이미지 형식" >}}

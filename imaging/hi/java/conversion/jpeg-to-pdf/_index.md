@@ -71,7 +71,8 @@ description: JPEG से PDF जावा रूपांतरण के लि
 
 {{% /blocks/products/pf/agp/text %}}
 
-- JDK 1.6 या उच्चतर स्थापित है।
++ ऑपरेटिंग सिस्टम: विंडोज़ या लिनक्स।
++ विकास वातावरण: .NET Core 7 और उच्चतर का समर्थन करता है, जैसे कि Microsoft Visual Studio।
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

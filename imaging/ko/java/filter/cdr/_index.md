@@ -134,6 +134,7 @@ CDR 파일은 인코딩 및 압축된 디지털 이미지를 저장하기 위해
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/filter/wmz/" name="WMZ" description="압축된 Windows Media Player 스킨" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/filter/tga/" name="TGA" description="타르가 그래픽" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/filter/svg/" name="SVG" description="확장 가능한 벡터 그래픽" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/filter/eps/" name="EPS" description="캡슐화된 포스트스크립트 언어" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/filter/cmx/" name="CMX" description="Corel 교환 이미지" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/filter/otg/" name="OTG" description="OpenDocument 표준" >}}

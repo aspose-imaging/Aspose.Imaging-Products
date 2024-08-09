@@ -120,6 +120,7 @@ TIFF 또는 TIF(Tagged Image File Format)는 이 파일 형식 표준을 준수�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/python-net/remove-background/cmx/" name="CMX" description="Corel 교환 이미지" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/python-net/remove-background/otg/" name="OTG" description="OpenDocument 표준" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/python-net/remove-background/odg/" name="ODG" description="Apache OpenOffice 그리기 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/python-net/remove-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

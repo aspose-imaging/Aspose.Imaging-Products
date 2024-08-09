@@ -133,6 +133,7 @@ Truevision TGA, vaak TARGA genoemd, is een bestandsindeling voor rasterafbeeldin
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/filter/wmf/" name="WMF" description="Microsoft Windows-metabestand" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/filter/wmz/" name="WMZ" description="Gecomprimeerde Windows Media Player-skin" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/filter/svg/" name="SVG" description="Schaalbare vectorafbeeldingen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/filter/eps/" name="EPS" description="Encapsulated PostScript-taal" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/filter/cdr/" name="CDR" description="Vector tekening afbeelding" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/filter/cmx/" name="CMX" description="Corel Exchange-afbeelding" >}}

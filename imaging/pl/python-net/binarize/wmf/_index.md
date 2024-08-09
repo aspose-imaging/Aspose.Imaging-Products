@@ -122,6 +122,7 @@ Pliki z rozszerzeniem WMF reprezentują Microsoft Windows Metafile (WMF) do prze
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/python-net/binarize/cmx/" name="CMX" description="Obraz wymiany firmy Corel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/python-net/binarize/otg/" name="OTG" description="Standard OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/python-net/binarize/odg/" name="ODG" description="Apache OpenOffice Draw format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/python-net/binarize/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

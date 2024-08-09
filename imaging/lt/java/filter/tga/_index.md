@@ -133,6 +133,7 @@ Truevision TGA, dažnai vadinamas TARGA, yra rastrinės grafikos failo formatas,
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/filter/wmf/" name="WMF" description="Microsoft Windows metafailas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/filter/wmz/" name="WMZ" description="Suspausta Windows Media Player oda" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/filter/svg/" name="SVG" description="Keičiama vektorinė grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/filter/eps/" name="EPS" description="Inkapsuliuota PostScript kalba" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/filter/cdr/" name="CDR" description="Vektorinio piešimo vaizdas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/filter/cmx/" name="CMX" description="Corel Exchange vaizdas" >}}

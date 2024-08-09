@@ -125,6 +125,7 @@ TIFF 或 TIF，標記圖像文件格式，表示用於在符合此文件格式�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/grayscale/emz/" name="EMZ" description="Windows 壓縮增強元文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/grayscale/gif/" name="GIF" description="圖形交換格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/grayscale/j2k/" name="J2K" description="小波壓縮圖像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/grayscale/png/" name="PNG" description="便攜式網絡圖形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/grayscale/tif/" name="TIF" description="標記圖像格式" >}}

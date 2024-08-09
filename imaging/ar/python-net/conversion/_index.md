@@ -188,6 +188,7 @@ Aspose.Imaging for Python عبر .NET API يحتوي على ميزات معال�
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/from/otg/" style="padding:15px;">تحويل من OTG</a></div>
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/from/odg/" style="padding:15px;">تحويل من ODG</a></div>
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/from/ico/" style="padding:15px;">تحويل من ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/from/avif/" style="padding:15px;">تحويل من AVIF</a></div>
                 </div>
         </div>
     </div>

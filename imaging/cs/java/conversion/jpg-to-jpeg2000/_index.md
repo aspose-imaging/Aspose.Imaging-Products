@@ -71,7 +71,8 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Je nainstalován JDK 1.6 nebo vyšší.
++ Operační systém: Windows nebo Linux.
++ Vývojové prostředí: Podporuje .NET Core 7 a vyšší, jako je Microsoft Visual Studio.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

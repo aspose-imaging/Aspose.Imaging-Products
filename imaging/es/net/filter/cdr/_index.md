@@ -124,6 +124,7 @@ Un archivo CDR es un archivo de imagen de dibujo vectorial que se crea de forma 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/net/filter/wmz/" name="WMZ" description="Máscara de Windows Media Player comprimida" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/net/filter/tga/" name="TGA" description="Gráfico Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/net/filter/svg/" name="SVG" description="gráficas vectoriales escalables" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/net/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/net/filter/eps/" name="EPS" description="Lenguaje PostScript Encapsulado" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/net/filter/cmx/" name="CMX" description="Imagen de intercambio de Corel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/net/filter/otg/" name="OTG" description="Estándar de documento abierto" >}}

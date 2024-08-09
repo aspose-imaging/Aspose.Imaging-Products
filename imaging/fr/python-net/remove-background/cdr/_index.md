@@ -120,6 +120,7 @@ Un fichier CDR est un fichier d'image de dessin vectoriel créé nativement avec
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/python-net/remove-background/cmx/" name="CMX" description="Image d'échange Corel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/python-net/remove-background/otg/" name="OTG" description="Norme OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/python-net/remove-background/odg/" name="ODG" description="Format de dessin Apache OpenOffice" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/python-net/remove-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

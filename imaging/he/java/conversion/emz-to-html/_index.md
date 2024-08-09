@@ -71,7 +71,8 @@ description: קוד לדוגמה עבור המרת Java מ-EMZ ל-HTML. השתמ
 
 {{% /blocks/products/pf/agp/text %}}
 
-- מותקן JDK 1.6 ומעלה.
++ מערכת הפעלה: ווינדוס או לינוקס.
++ סביבת פיתוח: תומך ב-.NET Core 7 ומעלה, כגון Microsoft Visual Studio.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

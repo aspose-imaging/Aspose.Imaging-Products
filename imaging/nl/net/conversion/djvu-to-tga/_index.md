@@ -56,9 +56,8 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows of een compatibel besturingssysteem met .NET Framework, .NET Core, Windows Application, ASP.NET Web Application.
-- Ontwikkelomgeving zoals Microsoft Visual Studio.
-- Aspose.Imaging voor .NET waarnaar in uw project wordt verwezen.
++ Besturingssysteem: Windows of Linux.
++ Ontwikkelomgeving: Ondersteunt .NET Core 7 en hoger, zoals Microsoft Visual Studio.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

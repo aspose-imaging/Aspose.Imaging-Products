@@ -103,6 +103,7 @@ Aspose.Imaging API अनुप्रयोगों के भीतर छव�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/net/dither/apng/" name="APNG" description="एनिमेटेड पोर्टेबल नेटवर्क ग्राफिक्स" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/net/dither/ico/" name="ICO" description="विंडोज आइकन" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/net/dither/jpg/" name="JPG" description="फ़ोटोग्राफ़ी संबंधी विशेषज्ञों का संयुक्त समूह" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/net/dither/jpeg/" name="JPEG" description="फ़ोटोग्राफ़ी संबंधी विशेषज्ञों का संयुक्त समूह" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/net/dither/dib/" name="DIB" description="डिवाइस स्वतंत्र बिटमैप" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/net/dither/dicom/" name="DICOM" description="डिजिटल इमेजिंग और संचार" >}}

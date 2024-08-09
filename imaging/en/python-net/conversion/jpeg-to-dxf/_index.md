@@ -54,8 +54,9 @@ Before running the conversion example code, make sure that you have the followin
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows / Linux with .NET Core Runtime.
-- Python and PyPi package manager.
++ Operating system: Windows or Linux.
++ Development environment: Supports .NET Core 7 and higher, such as Microsoft Visual Studio.
+  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

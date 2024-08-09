@@ -109,6 +109,7 @@ WMZ هو امتداد ملف لتنسيق ملف السطح في / من أجل /
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/python-net/grayscale/emz/" name="EMZ" description="ملف تعريف محسن مضغوط لـ Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/python-net/grayscale/gif/" name="GIF" description="تنسيق التبادل الرسومي" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/python-net/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/python-net/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/python-net/grayscale/j2k/" name="J2K" description="صورة مضغوطة Wavelet" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/python-net/grayscale/png/" name="PNG" description="رسومات الشبكة المحمولة" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/python-net/grayscale/tiff/" name="TIFF" description="تنسيق الصورة الموسومة" >}}

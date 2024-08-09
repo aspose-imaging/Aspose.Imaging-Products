@@ -118,6 +118,7 @@ Filer med EPS-tillägg beskriver i huvudsak ett Encapsulated PostScript-språkpr
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/python-net/filter/wmz/" name="WMZ" description="Komprimerat Windows Media Player-skal" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/python-net/filter/tga/" name="TGA" description="Targa grafik" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/python-net/filter/svg/" name="SVG" description="Skalbar vektorgrafik" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/python-net/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/python-net/filter/cdr/" name="CDR" description="Vektor Ritning Bild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/python-net/filter/cmx/" name="CMX" description="Corel Exchange-bild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/python-net/filter/otg/" name="OTG" description="OpenDocument Standard" >}}

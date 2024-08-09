@@ -188,6 +188,7 @@ Hieronder vindt u een volledige lijst van de afbeeldingsindelingen waarnaar u ku
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/otg/" style="padding:15px;">Converteren van OTG</a></div>
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/odg/" style="padding:15px;">Converteren van ODG</a></div>
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/ico/" style="padding:15px;">Converteren van ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/avif/" style="padding:15px;">Converteren van AVIF</a></div>
                 </div>
         </div>
     </div>

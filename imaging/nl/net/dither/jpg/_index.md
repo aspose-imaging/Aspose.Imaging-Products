@@ -102,6 +102,7 @@ Een JPEG is een type afbeeldingsformaat dat wordt opgeslagen met de methode van 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/dither/apng/" name="APNG" description="Geanimeerde draagbare netwerkgraphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/dither/bmp/" name="BMP" description="Bitmapafbeelding" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/dither/ico/" name="ICO" description="Windows-pictogram" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/dither/jpeg/" name="JPEG" description="Joint Photographic Experts Group" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/dither/dib/" name="DIB" description="Apparaatonafhankelijke bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/dither/dicom/" name="DICOM" description="Digitale beeldvorming en communicatie" >}}

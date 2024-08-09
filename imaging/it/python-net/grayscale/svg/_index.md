@@ -109,6 +109,7 @@ I file SVG sono file di grafica vettoriale scalabili che utilizzano un formato d
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/python-net/grayscale/emz/" name="EMZ" description="Metafile avanzato compresso di Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/python-net/grayscale/gif/" name="GIF" description="Formato di scambio grafico" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/python-net/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/python-net/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/python-net/grayscale/j2k/" name="J2K" description="Immagine compressa Wavelet" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/python-net/grayscale/png/" name="PNG" description="Grafica di rete portatile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/python-net/grayscale/tiff/" name="TIFF" description="Formato immagine contrassegnato" >}}

@@ -120,6 +120,7 @@ DNG, ham dosyaların depolanması için kullanılan bir dijital kamera görünt�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/filter/wmz/" name="WMZ" description="Sıkıştırılmış Windows Media Player Dış Görünümü" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/filter/tga/" name="TGA" description="Targa Grafiği" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/filter/svg/" name="SVG" description="ölçeklendirilebilir Vektör Grafiği" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/filter/eps/" name="EPS" description="Kapsüllenmiş PostScript Dili" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/filter/cdr/" name="CDR" description="Vektör Çizim Görüntüsü" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/filter/cmx/" name="CMX" description="Corel Exchange Görüntüsü" >}}

@@ -71,7 +71,8 @@ description: ODG에서 GIF로의 Java 변환을 위한 샘플 코드입니다. �
 
 {{% /blocks/products/pf/agp/text %}}
 
-- JDK 1.6 이상이 설치되어 있습니다.
++ 운영 체제: Windows 또는 Linux.
++ 개발 환경: Microsoft Visual Studio 등 .NET Core 7 이상을 지원합니다.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

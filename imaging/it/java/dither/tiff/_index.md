@@ -116,6 +116,7 @@ TIFF o TIF, Tagged Image File Format, rappresenta immagini raster destinate all'
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/dither/bmp/" name="BMP" description="Immagine bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/dither/ico/" name="ICO" description="Icona di Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/dither/jpg/" name="JPG" description="Gruppo congiunto di esperti fotografici" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/dither/jpeg/" name="JPEG" description="Gruppo congiunto di esperti fotografici" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/dither/dib/" name="DIB" description="Bitmap indipendente dal dispositivo" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/dither/dicom/" name="DICOM" description="Immagini e comunicazioni digitali" >}}
