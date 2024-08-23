@@ -126,6 +126,7 @@ TIFF або TIF, Tagged Image File Format, представляє растров
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/net/adjust/cmx/" name="CMX" description="Corel Exchange Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/net/adjust/otg/" name="OTG" description="Стандарт OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/net/adjust/odg/" name="ODG" description="Формат Apache OpenOffice Draw" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/net/adjust/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

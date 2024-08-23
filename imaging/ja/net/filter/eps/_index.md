@@ -121,6 +121,7 @@ EPS拡張子の付いたファイルは、基本的に、単一ページの外�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/filter/wmz/" name="WMZ" description="圧縮されたWindowsMediaPlayerスキン" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/filter/tga/" name="TGA" description="タルガグラフィック" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/filter/svg/" name="SVG" description="スケーラブルベクターグラフィックス" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/filter/cdr/" name="CDR" description="ベクトル描画画像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/filter/cmx/" name="CMX" description="CorelExchangeイメージ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/filter/otg/" name="OTG" description="OpenDocument標準" >}}

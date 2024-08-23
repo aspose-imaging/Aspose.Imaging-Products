@@ -123,6 +123,7 @@ JPEGは、非可逆圧縮方式を使用して保存される画像形式の一�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/change-background/cmx/" name="CMX" description="CorelExchangeイメージ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/change-background/otg/" name="OTG" description="OpenDocument標準" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/change-background/odg/" name="ODG" description="ApacheOpenOfficeDrawフォーマット" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/change-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

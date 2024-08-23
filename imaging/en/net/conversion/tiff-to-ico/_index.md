@@ -57,9 +57,9 @@ Before running the conversion example code, make sure that you have the followin
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows or a compatible OS with .NET Framework, .NET Core, Windows Application, ASP.NET Web Application.
--  Development environment like Microsoft Visual Studio.
--  Aspose.Imaging for .NET referenced in your project.
++ Operating system: Windows or Linux.
++ Development environment: Supports .NET Core 7 and higher, such as Microsoft Visual Studio.
+  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

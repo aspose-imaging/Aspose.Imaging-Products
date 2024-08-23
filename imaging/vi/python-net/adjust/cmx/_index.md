@@ -122,6 +122,7 @@ Các tệp có phần mở rộng CMX là định dạng tệp hình ảnh Corel
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/python-net/adjust/cdr/" name="CDR" description="Hình ảnh Bản vẽ Véc tơ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/python-net/adjust/otg/" name="OTG" description="Tiêu chuẩn OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/python-net/adjust/odg/" name="ODG" description="Apache OpenOffice Draw Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/python-net/adjust/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

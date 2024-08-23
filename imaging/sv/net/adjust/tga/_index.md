@@ -126,6 +126,7 @@ Truevision TGA, ofta kallad TARGA, är ett rastergrafikfilformat skapat av Truev
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/net/adjust/cmx/" name="CMX" description="Corel Exchange-bild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/net/adjust/otg/" name="OTG" description="OpenDocument Standard" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/net/adjust/odg/" name="ODG" description="Apache OpenOffice ritformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/net/adjust/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

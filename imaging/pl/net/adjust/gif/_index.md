@@ -127,6 +127,7 @@ GIF lub Graphical Interchange Format to rodzaj wysoce skompresowanego obrazu. BÄ
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/adjust/cmx/" name="CMX" description="Obraz wymiany firmy Corel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/adjust/otg/" name="OTG" description="Standard OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/adjust/odg/" name="ODG" description="Apache OpenOffice Draw format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/adjust/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

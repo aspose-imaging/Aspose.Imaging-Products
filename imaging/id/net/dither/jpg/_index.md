@@ -102,6 +102,7 @@ JPEG adalah jenis format gambar yang disimpan menggunakan metode kompresi lossy.
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/dither/apng/" name="APNG" description="Grafik Jaringan Portabel Animasi" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/dither/bmp/" name="BMP" description="Gambar Bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/dither/ico/" name="ICO" description="ikon Windows" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/dither/jpeg/" name="JPEG" description="Kelompok Ahli Fotografi Bersama" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/dither/dib/" name="DIB" description="Bitmap Independen Perangkat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/dither/dicom/" name="DICOM" description="Pencitraan & Komunikasi Digital" >}}

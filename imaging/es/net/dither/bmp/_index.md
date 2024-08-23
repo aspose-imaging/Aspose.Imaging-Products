@@ -105,6 +105,7 @@ Los archivos que tienen la extensión .BMP representan archivos de imagen de map
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/net/dither/apng/" name="APNG" description="Gráficos de red portátiles animados" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/net/dither/ico/" name="ICO" description="icono de ventanas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/net/dither/jpg/" name="JPG" description="Joint Photographic Experts Group" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/net/dither/jpeg/" name="JPEG" description="Joint Photographic Experts Group" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/net/dither/dib/" name="DIB" description="Mapa de bits independiente del dispositivo" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/net/dither/dicom/" name="DICOM" description="Imágenes digitales y comunicaciones" >}}

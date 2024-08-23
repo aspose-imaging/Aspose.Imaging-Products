@@ -115,6 +115,7 @@ File yang berekstensi .BMP merupakan file Gambar Bitmap yang digunakan untuk men
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/dither/apng/" name="APNG" description="Grafik Jaringan Portabel Animasi" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/dither/ico/" name="ICO" description="ikon Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/dither/jpg/" name="JPG" description="Kelompok Ahli Fotografi Bersama" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/dither/jpeg/" name="JPEG" description="Kelompok Ahli Fotografi Bersama" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/dither/dib/" name="DIB" description="Bitmap Independen Perangkat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/dither/dicom/" name="DICOM" description="Pencitraan & Komunikasi Digital" >}}

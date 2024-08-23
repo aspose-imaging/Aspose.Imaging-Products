@@ -120,6 +120,7 @@ WebP, представлений компанією Google, — це сучас�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/python-net/remove-background/cmx/" name="CMX" description="Corel Exchange Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/python-net/remove-background/otg/" name="OTG" description="Стандарт OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/python-net/remove-background/odg/" name="ODG" description="Формат Apache OpenOffice Draw" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/python-net/remove-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

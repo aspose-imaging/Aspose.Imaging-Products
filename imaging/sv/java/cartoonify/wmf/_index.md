@@ -138,6 +138,7 @@ Filer med WMF-tillägg representerar Microsoft Windows Metafile (WMF) för lagri
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/java/cartoonify/cmx/" name="CMX" description="Corel Exchange-bild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/java/cartoonify/otg/" name="OTG" description="OpenDocument Standard" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/java/cartoonify/odg/" name="ODG" description="Apache OpenOffice ritformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/java/cartoonify/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

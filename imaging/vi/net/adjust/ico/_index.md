@@ -127,6 +127,7 @@ Aspose.Imaging API là một giải pháp xử lý hình ảnh để tạo, sử
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/adjust/cmx/" name="CMX" description="Hình ảnh trao đổi Corel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/adjust/otg/" name="OTG" description="Tiêu chuẩn OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/adjust/odg/" name="ODG" description="Apache OpenOffice Draw Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/adjust/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

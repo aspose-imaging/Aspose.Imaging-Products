@@ -138,6 +138,7 @@ Aspose.Imaging API เป็นโซลูชันการประมวล�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/java/adjust/cdr/" name="CDR" description="วาดภาพเวกเตอร์" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/java/adjust/cmx/" name="CMX" description="รูปภาพ Corel Exchange" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/java/adjust/otg/" name="OTG" description="มาตรฐาน OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/java/adjust/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

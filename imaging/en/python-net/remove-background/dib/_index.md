@@ -120,6 +120,7 @@ A DIB (Device Independent Bitmap) file is a raster image file that is similar in
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/python-net/remove-background/cmx/" name="CMX" description="Corel Exchange Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/python-net/remove-background/otg/" name="OTG" description="OpenDocument Standard" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/python-net/remove-background/odg/" name="ODG" description="Apache OpenOffice Draw Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/python-net/remove-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

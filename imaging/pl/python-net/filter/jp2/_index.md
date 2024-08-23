@@ -117,6 +117,7 @@ JPEG 2000 (JP2) to system kodowania obrazu i najnowocześniejszy standard kompre
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/python-net/filter/wmz/" name="WMZ" description="Skompresowana skórka Windows Media Player" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/python-net/filter/tga/" name="TGA" description="Targa grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/python-net/filter/svg/" name="SVG" description="Skalowalna Grafika wektorowa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/python-net/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/python-net/filter/eps/" name="EPS" description="Enkapsulowany język PostScript" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/python-net/filter/cdr/" name="CDR" description="Obraz rysunku wektorowego" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/python-net/filter/cmx/" name="CMX" description="Obraz wymiany firmy Corel" >}}

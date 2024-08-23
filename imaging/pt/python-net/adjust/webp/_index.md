@@ -122,6 +122,7 @@ O WebP, introduzido pelo Google, é um formato de arquivo de imagem da Web raste
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/python-net/adjust/cmx/" name="CMX" description="Imagem do Corel Exchange" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/python-net/adjust/otg/" name="OTG" description="Padrão OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/python-net/adjust/odg/" name="ODG" description="Formato de desenho do Apache OpenOffice" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/python-net/adjust/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

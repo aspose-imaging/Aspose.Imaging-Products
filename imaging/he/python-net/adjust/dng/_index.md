@@ -122,6 +122,7 @@ DNG הוא פורמט תמונה של מצלמה דיגיטלית המשמש ל�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/python-net/adjust/cmx/" name="CMX" description="תמונת Corel Exchange" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/python-net/adjust/otg/" name="OTG" description="OpenDocument Standard" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/python-net/adjust/odg/" name="ODG" description="Apache OpenOffice Draw Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/python-net/adjust/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

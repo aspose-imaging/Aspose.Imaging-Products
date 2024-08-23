@@ -133,6 +133,7 @@ J2K फ़ाइल एक ऐसी छवि है जिसे DCT संप
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/filter/wmz/" name="WMZ" description="संपीड़ित विंडोज मीडिया प्लेयर त्वचा" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/filter/tga/" name="TGA" description="टार्गा ग्राफिक" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/filter/svg/" name="SVG" description="स्केलेबल वेक्टर ग्राफिक्स" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/filter/eps/" name="EPS" description="एनकैप्सुलेटेड पोस्टस्क्रिप्ट भाषा" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/filter/cdr/" name="CDR" description="वेक्टर ड्राइंग छवि" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/filter/cmx/" name="CMX" description="कोरल एक्सचेंज इमेज" >}}

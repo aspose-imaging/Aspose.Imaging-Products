@@ -108,6 +108,7 @@ GIF lub Graphical Interchange Format to rodzaj wysoce skompresowanego obrazu. BÄ
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/python-net/grayscale/emf/" name="EMF" description="Ulepszony format metapliku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/python-net/grayscale/emz/" name="EMZ" description="Rozszerzony metaplik skompresowany w systemie Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/python-net/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/python-net/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/python-net/grayscale/j2k/" name="J2K" description="Skompresowany obraz falkowy" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/python-net/grayscale/png/" name="PNG" description="PrzenoÅ›na Grafika Sieciowa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/python-net/grayscale/tiff/" name="TIFF" description="Oznaczony format obrazu" >}}

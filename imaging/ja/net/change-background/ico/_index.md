@@ -123,6 +123,7 @@ ICO ファイル形式は、Microsoft Windows のコンピューター アイコ
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/change-background/cmx/" name="CMX" description="CorelExchangeイメージ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/change-background/otg/" name="OTG" description="OpenDocument標準" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/change-background/odg/" name="ODG" description="ApacheOpenOfficeDrawフォーマット" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/change-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

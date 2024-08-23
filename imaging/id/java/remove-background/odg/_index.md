@@ -136,6 +136,7 @@ Format file ODG digunakan oleh aplikasi Draw Apache OpenOffice untuk menyimpan e
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/remove-background/cdr/" name="CDR" description="Gambar Gambar Vektor" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/remove-background/cmx/" name="CMX" description="Corel Exchange Gambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/remove-background/otg/" name="OTG" description="Standar Dokumen Terbuka" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/remove-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

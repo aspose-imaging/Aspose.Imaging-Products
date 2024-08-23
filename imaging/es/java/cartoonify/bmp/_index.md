@@ -138,6 +138,7 @@ Los archivos que tienen la extensión .BMP representan archivos de imagen de map
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/java/cartoonify/cmx/" name="CMX" description="Imagen de intercambio de Corel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/java/cartoonify/otg/" name="OTG" description="Estándar de documento abierto" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/java/cartoonify/odg/" name="ODG" description="Formato de dibujo de Apache OpenOffice" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/java/cartoonify/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -133,6 +133,7 @@ JPEG 2000 (JP2) là một hệ thống mã hóa hình ảnh và tiêu chuẩn n�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/filter/wmz/" name="WMZ" description="Giao diện Windows Media Player được nén" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/filter/tga/" name="TGA" description="Đồ họa Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/filter/svg/" name="SVG" description="Đồ họa vector có thể mở rộng" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/filter/eps/" name="EPS" description="Ngôn ngữ PostScript được đóng gói" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/filter/cdr/" name="CDR" description="Hình ảnh Bản vẽ Véc tơ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/filter/cmx/" name="CMX" description="Hình ảnh trao đổi Corel" >}}

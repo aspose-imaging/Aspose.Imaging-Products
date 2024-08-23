@@ -124,6 +124,7 @@ Files with CMX extension are Corel Exchange image file format that is used as pr
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/change-background/cdr/" name="CDR" description="Vector Drawing Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/change-background/otg/" name="OTG" description="OpenDocument Standard" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/change-background/odg/" name="ODG" description="Apache OpenOffice Draw Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/change-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

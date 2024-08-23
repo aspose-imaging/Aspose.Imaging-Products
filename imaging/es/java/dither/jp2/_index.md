@@ -116,6 +116,7 @@ JPEG 2000 (JP2) es un sistema de codificación de imágenes y un estándar de co
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/java/dither/bmp/" name="BMP" description="Imagen de mapa de bits" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/java/dither/ico/" name="ICO" description="icono de ventanas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/java/dither/jpg/" name="JPG" description="Joint Photographic Experts Group" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/java/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/java/dither/jpeg/" name="JPEG" description="Joint Photographic Experts Group" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/java/dither/dib/" name="DIB" description="Mapa de bits independiente del dispositivo" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/java/dither/dicom/" name="DICOM" description="Imágenes digitales y comunicaciones" >}}

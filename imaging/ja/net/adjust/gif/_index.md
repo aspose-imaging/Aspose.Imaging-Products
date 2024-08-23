@@ -125,6 +125,7 @@ GIFまたはGraphicalInterchange Formatは、高度に圧縮された画像の�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/adjust/cmx/" name="CMX" description="CorelExchangeイメージ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/adjust/otg/" name="OTG" description="OpenDocument標準" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/adjust/odg/" name="ODG" description="ApacheOpenOfficeDrawフォーマット" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/adjust/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

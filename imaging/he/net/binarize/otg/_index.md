@@ -126,6 +126,7 @@ Aspose.Imaging API הוא פתרון לעיבוד תמונה ליצירה, שי�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/net/binarize/cdr/" name="CDR" description="תמונה של ציור וקטור" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/net/binarize/cmx/" name="CMX" description="תמונת Corel Exchange" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/net/binarize/odg/" name="ODG" description="Apache OpenOffice Draw Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/net/binarize/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

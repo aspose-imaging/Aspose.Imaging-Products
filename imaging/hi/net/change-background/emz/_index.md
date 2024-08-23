@@ -124,6 +124,7 @@ EMZ फ़ाइल एक्सटेंशन वाली फ़ाइल ए
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/net/change-background/cmx/" name="CMX" description="कोरल एक्सचेंज इमेज" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/net/change-background/otg/" name="OTG" description="OpenDocument मानक" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/net/change-background/odg/" name="ODG" description="अपाचे ओपनऑफिस ड्रा प्रारूप" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/net/change-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

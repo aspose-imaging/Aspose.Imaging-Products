@@ -125,6 +125,7 @@ Een DIB-bestand (Device Independent Bitmap) is een rasterafbeeldingsbestand dat 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/adjust/cmx/" name="CMX" description="Corel Exchange-afbeelding" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/adjust/otg/" name="OTG" description="OpenDocument-standaard" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/adjust/odg/" name="ODG" description="Apache OpenOffice Draw-indeling" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/adjust/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

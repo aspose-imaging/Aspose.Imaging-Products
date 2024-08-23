@@ -114,6 +114,7 @@ Tệp OTG là mẫu bản vẽ được tạo bằng tiêu chuẩn OpenDocument 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/grayscale/emz/" name="EMZ" description="Siêu tệp nâng cao được nén của Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/grayscale/gif/" name="GIF" description="Định dạng trao đổi đồ họa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/grayscale/j2k/" name="J2K" description="Hình ảnh nén Wavelet" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/grayscale/png/" name="PNG" description="Biểu đồ minh họa mạng lưới không dây" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/grayscale/tiff/" name="TIFF" description="Định dạng hình ảnh được gắn thẻ" >}}

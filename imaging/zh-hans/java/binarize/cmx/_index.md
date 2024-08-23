@@ -139,6 +139,7 @@ Aspose.Imaging API 是一种图像处理解决方案，用于在应用程序中�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/binarize/cdr/" name="CDR" description="矢量绘图图像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/binarize/otg/" name="OTG" description="开放文档标准" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/binarize/odg/" name="ODG" description="Apache OpenOffice 绘图格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/binarize/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

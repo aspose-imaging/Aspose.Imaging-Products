@@ -123,6 +123,7 @@ WebP 是 Google 推出的一种现代光栅 Web 图像文件格式，它基于�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/change-background/cmx/" name="CMX" description="Corel 交换图像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/change-background/otg/" name="OTG" description="开放文档标准" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/change-background/odg/" name="ODG" description="Apache OpenOffice 绘图格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/change-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

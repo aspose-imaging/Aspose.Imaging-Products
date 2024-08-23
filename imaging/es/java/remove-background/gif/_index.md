@@ -136,6 +136,7 @@ Un GIF o formato de intercambio gráfico es un tipo de imagen altamente comprimi
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/java/remove-background/cmx/" name="CMX" description="Imagen de intercambio de Corel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/java/remove-background/otg/" name="OTG" description="Estándar de documento abierto" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/java/remove-background/odg/" name="ODG" description="Formato de dibujo de Apache OpenOffice" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/java/remove-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

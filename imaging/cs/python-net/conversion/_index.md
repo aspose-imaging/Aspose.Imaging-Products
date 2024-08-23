@@ -188,6 +188,7 @@ Níže je uveden úplný seznam obrazových formátů, do kterých můžete pře
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/cs/python-net/conversion/from/otg/" style="padding:15px;">Převést z OTG</a></div>
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/cs/python-net/conversion/from/odg/" style="padding:15px;">Převést z ODG</a></div>
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/cs/python-net/conversion/from/ico/" style="padding:15px;">Převést z ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/cs/python-net/conversion/from/avif/" style="padding:15px;">Převést z AVIF</a></div>
                 </div>
         </div>
     </div>

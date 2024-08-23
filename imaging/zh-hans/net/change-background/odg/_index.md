@@ -123,6 +123,7 @@ Apache OpenOffice 的 Draw 应用程序使用 ODG 文件格式将绘图元素存
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/change-background/cdr/" name="CDR" description="矢量绘图图像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/change-background/cmx/" name="CMX" description="Corel 交换图像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/change-background/otg/" name="OTG" description="开放文档标准" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/change-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

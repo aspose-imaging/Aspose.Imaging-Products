@@ -100,6 +100,7 @@ File dengan ekstensi file EMZ adalah file gambar terkompresi, lebih khusus diseb
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/python-net/dither/bmp/" name="BMP" description="Gambar Bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/python-net/dither/ico/" name="ICO" description="ikon Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/python-net/dither/jpg/" name="JPG" description="Kelompok Ahli Fotografi Bersama" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/python-net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/python-net/dither/jpeg/" name="JPEG" description="Kelompok Ahli Fotografi Bersama" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/python-net/dither/dib/" name="DIB" description="Bitmap Independen Perangkat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/python-net/dither/dicom/" name="DICOM" description="Pencitraan & Komunikasi Digital" >}}

@@ -116,6 +116,7 @@ DICOM est l'acronyme de Digital Imaging and Communications in Medicine et appart
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/dither/bmp/" name="BMP" description="Image bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/dither/ico/" name="ICO" description="Icône Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/dither/jpg/" name="JPG" description="Groupe mixte d'experts photographiques" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/dither/jpeg/" name="JPEG" description="Groupe mixte d'experts photographiques" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/dither/dib/" name="DIB" description="Bitmap indépendant du périphérique" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/dither/djvu/" name="DJVU" description="Format graphique" >}}

@@ -122,6 +122,7 @@ J2K 文件是使用小波压缩而不是 DCT 压缩压缩的图像。
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/python-net/binarize/cmx/" name="CMX" description="Corel 交换图像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/python-net/binarize/otg/" name="OTG" description="开放文档标准" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/python-net/binarize/odg/" name="ODG" description="Apache OpenOffice 绘图格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/python-net/binarize/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

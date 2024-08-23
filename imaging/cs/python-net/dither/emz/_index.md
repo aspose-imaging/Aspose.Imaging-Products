@@ -100,6 +100,7 @@ Soubor s příponou EMZ je komprimovaný soubor obrázku, konkrétněji označov
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/python-net/dither/bmp/" name="BMP" description="Bitmapový obrázek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/python-net/dither/ico/" name="ICO" description="ikona Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/python-net/dither/jpg/" name="JPG" description="Společná skupina fotografických expertů" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/python-net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/python-net/dither/jpeg/" name="JPEG" description="Společná skupina fotografických expertů" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/python-net/dither/dib/" name="DIB" description="Bitmap nezávislý na zařízení" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/python-net/dither/dicom/" name="DICOM" description="Digitální zobrazování a komunikace" >}}

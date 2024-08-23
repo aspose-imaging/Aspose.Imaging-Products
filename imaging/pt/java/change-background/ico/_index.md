@@ -136,6 +136,7 @@ O formato de arquivo ICO é um formato de arquivo de imagem para ícones de comp
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/change-background/cmx/" name="CMX" description="Imagem do Corel Exchange" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/change-background/otg/" name="OTG" description="Padrão OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/change-background/odg/" name="ODG" description="Formato de desenho do Apache OpenOffice" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/change-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -125,6 +125,7 @@ Aspose.Imaging API — это решение для обработки изоб�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/change-background/cdr/" name="CDR" description="Векторный рисунок изображения" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/change-background/otg/" name="OTG" description="Стандарт OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/change-background/odg/" name="ODG" description="Формат отрисовки Apache OpenOffice" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/change-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

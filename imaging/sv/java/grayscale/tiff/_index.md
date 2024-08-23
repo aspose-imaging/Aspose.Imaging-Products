@@ -125,6 +125,7 @@ TIFF eller TIF, Tagged Image File Format, representerar rasterbilder som är avs
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/java/grayscale/emz/" name="EMZ" description="Windows komprimerad förbättrad metafil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/java/grayscale/gif/" name="GIF" description="Grafiskt utbytesformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/java/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/java/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/java/grayscale/j2k/" name="J2K" description="Wavelet komprimerad bild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/java/grayscale/png/" name="PNG" description="Bärbar nätverksgrafik" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/java/grayscale/tif/" name="TIF" description="Taggad bildformat" >}}

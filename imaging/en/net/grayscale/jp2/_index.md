@@ -112,6 +112,7 @@ JPEG 2000 (JP2) is an image coding system and state-of-the-art image compression
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/grayscale/emf/" name="EMF" description="Enhanced Metafile Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/grayscale/emz/" name="EMZ" description="Windows Compressed Enhanced Metafile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/grayscale/gif/" name="GIF" description="Graphical Interchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/grayscale/j2k/" name="J2K" description="Wavelet Compressed Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/grayscale/png/" name="PNG" description="Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/grayscale/tiff/" name="TIFF" description="Tagged Image Format" >}}

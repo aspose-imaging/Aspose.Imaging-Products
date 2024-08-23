@@ -125,6 +125,7 @@ TIFF ou TIF, Tagged Image File Format, representa imagens raster que se destinam
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/grayscale/emz/" name="EMZ" description="Meta-arquivo aprimorado compactado do Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/grayscale/gif/" name="GIF" description="Formato de intercâmbio gráfico" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/grayscale/j2k/" name="J2K" description="Imagem Comprimida Wavelet" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/grayscale/png/" name="PNG" description="Gráficos Portáteis de Rede" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/grayscale/tif/" name="TIF" description="Formato de imagem marcada" >}}

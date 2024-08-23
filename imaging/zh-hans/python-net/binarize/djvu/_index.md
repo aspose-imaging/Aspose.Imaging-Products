@@ -122,6 +122,7 @@ DjVu，发音为 DJVU ，是一种图形文件格式，用于扫描文档和书�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/python-net/binarize/cmx/" name="CMX" description="Corel 交换图像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/python-net/binarize/otg/" name="OTG" description="开放文档标准" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/python-net/binarize/odg/" name="ODG" description="Apache OpenOffice 绘图格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/python-net/binarize/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -136,6 +136,7 @@ J2K 文件是使用小波壓縮而不是 DCT 壓縮壓縮的圖像。
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/cmx/" name="CMX" description="Corel 交換圖像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/otg/" name="OTG" description="開放文檔標準" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/odg/" name="ODG" description="Apache OpenOffice 繪圖格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

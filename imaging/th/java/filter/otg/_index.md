@@ -134,6 +134,7 @@ Aspose.Imaging API เป็นโซลูชันการประมวล�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/java/filter/wmz/" name="WMZ" description="สกิน Windows Media Player ที่บีบอัด" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/java/filter/tga/" name="TGA" description="Targa Graphic" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/java/filter/svg/" name="SVG" description="กราฟิกแบบเวกเตอร์ที่ปรับขนาดได้" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/java/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/java/filter/eps/" name="EPS" description="ภาษา PostScript ที่ห่อหุ้ม" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/java/filter/cdr/" name="CDR" description="วาดภาพเวกเตอร์" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/java/filter/cmx/" name="CMX" description="รูปภาพ Corel Exchange" >}}

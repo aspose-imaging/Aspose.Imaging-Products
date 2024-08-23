@@ -138,6 +138,7 @@ A JPEG is a type of image format that is saved using the method of lossy compres
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/cartoonify/cmx/" name="CMX" description="Corel Exchange Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/cartoonify/otg/" name="OTG" description="OpenDocument Standard" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/cartoonify/odg/" name="ODG" description="Apache OpenOffice Draw Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/cartoonify/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

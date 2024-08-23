@@ -134,6 +134,7 @@ API Aspose.Imaging — це рішення для обробки зображе�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/java/filter/wmz/" name="WMZ" description="Стиснена оболонка Windows Media Player" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/java/filter/tga/" name="TGA" description="Targa Graphic" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/java/filter/svg/" name="SVG" description="Масштабована векторна графіка" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/java/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/java/filter/eps/" name="EPS" description="Мова інкапсульованого PostScript" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/java/filter/cdr/" name="CDR" description="Векторний малюнок зображення" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/java/filter/cmx/" name="CMX" description="Corel Exchange Image" >}}

@@ -138,6 +138,7 @@ Les fichiers avec l'extension WMF représentent le métafichier Microsoft Window
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/binarize/cmx/" name="CMX" description="Image d'échange Corel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/binarize/otg/" name="OTG" description="Norme OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/binarize/odg/" name="ODG" description="Format de dessin Apache OpenOffice" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/binarize/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

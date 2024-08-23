@@ -122,6 +122,7 @@ Soubory s příponou EPS v podstatě popisují program jazyka Encapsulated PostS
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/net/filter/wmz/" name="WMZ" description="Komprimovaný vzhled Windows Media Player" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/net/filter/tga/" name="TGA" description="Grafika Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/net/filter/svg/" name="SVG" description="Škálovatelná vektorová grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/net/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/net/filter/cdr/" name="CDR" description="Vektorové Kreslení Obrázek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/net/filter/cmx/" name="CMX" description="Obrázek Corel Exchange" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/net/filter/otg/" name="OTG" description="OpenDocument Standard" >}}

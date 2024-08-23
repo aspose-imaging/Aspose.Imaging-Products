@@ -108,6 +108,7 @@ JPEG 2000 (JP2) is een beeldcoderingssysteem en de modernste beeldcompressiestan
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/python-net/grayscale/emf/" name="EMF" description="Verbeterde metabestandsindeling" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/python-net/grayscale/emz/" name="EMZ" description="Windows gecomprimeerd verbeterd metabestand" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/python-net/grayscale/gif/" name="GIF" description="Grafisch uitwisselingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/python-net/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/python-net/grayscale/j2k/" name="J2K" description="Wavelet gecomprimeerde afbeelding" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/python-net/grayscale/png/" name="PNG" description="Draagbare netwerkgrafieken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/python-net/grayscale/tiff/" name="TIFF" description="Gelabelde afbeeldingsindeling" >}}

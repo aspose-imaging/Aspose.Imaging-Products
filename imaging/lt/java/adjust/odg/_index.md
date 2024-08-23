@@ -138,6 +138,7 @@ ODG failo formatą naudoja „Apache OpenOffice“ programa „Draw“, kad išs
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/adjust/cdr/" name="CDR" description="Vektorinio piešimo vaizdas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/adjust/cmx/" name="CMX" description="Corel Exchange vaizdas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/adjust/otg/" name="OTG" description="OpenDocument standartas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/adjust/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

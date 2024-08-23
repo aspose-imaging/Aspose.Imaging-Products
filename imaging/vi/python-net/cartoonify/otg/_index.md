@@ -122,6 +122,7 @@ Tệp OTG là mẫu bản vẽ được tạo bằng tiêu chuẩn OpenDocument 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/python-net/cartoonify/cdr/" name="CDR" description="Hình ảnh Bản vẽ Véc tơ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/python-net/cartoonify/cmx/" name="CMX" description="Hình ảnh trao đổi Corel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/python-net/cartoonify/odg/" name="ODG" description="Apache OpenOffice Draw Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/python-net/cartoonify/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

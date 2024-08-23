@@ -120,6 +120,7 @@ JPEG 2000 (JP2) היא מערכת קידוד תמונה ותקן דחיסת תמ
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/python-net/remove-background/cmx/" name="CMX" description="תמונת Corel Exchange" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/python-net/remove-background/otg/" name="OTG" description="OpenDocument Standard" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/python-net/remove-background/odg/" name="ODG" description="Apache OpenOffice Draw Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/python-net/remove-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -56,9 +56,8 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
 {{% /blocks/products/pf/agp/text %}}
 
-– Microsoft Windows arba suderinama OS su .NET Framework, .NET Core, Windows Application, ASP.NET Web Application.
-- Kūrimo aplinka, tokia kaip Microsoft Visual Studio.
-– Aspose.Imaging, skirtas .NET, nurodytas jūsų projekte.
++ Operacinė sistema: Windows arba Linux.
++ Kūrimo aplinka: palaiko .NET Core 7 ir naujesnę versiją, pvz., Microsoft Visual Studio.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

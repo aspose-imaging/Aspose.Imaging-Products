@@ -112,6 +112,7 @@ Een J2K-bestand is een afbeelding die is gecomprimeerd met behulp van wavelet-co
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/grayscale/emz/" name="EMZ" description="Windows gecomprimeerd verbeterd metabestand" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/grayscale/gif/" name="GIF" description="Grafisch uitwisselingsformaat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/grayscale/png/" name="PNG" description="Draagbare netwerkgrafieken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/grayscale/tiff/" name="TIFF" description="Gelabelde afbeeldingsindeling" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/grayscale/tif/" name="TIF" description="Gelabelde afbeeldingsindeling" >}}

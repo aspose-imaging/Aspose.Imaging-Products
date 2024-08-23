@@ -102,6 +102,7 @@ ICO failo formatas yra vaizdo failo formatas, skirtas kompiuterio piktogramoms �
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/dither/apng/" name="APNG" description="Animuota nešiojama tinklo grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/dither/bmp/" name="BMP" description="Bitmap paveikslėlis" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/dither/jpg/" name="JPG" description="Jungtinė fotografijos ekspertų grupė" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/dither/jpeg/" name="JPEG" description="Jungtinė fotografijos ekspertų grupė" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/dither/dib/" name="DIB" description="Nuo įrenginio nepriklausomas bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/dither/dicom/" name="DICOM" description="Skaitmeninis vaizdas ir ryšiai" >}}

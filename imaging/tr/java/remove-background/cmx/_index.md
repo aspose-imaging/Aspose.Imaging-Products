@@ -136,6 +136,7 @@ CMX uzantılı dosyalar, CorelSuite uygulamaları tarafından sunum olarak kulla
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/remove-background/cdr/" name="CDR" description="Vektör Çizim Görüntüsü" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/remove-background/otg/" name="OTG" description="OpenDocument Standardı" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/remove-background/odg/" name="ODG" description="Apache OpenOffice Çizim Formatı" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/remove-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -100,6 +100,7 @@ JPEG เป็นรูปแบบรูปภาพประเภทหนึ
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/python-net/dither/bmp/" name="BMP" description="รูปภาพบิตแมป" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/python-net/dither/ico/" name="ICO" description="ไอคอน Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/python-net/dither/jpg/" name="JPG" description="กลุ่มผู้เชี่ยวชาญด้านการถ่ายภาพร่วม" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/python-net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/python-net/dither/dib/" name="DIB" description="บิตแมปอิสระของอุปกรณ์" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/python-net/dither/dicom/" name="DICOM" description="การถ่ายภาพและการสื่อสารดิจิทัล" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/python-net/dither/djvu/" name="DJVU" description="รูปแบบกราฟิก" >}}

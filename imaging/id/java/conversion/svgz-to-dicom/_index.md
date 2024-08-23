@@ -71,7 +71,8 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
 
 {{% /blocks/products/pf/agp/text %}}
 
-- JDK 1.6 atau lebih tinggi diinstal.
++ Sistem operasi: Windows atau Linux.
++ Lingkungan pengembangan: Mendukung .NET Core 7 dan lebih tinggi, seperti Microsoft Visual Studio.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

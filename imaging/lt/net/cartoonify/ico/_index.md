@@ -125,6 +125,7 @@ ICO failo formatas yra vaizdo failo formatas, skirtas kompiuterio piktogramoms â
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/cartoonify/cmx/" name="CMX" description="Corel Exchange vaizdas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/cartoonify/otg/" name="OTG" description="OpenDocument standartas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/cartoonify/odg/" name="ODG" description="Apache OpenOffice Draw formatas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/cartoonify/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

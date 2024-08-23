@@ -124,6 +124,7 @@ DjVu, tariamas kaip DJVU, yra grafinis failo formatas, skirtas nuskaitytiems dok
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/grayscale/emz/" name="EMZ" description="„Windows“ suspaustas patobulintas metafailas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/grayscale/gif/" name="GIF" description="Grafinis mainų formatas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/grayscale/j2k/" name="J2K" description="„Wavelet“ suspaustas vaizdas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/grayscale/png/" name="PNG" description="Nešiojamoji tinklo grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/grayscale/tiff/" name="TIFF" description="Pažymėtas vaizdo formatas" >}}

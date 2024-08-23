@@ -121,6 +121,7 @@ DICOM הוא ראשי התיבות של Digital Imaging and Communications in Me
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/net/filter/wmz/" name="WMZ" description="עור דחוס של Windows Media Player" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/net/filter/tga/" name="TGA" description="טארגה גרפיקה" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/net/filter/svg/" name="SVG" description="גרפיקה וקטורית ניתנת להרחבה" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/net/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/net/filter/eps/" name="EPS" description="שפת PostScript מובלעת" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/net/filter/cdr/" name="CDR" description="תמונה של ציור וקטור" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/net/filter/cmx/" name="CMX" description="תמונת Corel Exchange" >}}

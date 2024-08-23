@@ -125,6 +125,7 @@ ICO 文件格式是 Microsoft Windows 中计算机图标的图像文件格式。
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/binarize/cmx/" name="CMX" description="Corel 交换图像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/binarize/otg/" name="OTG" description="开放文档标准" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/binarize/odg/" name="ODG" description="Apache OpenOffice 绘图格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/binarize/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

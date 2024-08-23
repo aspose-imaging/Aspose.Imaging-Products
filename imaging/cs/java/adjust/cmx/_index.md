@@ -138,6 +138,7 @@ Soubory s příponou CMX jsou formát souboru obrázků Corel Exchange, který p
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/java/adjust/cdr/" name="CDR" description="Vektorové Kreslení Obrázek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/java/adjust/otg/" name="OTG" description="OpenDocument Standard" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/java/adjust/odg/" name="ODG" description="Formát Apache OpenOffice Draw" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/java/adjust/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

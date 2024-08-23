@@ -126,6 +126,7 @@ Truevision TGA, המכונה לעתים קרובות TARGA, הוא פורמט ק
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/net/cartoonify/cmx/" name="CMX" description="תמונת Corel Exchange" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/net/cartoonify/otg/" name="OTG" description="OpenDocument Standard" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/net/cartoonify/odg/" name="ODG" description="Apache OpenOffice Draw Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/net/cartoonify/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

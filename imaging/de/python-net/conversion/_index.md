@@ -188,6 +188,7 @@ Nachfolgend finden Sie eine vollständige Liste der Bildformate, in die Sie konv
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/from/otg/" style="padding:15px;">Konvertieren von OTG</a></div>
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/from/odg/" style="padding:15px;">Konvertieren von ODG</a></div>
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/from/ico/" style="padding:15px;">Konvertieren von ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/from/avif/" style="padding:15px;">Konvertieren von AVIF</a></div>
                 </div>
         </div>
     </div>

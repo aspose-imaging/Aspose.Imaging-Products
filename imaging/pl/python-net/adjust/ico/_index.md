@@ -122,6 +122,7 @@ Format pliku ICO to format pliku obrazu dla ikon komputera w systemie Microsoft 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/python-net/adjust/cmx/" name="CMX" description="Obraz wymiany firmy Corel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/python-net/adjust/otg/" name="OTG" description="Standard OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/python-net/adjust/odg/" name="ODG" description="Apache OpenOffice Draw format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/python-net/adjust/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

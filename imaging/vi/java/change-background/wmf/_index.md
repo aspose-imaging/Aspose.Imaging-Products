@@ -136,6 +136,7 @@ Các tệp có phần mở rộng WMF đại diện cho Microsoft Windows Metafi
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/change-background/cmx/" name="CMX" description="Hình ảnh trao đổi Corel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/change-background/otg/" name="OTG" description="Tiêu chuẩn OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/change-background/odg/" name="ODG" description="Apache OpenOffice Draw Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/change-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

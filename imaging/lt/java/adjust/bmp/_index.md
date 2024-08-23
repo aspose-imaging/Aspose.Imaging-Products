@@ -138,6 +138,7 @@ Failai, kurių plėtinys yra .BMP, yra taškinio vaizdo failai, naudojami taški
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/adjust/cmx/" name="CMX" description="Corel Exchange vaizdas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/adjust/otg/" name="OTG" description="OpenDocument standartas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/adjust/odg/" name="ODG" description="Apache OpenOffice Draw formatas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/adjust/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

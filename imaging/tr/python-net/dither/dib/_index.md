@@ -100,6 +100,7 @@ Bir DIB (Aygıttan Bağımsız Bitmap) dosyası, yapı olarak standart Bitmap do
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/python-net/dither/bmp/" name="BMP" description="Bitmap Resmi" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/python-net/dither/ico/" name="ICO" description="Windows simgesi" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/python-net/dither/jpg/" name="JPG" description="Birleşmiş Fotoğraf Uzmanları Grubu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/python-net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/python-net/dither/jpeg/" name="JPEG" description="Birleşmiş Fotoğraf Uzmanları Grubu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/python-net/dither/dicom/" name="DICOM" description="Dijital Görüntüleme ve İletişim" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/python-net/dither/djvu/" name="DJVU" description="Grafik Formatı" >}}

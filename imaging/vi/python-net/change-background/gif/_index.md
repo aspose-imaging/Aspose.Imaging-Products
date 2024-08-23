@@ -120,6 +120,7 @@ GIF hoặc Định dạng trao đổi đồ họa là một loại hình ảnh c
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/python-net/change-background/cmx/" name="CMX" description="Hình ảnh trao đổi Corel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/python-net/change-background/otg/" name="OTG" description="Tiêu chuẩn OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/python-net/change-background/odg/" name="ODG" description="Apache OpenOffice Draw Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/python-net/change-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

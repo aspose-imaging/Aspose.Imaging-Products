@@ -100,6 +100,7 @@ DjVu, được phát âm là DJVU, là một định dạng tệp đồ họa d�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/python-net/dither/bmp/" name="BMP" description="Ảnh bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/python-net/dither/ico/" name="ICO" description="Biểu tượng Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/python-net/dither/jpg/" name="JPG" description="Nhóm chuyên gia nhiếp ảnh chung" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/python-net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/python-net/dither/jpeg/" name="JPEG" description="Nhóm chuyên gia nhiếp ảnh chung" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/python-net/dither/dib/" name="DIB" description="Bản đồ bit độc lập với thiết bị" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/python-net/dither/dicom/" name="DICOM" description="Hình ảnh & Truyền thông Kỹ thuật số" >}}

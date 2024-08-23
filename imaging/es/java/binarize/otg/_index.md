@@ -138,6 +138,7 @@ Un archivo OTG es una plantilla de dibujo que se crea utilizando el estándar Op
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/java/binarize/cdr/" name="CDR" description="Imagen de dibujo vectorial" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/java/binarize/cmx/" name="CMX" description="Imagen de intercambio de Corel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/java/binarize/odg/" name="ODG" description="Formato de dibujo de Apache OpenOffice" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/java/binarize/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -125,6 +125,7 @@ PNG, Portable Network Graphics, se refiere a un tipo de formato de archivo de im
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/java/grayscale/emz/" name="EMZ" description="Metarchivo mejorado comprimido de Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/java/grayscale/gif/" name="GIF" description="Formato de intercambio gráfico" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/java/grayscale/jp2/" name="JP2" description="JPEG2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/java/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/java/grayscale/j2k/" name="J2K" description="Imagen comprimida Wavelet" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/java/grayscale/tiff/" name="TIFF" description="Formato de imagen etiquetada" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/java/grayscale/tif/" name="TIF" description="Formato de imagen etiquetada" >}}

@@ -118,6 +118,7 @@ Los archivos con la extensión CMX son un formato de archivo de imagen de Corel 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/python-net/filter/wmz/" name="WMZ" description="Máscara de Windows Media Player comprimida" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/python-net/filter/tga/" name="TGA" description="Gráfico Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/python-net/filter/svg/" name="SVG" description="gráficas vectoriales escalables" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/python-net/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/python-net/filter/eps/" name="EPS" description="Lenguaje PostScript Encapsulado" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/python-net/filter/cdr/" name="CDR" description="Imagen de dibujo vectorial" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/python-net/filter/otg/" name="OTG" description="Estándar de documento abierto" >}}

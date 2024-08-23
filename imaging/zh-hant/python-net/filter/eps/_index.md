@@ -118,6 +118,7 @@ Aspose.Imaging API 是一種圖像處理解決方案，用於在應用程序中�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/filter/wmz/" name="WMZ" description="壓縮的 Windows Media Player 皮膚" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/filter/tga/" name="TGA" description="塔加圖形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/filter/svg/" name="SVG" description="可縮放矢量圖形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/filter/cdr/" name="CDR" description="矢量繪圖圖像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/filter/cmx/" name="CMX" description="Corel 交換圖像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/filter/otg/" name="OTG" description="開放文檔標準" >}}

@@ -138,6 +138,7 @@ DIB (nuo įrenginio nepriklausomo taškinės schemos) failas yra rastrinio vaizd
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/binarize/cmx/" name="CMX" description="Corel Exchange vaizdas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/binarize/otg/" name="OTG" description="OpenDocument standartas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/binarize/odg/" name="ODG" description="Apache OpenOffice Draw formatas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/binarize/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

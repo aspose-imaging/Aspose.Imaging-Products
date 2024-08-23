@@ -104,6 +104,7 @@ DICOM ย่อมาจาก Digital Imaging and Communications in Medicine �
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/net/dither/bmp/" name="BMP" description="รูปภาพบิตแมป" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/net/dither/ico/" name="ICO" description="ไอคอน Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/net/dither/jpg/" name="JPG" description="กลุ่มผู้เชี่ยวชาญด้านการถ่ายภาพร่วม" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/net/dither/jpeg/" name="JPEG" description="กลุ่มผู้เชี่ยวชาญด้านการถ่ายภาพร่วม" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/net/dither/dib/" name="DIB" description="บิตแมปอิสระของอุปกรณ์" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/net/dither/djvu/" name="DJVU" description="รูปแบบกราฟิก" >}}

@@ -100,6 +100,7 @@ DIB（設備獨立位圖）文件是一種光柵圖像文件，其結構類似�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/dither/bmp/" name="BMP" description="位圖圖片" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/dither/ico/" name="ICO" description="窗口圖標" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/dither/jpg/" name="JPG" description="聯合攝影專家組" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/dither/jpeg/" name="JPEG" description="聯合攝影專家組" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/dither/dicom/" name="DICOM" description="數碼影像與通訊" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/dither/djvu/" name="DJVU" description="圖形格式" >}}

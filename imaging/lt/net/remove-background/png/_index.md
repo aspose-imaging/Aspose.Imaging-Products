@@ -123,6 +123,7 @@ PNG, Portable Network Graphics, reiškia rastrinio vaizdo failo formato tipą, k
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/remove-background/cmx/" name="CMX" description="Corel Exchange vaizdas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/remove-background/otg/" name="OTG" description="OpenDocument standartas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/remove-background/odg/" name="ODG" description="Apache OpenOffice Draw formatas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/remove-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

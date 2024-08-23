@@ -111,6 +111,7 @@ GIF veya Grafik Değişim Biçimi, yüksek oranda sıkıştırılmış bir gör�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/grayscale/emf/" name="EMF" description="Gelişmiş Meta Dosyası Formatı" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/grayscale/emz/" name="EMZ" description="Windows Sıkıştırılmış Gelişmiş Meta Dosyası" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/grayscale/j2k/" name="J2K" description="Dalgacık Sıkıştırılmış Görüntü" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/grayscale/png/" name="PNG" description="taşınabilir Ağ Grafikleri" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/grayscale/tiff/" name="TIFF" description="Etiketli Görüntü Formatı" >}}

@@ -120,6 +120,7 @@ OTG failas yra piešimo šablonas, sukurtas naudojant OpenDocument standartą, a
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/python-net/change-background/cdr/" name="CDR" description="Vektorinio piešimo vaizdas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/python-net/change-background/cmx/" name="CMX" description="Corel Exchange vaizdas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/python-net/change-background/odg/" name="ODG" description="Apache OpenOffice Draw formatas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/python-net/change-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

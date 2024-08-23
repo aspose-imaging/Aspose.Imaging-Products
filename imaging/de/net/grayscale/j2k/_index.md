@@ -113,6 +113,7 @@ Eine J2K-Datei ist ein Bild, das mit der Wavelet-Komprimierung anstelle der DCT-
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/grayscale/emz/" name="EMZ" description="Windows komprimierte erweiterte Metadatei" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/grayscale/gif/" name="GIF" description="Grafisches Austauschformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/grayscale/jp2/" name="JP2" description="JPEG2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/grayscale/png/" name="PNG" description="Portable Netzwerkgrafiken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/grayscale/tiff/" name="TIFF" description="Markiertes Bildformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/grayscale/tif/" name="TIF" description="Markiertes Bildformat" >}}

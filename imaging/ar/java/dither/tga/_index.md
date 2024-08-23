@@ -116,6 +116,7 @@ Truevision TGA ، الذي يشار إليه غالبًا باسم TARGA ، هو
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/java/dither/bmp/" name="BMP" description="صورة نقطية" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/java/dither/ico/" name="ICO" description="رمز Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/java/dither/jpg/" name="JPG" description="مجموعة خبراء التصوير المشتركة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/java/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/java/dither/jpeg/" name="JPEG" description="مجموعة خبراء التصوير المشتركة" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/java/dither/dib/" name="DIB" description="صورة نقطية مستقلة عن الجهاز" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/java/dither/dicom/" name="DICOM" description="التصوير الرقمي والاتصالات" >}}

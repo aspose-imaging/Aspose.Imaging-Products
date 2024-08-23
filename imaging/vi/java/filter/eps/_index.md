@@ -134,6 +134,7 @@ Các tệp có phần mở rộng EPS về cơ bản mô tả một chương tr�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/filter/wmz/" name="WMZ" description="Giao diện Windows Media Player được nén" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/filter/tga/" name="TGA" description="Đồ họa Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/filter/svg/" name="SVG" description="Đồ họa vector có thể mở rộng" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/filter/cdr/" name="CDR" description="Hình ảnh Bản vẽ Véc tơ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/filter/cmx/" name="CMX" description="Hình ảnh trao đổi Corel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/filter/otg/" name="OTG" description="Tiêu chuẩn OpenDocument" >}}

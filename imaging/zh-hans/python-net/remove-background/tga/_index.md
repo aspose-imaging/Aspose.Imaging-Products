@@ -120,6 +120,7 @@ Truevision TGA，通常称为 TARGA，是由 Truevision Inc.（现为 Avid Techn
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/python-net/remove-background/cmx/" name="CMX" description="Corel 交换图像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/python-net/remove-background/otg/" name="OTG" description="开放文档标准" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/python-net/remove-background/odg/" name="ODG" description="Apache OpenOffice 绘图格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/python-net/remove-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -99,6 +99,7 @@ En JPEG är en typ av bildformat som sparas med metoden för förlustkomprimerin
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/python-net/dither/apng/" name="APNG" description="Animerad bärbar nätverksgrafik" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/python-net/dither/bmp/" name="BMP" description="Bitmap bild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/python-net/dither/ico/" name="ICO" description="Windows-ikonen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/python-net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/python-net/dither/jpeg/" name="JPEG" description="Förenade Fotografers Expert Grupp" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/python-net/dither/dib/" name="DIB" description="Enhetsoberoende bitmapp" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/python-net/dither/dicom/" name="DICOM" description="Digital bildbehandling och kommunikation" >}}

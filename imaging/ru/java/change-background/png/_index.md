@@ -136,6 +136,7 @@ PNG, переносимая сетевая графика, относится к
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/change-background/cmx/" name="CMX" description="Обмен изображениями Corel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/change-background/otg/" name="OTG" description="Стандарт OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/change-background/odg/" name="ODG" description="Формат отрисовки Apache OpenOffice" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/change-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

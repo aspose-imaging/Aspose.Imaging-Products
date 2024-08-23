@@ -54,8 +54,8 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows / Linux s .NET Core Runtime.
-- Správce balíčků Python a PyPi.
++ Operační systém: Windows nebo Linux.
++ Vývojové prostředí: Podporuje .NET Core 7 a vyšší, jako je Microsoft Visual Studio.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

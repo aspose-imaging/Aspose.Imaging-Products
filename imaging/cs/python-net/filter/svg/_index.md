@@ -117,6 +117,7 @@ Soubory SVG jsou soubory škálovatelné vektorové grafiky, které k popisu vzh
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/python-net/filter/wmf/" name="WMF" description="Microsoft Windows Metafile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/python-net/filter/wmz/" name="WMZ" description="Komprimovaný vzhled Windows Media Player" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/python-net/filter/tga/" name="TGA" description="Grafika Targa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/python-net/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/python-net/filter/eps/" name="EPS" description="Encapsulated PostScript Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/python-net/filter/cdr/" name="CDR" description="Vektorové Kreslení Obrázek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/python-net/filter/cmx/" name="CMX" description="Obrázek Corel Exchange" >}}

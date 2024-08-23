@@ -125,6 +125,7 @@ Een OTG-bestand is een tekeningsjabloon die is gemaakt met behulp van de OpenDoc
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/cartoonify/cdr/" name="CDR" description="Vector tekening afbeelding" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/cartoonify/cmx/" name="CMX" description="Corel Exchange-afbeelding" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/cartoonify/odg/" name="ODG" description="Apache OpenOffice Draw-indeling" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/cartoonify/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

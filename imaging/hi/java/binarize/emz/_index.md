@@ -138,6 +138,7 @@ EMZ फ़ाइल एक्सटेंशन वाली फ़ाइल ए
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/binarize/cmx/" name="CMX" description="कोरल एक्सचेंज इमेज" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/binarize/otg/" name="OTG" description="OpenDocument मानक" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/binarize/odg/" name="ODG" description="अपाचे ओपनऑफिस ड्रा प्रारूप" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/binarize/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -125,6 +125,7 @@ TIFF of TIF, Tagged Image File Format, staat voor rasterafbeeldingen die bedoeld
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/grayscale/emz/" name="EMZ" description="Windows gecomprimeerd verbeterd metabestand" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/grayscale/gif/" name="GIF" description="Grafisch uitwisselingsformaat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/grayscale/j2k/" name="J2K" description="Wavelet gecomprimeerde afbeelding" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/grayscale/png/" name="PNG" description="Draagbare netwerkgrafieken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/grayscale/tif/" name="TIF" description="Gelabelde afbeeldingsindeling" >}}

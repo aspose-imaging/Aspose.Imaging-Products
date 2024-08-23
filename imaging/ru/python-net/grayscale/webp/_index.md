@@ -109,6 +109,7 @@ WebP, представленный Google, представляет собой �
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/python-net/grayscale/emz/" name="EMZ" description="Сжатый расширенный метафайл Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/python-net/grayscale/gif/" name="GIF" description="Графический формат обмена" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/python-net/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/python-net/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/python-net/grayscale/j2k/" name="J2K" description="Сжатое изображение вейвлета" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/python-net/grayscale/png/" name="PNG" description="Портативная сетевая графика" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/python-net/grayscale/tiff/" name="TIFF" description="Формат изображения с тегами" >}}

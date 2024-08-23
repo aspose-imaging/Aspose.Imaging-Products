@@ -108,6 +108,7 @@ En DIB-fil (Device Independent Bitmap) är en rasterbildsfil som i struktur likn
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/python-net/grayscale/emz/" name="EMZ" description="Windows komprimerad förbättrad metafil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/python-net/grayscale/gif/" name="GIF" description="Grafiskt utbytesformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/python-net/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/python-net/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/python-net/grayscale/j2k/" name="J2K" description="Wavelet komprimerad bild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/python-net/grayscale/png/" name="PNG" description="Bärbar nätverksgrafik" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/python-net/grayscale/tiff/" name="TIFF" description="Taggad bildformat" >}}

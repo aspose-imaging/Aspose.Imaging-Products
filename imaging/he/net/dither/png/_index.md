@@ -104,6 +104,7 @@ PNG, Portable Network Graphics, מתייחס לסוג של פורמט קובץ �
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/net/dither/bmp/" name="BMP" description="תמונת מפת סיביות" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/net/dither/ico/" name="ICO" description="סמל של Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/net/dither/jpg/" name="JPG" description="קבוצת מומחי צילום משותפת" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/net/dither/jpeg/" name="JPEG" description="קבוצת מומחי צילום משותפת" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/net/dither/dib/" name="DIB" description="מפת סיביות בלתי תלויה בהתקן" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/net/dither/dicom/" name="DICOM" description="הדמיה דיגיטלית ותקשורת" >}}

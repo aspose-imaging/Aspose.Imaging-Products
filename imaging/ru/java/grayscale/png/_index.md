@@ -125,6 +125,7 @@ PNG, переносимая сетевая графика, относится к
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/grayscale/emz/" name="EMZ" description="Сжатый расширенный метафайл Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/grayscale/gif/" name="GIF" description="Графический формат обмена" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/grayscale/j2k/" name="J2K" description="Сжатое изображение вейвлета" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/grayscale/tiff/" name="TIFF" description="Формат изображения с тегами" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/grayscale/tif/" name="TIF" description="Формат изображения с тегами" >}}

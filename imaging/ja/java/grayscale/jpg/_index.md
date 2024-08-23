@@ -124,6 +124,7 @@ JPEGは、非可逆圧縮方式を使用して保存される画像形式の一�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/grayscale/emz/" name="EMZ" description="Windows圧縮拡張メタファイル" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/grayscale/gif/" name="GIF" description="グラフィカルな交換形式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/grayscale/j2k/" name="J2K" description="ウェーブレット圧縮画像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/grayscale/png/" name="PNG" description="ポータブルネットワークグラフィックス" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/grayscale/tiff/" name="TIFF" description="タグ付き画像形式" >}}

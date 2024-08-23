@@ -113,6 +113,7 @@ EMF(Enhanced Metafile Format)는 그래픽 이미지를 장치에 독립적으�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/grayscale/emz/" name="EMZ" description="Windows 압축 확장 메타파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/grayscale/gif/" name="GIF" description="그래픽 교환 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/grayscale/j2k/" name="J2K" description="웨이블릿 압축 이미지" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/grayscale/png/" name="PNG" description="휴대용 네트워크 그래픽" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/grayscale/tiff/" name="TIFF" description="태그가 지정된 이미지 형식" >}}

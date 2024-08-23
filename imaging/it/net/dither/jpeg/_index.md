@@ -105,6 +105,7 @@ Un JPEG è un tipo di formato immagine che viene salvato utilizzando il metodo d
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/dither/bmp/" name="BMP" description="Immagine bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/dither/ico/" name="ICO" description="Icona di Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/dither/jpg/" name="JPG" description="Gruppo congiunto di esperti fotografici" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/dither/dib/" name="DIB" description="Bitmap indipendente dal dispositivo" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/dither/dicom/" name="DICOM" description="Immagini e comunicazioni digitali" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/dither/djvu/" name="DJVU" description="Formato grafico" >}}

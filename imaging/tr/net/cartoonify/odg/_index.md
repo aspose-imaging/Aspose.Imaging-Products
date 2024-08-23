@@ -125,6 +125,7 @@ ODG dosya formatı, çizim öğelerini bir vektör görüntüsü olarak depolama
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/cartoonify/cdr/" name="CDR" description="Vektör Çizim Görüntüsü" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/cartoonify/cmx/" name="CMX" description="Corel Exchange Görüntüsü" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/cartoonify/otg/" name="OTG" description="OpenDocument Standardı" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/cartoonify/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

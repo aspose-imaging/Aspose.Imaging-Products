@@ -138,6 +138,7 @@ WMZ विंडोज मीडिया प्लेयर में/के �
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/adjust/cmx/" name="CMX" description="कोरल एक्सचेंज इमेज" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/adjust/otg/" name="OTG" description="OpenDocument मानक" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/adjust/odg/" name="ODG" description="अपाचे ओपनऑफिस ड्रा प्रारूप" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/adjust/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

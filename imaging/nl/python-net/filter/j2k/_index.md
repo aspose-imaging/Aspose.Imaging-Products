@@ -117,6 +117,7 @@ Een J2K-bestand is een afbeelding die is gecomprimeerd met behulp van wavelet-co
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/python-net/filter/wmz/" name="WMZ" description="Gecomprimeerde Windows Media Player-skin" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/python-net/filter/tga/" name="TGA" description="Targa-afbeelding" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/python-net/filter/svg/" name="SVG" description="Schaalbare vectorafbeeldingen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/python-net/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/python-net/filter/eps/" name="EPS" description="Encapsulated PostScript-taal" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/python-net/filter/cdr/" name="CDR" description="Vector tekening afbeelding" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/python-net/filter/cmx/" name="CMX" description="Corel Exchange-afbeelding" >}}

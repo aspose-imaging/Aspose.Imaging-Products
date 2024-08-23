@@ -54,8 +54,8 @@ description: Як використовувати Python для перетвор�
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows / Linux з .NET Core Runtime.
-— Менеджер пакетів Python і PyPi.
++ Операційна система: Windows або Linux.
++ Середовище розробки: підтримує .NET Core 7 і вище, наприклад Microsoft Visual Studio.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

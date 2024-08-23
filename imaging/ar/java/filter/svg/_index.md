@@ -133,6 +133,7 @@ Aspose.Imaging API هو حل لمعالجة الصور لإنشاء أو تعد�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/java/filter/wmf/" name="WMF" description="ملف تعريف Microsoft Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/java/filter/wmz/" name="WMZ" description="غلاف Windows Media Player المضغوط" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/java/filter/tga/" name="TGA" description="تارجا جرافيك" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/java/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/java/filter/eps/" name="EPS" description="لغة PostScript مغلفة" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/java/filter/cdr/" name="CDR" description="ناقلات رسم الصورة" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/java/filter/cmx/" name="CMX" description="كوريل تبادل الصورة" >}}

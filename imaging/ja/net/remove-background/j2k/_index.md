@@ -123,6 +123,7 @@ J2Kファイルは、DCT圧縮の代わりにウェーブレット圧縮を使�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/remove-background/cmx/" name="CMX" description="CorelExchangeイメージ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/remove-background/otg/" name="OTG" description="OpenDocument標準" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/remove-background/odg/" name="ODG" description="ApacheOpenOfficeDrawフォーマット" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/remove-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

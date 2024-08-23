@@ -54,8 +54,8 @@ Antes de executar o código de exemplo de conversão, verifique se você tem os 
 
 {{% /blocks/products/pf/agp/text %}}
 
--Microsoft Windows/Linux com .NET Core Runtime.
-- Gerenciador de pacotes Python e PyPi.
++ Sistema operacional: Windows ou Linux.
++ Ambiente de desenvolvimento: Suporta .NET Core 7 e superior, como Microsoft Visual Studio.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

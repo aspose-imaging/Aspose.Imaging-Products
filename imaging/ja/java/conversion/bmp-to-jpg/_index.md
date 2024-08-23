@@ -71,7 +71,8 @@ description: BMPからJPGへのJava変換のサンプルコード。 Webまた�
 
 {{% /blocks/products/pf/agp/text %}}
 
--JDK1.6以降がインストールされています。
++ オペレーティング システム: Windows または Linux。
++ 開発環境: Microsoft Visual Studio などの .NET Core 7 以降をサポートします。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

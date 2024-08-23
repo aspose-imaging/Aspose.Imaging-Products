@@ -134,6 +134,7 @@ CMX拡張子の付いたファイルは、CorelSuiteアプリケーションに�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/filter/wmz/" name="WMZ" description="圧縮されたWindowsMediaPlayerスキン" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/filter/tga/" name="TGA" description="タルガグラフィック" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/filter/svg/" name="SVG" description="スケーラブルベクターグラフィックス" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/filter/eps/" name="EPS" description="カプセル化されたPostScript言語" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/filter/cdr/" name="CDR" description="ベクトル描画画像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/filter/otg/" name="OTG" description="OpenDocument標準" >}}

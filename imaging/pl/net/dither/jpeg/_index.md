@@ -105,6 +105,7 @@ JPEG to rodzaj formatu obrazu, który jest zapisywany przy użyciu metody kompre
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/dither/bmp/" name="BMP" description="Obraz bitmapowy" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/dither/ico/" name="ICO" description="Ikona Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/dither/jpg/" name="JPG" description="Wspólna Grupa Ekspertów Fotograficznych" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/dither/dib/" name="DIB" description="Mapa bitowa niezależna od urządzenia" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/dither/dicom/" name="DICOM" description="Obrazowanie cyfrowe i komunikacja" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/dither/djvu/" name="DJVU" description="Format graficzny" >}}

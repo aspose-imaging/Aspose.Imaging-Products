@@ -100,6 +100,7 @@ SVG 文件是使用基于 XML 的文本格式来描述图像外观的可缩放�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/python-net/dither/bmp/" name="BMP" description="位图图片" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/python-net/dither/ico/" name="ICO" description="窗口图标" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/python-net/dither/jpg/" name="JPG" description="联合摄影专家组" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/python-net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/python-net/dither/jpeg/" name="JPEG" description="联合摄影专家组" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/python-net/dither/dib/" name="DIB" description="设备无关位图" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/python-net/dither/dicom/" name="DICOM" description="数码影像与通讯" >}}

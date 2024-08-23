@@ -127,6 +127,7 @@ Um arquivo OTG é um modelo de desenho criado usando o padrão OpenDocument que 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/cartoonify/cdr/" name="CDR" description="Imagem de desenho vetorial" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/cartoonify/cmx/" name="CMX" description="Imagem do Corel Exchange" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/cartoonify/odg/" name="ODG" description="Formato de desenho do Apache OpenOffice" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/cartoonify/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

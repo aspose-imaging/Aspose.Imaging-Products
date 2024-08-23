@@ -188,6 +188,7 @@ SVG 이미지의 변환은 동일하며, SVG 이미지를 로드하고, 필요�
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/from/otg/" style="padding:15px;">다음에서 변환 OTG</a></div>
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/from/odg/" style="padding:15px;">다음에서 변환 ODG</a></div>
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/from/ico/" style="padding:15px;">다음에서 변환 ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/from/avif/" style="padding:15px;">다음에서 변환 AVIF</a></div>
                 </div>
         </div>
     </div>

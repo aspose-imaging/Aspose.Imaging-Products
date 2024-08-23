@@ -58,9 +58,8 @@ Antes de executar o código de exemplo de conversão, verifique se você tem os 
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ou um sistema operacional compatível com .NET Framework, .NET Core, Windows Application, ASP.NET Web Application.
-- Ambiente de desenvolvimento como Microsoft Visual Studio.
-- Aspose.Imaging for .NET referenciado em seu projeto.
++ Sistema operacional: Windows ou Linux.
++ Ambiente de desenvolvimento: Suporta .NET Core 7 e superior, como Microsoft Visual Studio.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

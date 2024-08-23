@@ -120,6 +120,7 @@ Le format de fichier ODG est utilisé par l'application Draw d'Apache OpenOffice
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/python-net/change-background/cdr/" name="CDR" description="Image de dessin vectoriel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/python-net/change-background/cmx/" name="CMX" description="Image d'échange Corel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/python-net/change-background/otg/" name="OTG" description="Norme OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/python-net/change-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

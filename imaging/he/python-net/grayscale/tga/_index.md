@@ -109,6 +109,7 @@ Truevision TGA, המכונה לעתים קרובות TARGA, הוא פורמט ק
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/python-net/grayscale/emz/" name="EMZ" description="Metafile משופר דחוס של Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/python-net/grayscale/gif/" name="GIF" description="פורמט מחלף גרפי" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/python-net/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/python-net/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/python-net/grayscale/j2k/" name="J2K" description="תמונה דחוסה של Wavelet" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/python-net/grayscale/png/" name="PNG" description="גרפיקת רשת ניידת" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/python-net/grayscale/tiff/" name="TIFF" description="פורמט תמונה מתויג" >}}

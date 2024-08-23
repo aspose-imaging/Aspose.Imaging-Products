@@ -138,6 +138,7 @@ Os arquivos SVG são arquivos gráficos vetoriais escaláveis ​​que usam o f
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/adjust/cmx/" name="CMX" description="Imagem do Corel Exchange" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/adjust/otg/" name="OTG" description="Padrão OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/adjust/odg/" name="ODG" description="Formato de desenho do Apache OpenOffice" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/adjust/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

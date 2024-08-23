@@ -133,6 +133,7 @@ SVG 파일은 이미지의 모양을 설명하기 위해 XML 기반 텍스트 �
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/filter/wmf/" name="WMF" description="마이크로소프트 윈도우 메타파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/filter/wmz/" name="WMZ" description="압축된 Windows Media Player 스킨" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/filter/tga/" name="TGA" description="타르가 그래픽" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/filter/eps/" name="EPS" description="캡슐화된 포스트스크립트 언어" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/filter/cdr/" name="CDR" description="벡터 드로잉 이미지" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/filter/cmx/" name="CMX" description="Corel 교환 이미지" >}}

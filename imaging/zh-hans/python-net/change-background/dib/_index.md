@@ -120,6 +120,7 @@ DIB（设备独立位图）文件是一种光栅图像文件，其结构类似�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/python-net/change-background/cmx/" name="CMX" description="Corel 交换图像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/python-net/change-background/otg/" name="OTG" description="开放文档标准" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/python-net/change-background/odg/" name="ODG" description="Apache OpenOffice 绘图格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/python-net/change-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

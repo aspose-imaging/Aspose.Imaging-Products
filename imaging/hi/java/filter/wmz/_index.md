@@ -133,6 +133,7 @@ WMZ विंडोज मीडिया प्लेयर में/के �
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/filter/wmf/" name="WMF" description="माइक्रोसॉफ्ट विंडोज मेटाफाइल" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/filter/tga/" name="TGA" description="टार्गा ग्राफिक" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/filter/svg/" name="SVG" description="स्केलेबल वेक्टर ग्राफिक्स" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/filter/eps/" name="EPS" description="एनकैप्सुलेटेड पोस्टस्क्रिप्ट भाषा" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/filter/cdr/" name="CDR" description="वेक्टर ड्राइंग छवि" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/filter/cmx/" name="CMX" description="कोरल एक्सचेंज इमेज" >}}

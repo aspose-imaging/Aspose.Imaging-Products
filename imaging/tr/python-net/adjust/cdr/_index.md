@@ -122,6 +122,7 @@ CDR dosyası, kodlanmış ve sıkıştırılmış dijital görüntüyü depolama
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/python-net/adjust/cmx/" name="CMX" description="Corel Exchange Görüntüsü" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/python-net/adjust/otg/" name="OTG" description="OpenDocument Standardı" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/python-net/adjust/odg/" name="ODG" description="Apache OpenOffice Çizim Formatı" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/python-net/adjust/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -124,6 +124,7 @@ JPEG 2000 (JP2) je systém kódování obrazu a nejmodernější standard kompre
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/java/grayscale/emf/" name="EMF" description="Vylepšený formát metasouborů" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/java/grayscale/emz/" name="EMZ" description="Windows Compressed Enhanced Metafile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/java/grayscale/gif/" name="GIF" description="Grafický výměnný formát" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/java/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/java/grayscale/j2k/" name="J2K" description="Wavelet Compressed Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/java/grayscale/png/" name="PNG" description="Přenosná síťová grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/java/grayscale/tiff/" name="TIFF" description="Formát tagovaného obrázku" >}}

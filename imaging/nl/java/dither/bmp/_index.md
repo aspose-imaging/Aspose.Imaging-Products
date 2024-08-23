@@ -115,6 +115,7 @@ Bestanden met de extensie .BMP vertegenwoordigen Bitmap Image-bestanden die word
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/dither/apng/" name="APNG" description="Geanimeerde draagbare netwerkgraphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/dither/ico/" name="ICO" description="Windows-pictogram" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/dither/jpg/" name="JPG" description="Joint Photographic Experts Group" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/dither/jpeg/" name="JPEG" description="Joint Photographic Experts Group" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/dither/dib/" name="DIB" description="Apparaatonafhankelijke bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/dither/dicom/" name="DICOM" description="Digitale beeldvorming en communicatie" >}}

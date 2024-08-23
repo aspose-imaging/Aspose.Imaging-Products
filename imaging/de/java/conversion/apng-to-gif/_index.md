@@ -71,7 +71,8 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
 
 {{% /blocks/products/pf/agp/text %}}
 
-- JDK 1.6 oder höher ist installiert.
++ Betriebssystem: Windows oder Linux.
++ Entwicklungsumgebung: Unterstützt .NET Core 7 und höher, z. B. Microsoft Visual Studio.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

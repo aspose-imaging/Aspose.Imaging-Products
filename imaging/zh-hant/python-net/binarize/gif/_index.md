@@ -122,6 +122,7 @@ GIF 或圖形交換格式是一種高度壓縮的圖像。 GIF 由 Unisys 擁有
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/binarize/cmx/" name="CMX" description="Corel 交換圖像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/binarize/otg/" name="OTG" description="開放文檔標準" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/binarize/odg/" name="ODG" description="Apache OpenOffice 繪圖格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/binarize/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

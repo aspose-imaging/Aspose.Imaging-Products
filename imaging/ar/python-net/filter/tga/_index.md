@@ -117,6 +117,7 @@ Truevision TGA ، الذي يشار إليه غالبًا باسم TARGA ، هو
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/python-net/filter/wmf/" name="WMF" description="ملف تعريف Microsoft Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/python-net/filter/wmz/" name="WMZ" description="غلاف Windows Media Player المضغوط" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/python-net/filter/svg/" name="SVG" description="الرسومات المتجهات قابلة لل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/python-net/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/python-net/filter/eps/" name="EPS" description="لغة PostScript مغلفة" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/python-net/filter/cdr/" name="CDR" description="ناقلات رسم الصورة" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/python-net/filter/cmx/" name="CMX" description="كوريل تبادل الصورة" >}}

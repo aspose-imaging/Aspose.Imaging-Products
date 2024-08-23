@@ -120,6 +120,7 @@ WMZ, Windows Media Player'da/içinde/tarafından kullanılan bir dış görünü
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/filter/wmf/" name="WMF" description="Microsoft Windows Meta Dosyası" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/filter/tga/" name="TGA" description="Targa Grafiği" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/filter/svg/" name="SVG" description="ölçeklendirilebilir Vektör Grafiği" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/filter/eps/" name="EPS" description="Kapsüllenmiş PostScript Dili" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/filter/cdr/" name="CDR" description="Vektör Çizim Görüntüsü" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/filter/cmx/" name="CMX" description="Corel Exchange Görüntüsü" >}}

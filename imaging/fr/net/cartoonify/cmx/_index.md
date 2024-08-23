@@ -127,6 +127,7 @@ Les fichiers avec l'extension CMX sont au format de fichier image Corel Exchange
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/cartoonify/cdr/" name="CDR" description="Image de dessin vectoriel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/cartoonify/otg/" name="OTG" description="Norme OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/cartoonify/odg/" name="ODG" description="Format de dessin Apache OpenOffice" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/cartoonify/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

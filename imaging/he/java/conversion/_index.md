@@ -188,6 +188,7 @@ description: המר קבצי תמונות, תמונות, תמונות פופול
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/from/otg/" style="padding:15px;">המר מ OTG</a></div>
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/from/odg/" style="padding:15px;">המר מ ODG</a></div>
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/from/ico/" style="padding:15px;">המר מ ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/from/avif/" style="padding:15px;">המר מ AVIF</a></div>
                 </div>
         </div>
     </div>

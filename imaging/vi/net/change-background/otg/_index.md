@@ -125,6 +125,7 @@ Tệp OTG là mẫu bản vẽ được tạo bằng tiêu chuẩn OpenDocument 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/change-background/cdr/" name="CDR" description="Hình ảnh Bản vẽ Véc tơ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/change-background/cmx/" name="CMX" description="Hình ảnh trao đổi Corel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/change-background/odg/" name="ODG" description="Apache OpenOffice Draw Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/change-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

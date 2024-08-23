@@ -123,6 +123,7 @@ Il formato di file ODG viene utilizzato dall'applicazione Draw di Apache OpenOff
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/filter/wmz/" name="WMZ" description="Skin compressa di Windows Media Player" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/filter/tga/" name="TGA" description="Grafica Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/filter/svg/" name="SVG" description="Grafica vettoriale scalabile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/filter/eps/" name="EPS" description="Linguaggio PostScript incapsulato" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/filter/cdr/" name="CDR" description="Immagine di disegno vettoriale" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/filter/cmx/" name="CMX" description="Immagine di scambio di Corel" >}}

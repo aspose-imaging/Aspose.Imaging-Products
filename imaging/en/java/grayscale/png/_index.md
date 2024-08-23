@@ -125,6 +125,7 @@ PNG, Portable Network Graphics, refers to a type of raster image file format tha
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/grayscale/emz/" name="EMZ" description="Windows Compressed Enhanced Metafile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/grayscale/gif/" name="GIF" description="Graphical Interchange Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/grayscale/j2k/" name="J2K" description="Wavelet Compressed Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/grayscale/tiff/" name="TIFF" description="Tagged Image Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/grayscale/tif/" name="TIF" description="Tagged Image Format" >}}

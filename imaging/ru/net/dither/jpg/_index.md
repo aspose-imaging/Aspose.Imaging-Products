@@ -104,6 +104,7 @@ JPEG — это тип формата изображения, который с�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/dither/apng/" name="APNG" description="Анимированная портативная сетевая графика" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/dither/bmp/" name="BMP" description="Растровое изображение" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/dither/ico/" name="ICO" description="Значок Windows" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/dither/jpeg/" name="JPEG" description="Объединенная группа экспертов по фотографии" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/dither/dib/" name="DIB" description="Независимое от устройства растровое изображение" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/dither/dicom/" name="DICOM" description="Цифровая визуализация и связь" >}}

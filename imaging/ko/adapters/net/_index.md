@@ -22,7 +22,7 @@ description: Aspose.Imaging 어댑터와 다양한 Aspose 제품을 사용하여
 
 <h3><a href="https://reference.aspose.com/imaging/adapters/net/aspose.imaging.heic.adapter/">Aspose.Imaging.Heic.Adapter</a></h3>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">.NET용 Aspose.Imaging.Heic.Adapter는 두 개의 강력한 라이브러리인 .NET용 Aspose.Imaging과 .NET용 Openize.Heic을 손쉽게 결합하여 형식 변환 기능을 향상시키는 완전한 솔루션을 제공합니다. 오픈 소스 SDK인 Openize.Heic은 HEVC(고효율 비디오 코딩) 인코딩 이미지를 지원하는 HEIF 파일 형식 디코더를 통합합니다. HEIC가 iOS 장치의 기본 이미지 형식이라는 점을 감안할 때 iPhone에서 PC로 사진을 전송하려면 HEIC를 보다 보편적으로 호환되는 형식으로 변환하는 것이 필수적입니다. 이 강력한 조합은 HEIC 형식과 광범위한 래스터 및 벡터 이미지 간의 원활한 변환을 촉진합니다. 두 라이브러리의 고유한 기능을 활용하는 어댑터는 HEIC 이미지 형식을 JPEG, PNG, PDF, GIF, TIFF, WEBP 등을 포함하여 Aspose.Imaging 라이브러리에서 지원하는 형식으로 원활하게 변환할 수 있도록 다양한 기회를 열어줍니다. 이미지 관리 시스템 최적화, 미디어 처리 워크플로우 단순화 등 .NET용 Aspose.Imaging Heic.Adapter는 개발자가 디지털 자산 관리에 있어 새로운 기술적 지평을 탐색하고 혁신을 주도할 수 있도록 지원합니다.</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">.NET용 Aspose.Imaging.Heic.Adapter는 두 개의 강력한 라이브러리인 .NET용 Aspose.Imaging과 .NET용 FileFormat.Heic을 손쉽게 결합하여 형식 변환 기능을 향상시키는 완전한 솔루션을 제공합니다. 오픈 소스 SDK인 FileFormat.Heic은 HEVC(고효율 비디오 코딩) 인코딩 이미지를 지원하는 HEIF 파일 형식 디코더를 통합합니다. HEIC가 iOS 장치의 기본 이미지 형식이라는 점을 감안할 때 iPhone에서 PC로 사진을 전송하려면 HEIC를 보다 보편적으로 호환되는 형식으로 변환하는 것이 필수적입니다. 이 강력한 조합은 HEIC 형식과 광범위한 래스터 및 벡터 이미지 간의 원활한 변환을 촉진합니다. 두 라이브러리의 고유한 기능을 활용하는 어댑터는 HEIC 이미지 형식을 JPEG, PNG, PDF, GIF, TIFF, WEBP 등을 포함하여 Aspose.Imaging 라이브러리에서 지원하는 형식으로 원활하게 변환할 수 있도록 다양한 기회를 열어줍니다. 이미지 관리 시스템 최적화, 미디어 처리 워크플로우 단순화 등 .NET용 Aspose.Imaging Heic.Adapter는 개발자가 디지털 자산 관리에 있어 새로운 기술적 지평을 탐색하고 혁신을 주도할 수 있도록 지원합니다.</p>
 
 
 {{% /blocks/products/pf/agp/content %}}

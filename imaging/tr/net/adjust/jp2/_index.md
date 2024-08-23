@@ -125,6 +125,7 @@ JPEG 2000 (JP2), bir görüntü kodlama sistemi ve son teknoloji görüntü sık
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/adjust/cmx/" name="CMX" description="Corel Exchange Görüntüsü" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/adjust/otg/" name="OTG" description="OpenDocument Standardı" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/adjust/odg/" name="ODG" description="Apache OpenOffice Çizim Formatı" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/adjust/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

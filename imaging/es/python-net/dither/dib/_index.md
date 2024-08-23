@@ -100,6 +100,7 @@ Un archivo DIB (mapa de bits independiente del dispositivo) es un archivo de ima
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/python-net/dither/bmp/" name="BMP" description="Imagen de mapa de bits" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/python-net/dither/ico/" name="ICO" description="icono de ventanas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/python-net/dither/jpg/" name="JPG" description="Joint Photographic Experts Group" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/python-net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/python-net/dither/jpeg/" name="JPEG" description="Joint Photographic Experts Group" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/python-net/dither/dicom/" name="DICOM" description="Imágenes digitales y comunicaciones" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/python-net/dither/djvu/" name="DJVU" description="Formato de gráficos" >}}

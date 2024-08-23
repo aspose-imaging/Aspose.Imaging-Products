@@ -110,6 +110,7 @@ JPEG 2000 (JP2) هو نظام ترميز للصور وأحدث معايير ضغ
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/net/grayscale/emf/" name="EMF" description="تنسيق ملف التعريف المحسن" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/net/grayscale/emz/" name="EMZ" description="ملف تعريف محسن مضغوط لـ Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/net/grayscale/gif/" name="GIF" description="تنسيق التبادل الرسومي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/net/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/net/grayscale/j2k/" name="J2K" description="صورة مضغوطة Wavelet" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/net/grayscale/png/" name="PNG" description="رسومات الشبكة المحمولة" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/net/grayscale/tiff/" name="TIFF" description="تنسيق الصورة الموسومة" >}}

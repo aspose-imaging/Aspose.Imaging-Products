@@ -115,6 +115,7 @@ JPEG הוא סוג של פורמט תמונה שנשמר בשיטת הדחיסה
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/java/dither/apng/" name="APNG" description="גרפיקת רשת ניידת מונפשת" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/java/dither/bmp/" name="BMP" description="תמונת מפת סיביות" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/java/dither/ico/" name="ICO" description="סמל של Windows" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/java/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/java/dither/jpeg/" name="JPEG" description="קבוצת מומחי צילום משותפת" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/java/dither/dib/" name="DIB" description="מפת סיביות בלתי תלויה בהתקן" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/java/dither/dicom/" name="DICOM" description="הדמיה דיגיטלית ותקשורת" >}}

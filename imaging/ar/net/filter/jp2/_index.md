@@ -119,6 +119,7 @@ JPEG 2000 (JP2) هو نظام ترميز للصور وأحدث معايير ضغ
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/net/filter/wmz/" name="WMZ" description="غلاف Windows Media Player المضغوط" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/net/filter/tga/" name="TGA" description="تارجا جرافيك" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/net/filter/svg/" name="SVG" description="الرسومات المتجهات قابلة لل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/net/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/net/filter/eps/" name="EPS" description="لغة PostScript مغلفة" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/net/filter/cdr/" name="CDR" description="ناقلات رسم الصورة" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/net/filter/cmx/" name="CMX" description="كوريل تبادل الصورة" >}}

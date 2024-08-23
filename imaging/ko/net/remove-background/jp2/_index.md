@@ -125,6 +125,7 @@ JPEG 2000(JP2)은 이미지 코딩 시스템이자 최첨단 이미지 압축 �
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/remove-background/cmx/" name="CMX" description="Corel 교환 이미지" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/remove-background/otg/" name="OTG" description="OpenDocument 표준" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/remove-background/odg/" name="ODG" description="Apache OpenOffice 그리기 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/remove-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

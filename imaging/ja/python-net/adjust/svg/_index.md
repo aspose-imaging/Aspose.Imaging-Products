@@ -122,6 +122,7 @@ SVGファイルは、画像の外観を記述するためにXMLベースのテ�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/python-net/adjust/cmx/" name="CMX" description="CorelExchangeイメージ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/python-net/adjust/otg/" name="OTG" description="OpenDocument標準" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/python-net/adjust/odg/" name="ODG" description="ApacheOpenOfficeDrawフォーマット" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/python-net/adjust/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

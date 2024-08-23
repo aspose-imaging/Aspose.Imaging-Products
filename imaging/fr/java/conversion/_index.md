@@ -188,6 +188,7 @@ Vous trouverez ci-dessous la liste complète des formats d'image vers lesquels v
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/from/otg/" style="padding:15px;">Convertir à partir de OTG</a></div>
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/from/odg/" style="padding:15px;">Convertir à partir de ODG</a></div>
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/from/ico/" style="padding:15px;">Convertir à partir de ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/from/avif/" style="padding:15px;">Convertir à partir de AVIF</a></div>
                 </div>
         </div>
     </div>

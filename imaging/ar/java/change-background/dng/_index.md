@@ -136,6 +136,7 @@ DNG هو تنسيق صورة كاميرا رقمية يستخدم لتخزين �
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/java/change-background/cmx/" name="CMX" description="كوريل تبادل الصورة" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/java/change-background/otg/" name="OTG" description="معيار OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/java/change-background/odg/" name="ODG" description="تنسيق رسم Apache OpenOffice" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/java/change-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

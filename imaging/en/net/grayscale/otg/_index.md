@@ -113,6 +113,7 @@ An OTG file is a drawing template that is created using the OpenDocument standar
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/grayscale/emz/" name="EMZ" description="Windows Compressed Enhanced Metafile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/grayscale/gif/" name="GIF" description="Graphical Interchange Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/grayscale/j2k/" name="J2K" description="Wavelet Compressed Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/grayscale/png/" name="PNG" description="Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/grayscale/tiff/" name="TIFF" description="Tagged Image Format" >}}

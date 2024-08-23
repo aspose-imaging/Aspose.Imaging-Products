@@ -102,6 +102,7 @@ ICO 文件格式是 Microsoft Windows 中计算机图标的图像文件格式。
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/dither/apng/" name="APNG" description="动画便携式网络图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/dither/bmp/" name="BMP" description="位图图片" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/dither/jpg/" name="JPG" description="联合摄影专家组" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/dither/jpeg/" name="JPEG" description="联合摄影专家组" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/dither/dib/" name="DIB" description="设备无关位图" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/dither/dicom/" name="DICOM" description="数码影像与通讯" >}}

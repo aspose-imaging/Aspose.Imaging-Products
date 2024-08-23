@@ -103,6 +103,7 @@ TIFFまたはTIF（タグ付き画像ファイル形式）は、このファイ�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/dither/bmp/" name="BMP" description="ビットマップ画像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/dither/ico/" name="ICO" description="Windows アイコン" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/dither/jpg/" name="JPG" description="共同写真専門家グループ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/dither/jpeg/" name="JPEG" description="共同写真専門家グループ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/dither/dib/" name="DIB" description="デバイスに依存しないビットマップ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/dither/dicom/" name="DICOM" description="デジタルイメージング＆コミュニケーション" >}}

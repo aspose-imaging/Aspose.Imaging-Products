@@ -117,6 +117,7 @@ Aspose.Imaging API는 애플리케이션 내에서 이미지(사진)를 생성, 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/python-net/filter/wmz/" name="WMZ" description="압축된 Windows Media Player 스킨" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/python-net/filter/tga/" name="TGA" description="타르가 그래픽" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/python-net/filter/svg/" name="SVG" description="확장 가능한 벡터 그래픽" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/python-net/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/python-net/filter/eps/" name="EPS" description="캡슐화된 포스트스크립트 언어" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/python-net/filter/cdr/" name="CDR" description="벡터 드로잉 이미지" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/python-net/filter/cmx/" name="CMX" description="Corel 교환 이미지" >}}

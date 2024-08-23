@@ -109,6 +109,7 @@ Format pliku ODG jest używany przez aplikację Draw Apache OpenOffice do przech
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/python-net/grayscale/emz/" name="EMZ" description="Rozszerzony metaplik skompresowany w systemie Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/python-net/grayscale/gif/" name="GIF" description="Graficzny format wymiany" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/python-net/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/python-net/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/python-net/grayscale/j2k/" name="J2K" description="Skompresowany obraz falkowy" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/python-net/grayscale/png/" name="PNG" description="Przenośna Grafika Sieciowa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/python-net/grayscale/tiff/" name="TIFF" description="Oznaczony format obrazu" >}}

@@ -54,8 +54,8 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows / Linux su .NET Core Runtime.
-- Python ir PyPi paketų tvarkyklė.
++ Operacinė sistema: Windows arba Linux.
++ Kūrimo aplinka: palaiko .NET Core 7 ir naujesnę versiją, pvz., Microsoft Visual Studio.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

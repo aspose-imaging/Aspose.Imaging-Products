@@ -136,6 +136,7 @@ Un JPEG è un tipo di formato immagine che viene salvato utilizzando il metodo d
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/remove-background/cmx/" name="CMX" description="Immagine di scambio di Corel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/remove-background/otg/" name="OTG" description="Standard OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/remove-background/odg/" name="ODG" description="Formato Apache OpenOffice Draw" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/remove-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

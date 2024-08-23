@@ -114,6 +114,7 @@ Tệp J2K là hình ảnh được nén bằng cách sử dụng nén wavelet th
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/grayscale/emz/" name="EMZ" description="Siêu tệp nâng cao được nén của Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/grayscale/gif/" name="GIF" description="Định dạng trao đổi đồ họa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/grayscale/png/" name="PNG" description="Biểu đồ minh họa mạng lưới không dây" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/grayscale/tiff/" name="TIFF" description="Định dạng hình ảnh được gắn thẻ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/grayscale/tif/" name="TIF" description="Định dạng hình ảnh được gắn thẻ" >}}

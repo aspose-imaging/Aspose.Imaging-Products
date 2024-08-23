@@ -136,6 +136,7 @@ DNG es un formato de imagen de cámara digital utilizado para el almacenamiento 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/java/change-background/cmx/" name="CMX" description="Imagen de intercambio de Corel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/java/change-background/otg/" name="OTG" description="Estándar de documento abierto" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/java/change-background/odg/" name="ODG" description="Formato de dibujo de Apache OpenOffice" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/java/change-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

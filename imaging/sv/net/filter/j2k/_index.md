@@ -121,6 +121,7 @@ En J2K-fil är en bild som komprimeras med hjälp av wavelet-komprimering istäl
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/net/filter/wmz/" name="WMZ" description="Komprimerat Windows Media Player-skal" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/net/filter/tga/" name="TGA" description="Targa grafik" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/net/filter/svg/" name="SVG" description="Skalbar vektorgrafik" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/net/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/net/filter/eps/" name="EPS" description="Inkapslat PostScript-språk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/net/filter/cdr/" name="CDR" description="Vektor Ritning Bild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/net/filter/cmx/" name="CMX" description="Corel Exchange-bild" >}}

@@ -120,6 +120,7 @@ SVG 文件是使用基於 XML 的文本格式來描述圖像外觀的可縮放�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/change-background/cmx/" name="CMX" description="Corel 交換圖像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/change-background/otg/" name="OTG" description="開放文檔標準" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/change-background/odg/" name="ODG" description="Apache OpenOffice 繪圖格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/change-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

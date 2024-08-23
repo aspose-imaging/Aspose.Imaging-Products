@@ -117,6 +117,7 @@ DNG 是一种用于存储原始文件的数码相机图像格式。它是由 Ado
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/dither/bmp/" name="BMP" description="位图图片" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/dither/ico/" name="ICO" description="窗口图标" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/dither/jpg/" name="JPG" description="联合摄影专家组" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/dither/jpeg/" name="JPEG" description="联合摄影专家组" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/dither/dib/" name="DIB" description="设备无关位图" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/dither/dicom/" name="DICOM" description="数码影像与通讯" >}}

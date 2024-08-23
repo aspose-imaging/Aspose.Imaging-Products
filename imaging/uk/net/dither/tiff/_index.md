@@ -104,6 +104,7 @@ TIFF або TIF, Tagged Image File Format, представляє растров
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/net/dither/bmp/" name="BMP" description="Растрове зображення" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/net/dither/ico/" name="ICO" description="Значок Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/net/dither/jpg/" name="JPG" description="Об’єднана експертна група з фотографій" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/net/dither/jpeg/" name="JPEG" description="Об’єднана експертна група з фотографій" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/net/dither/dib/" name="DIB" description="Незалежне від пристрою растрове зображення" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/net/dither/dicom/" name="DICOM" description="Цифрові зображення та комунікації" >}}

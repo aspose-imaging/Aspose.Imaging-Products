@@ -100,6 +100,7 @@ Truevision TGA ، الذي يشار إليه غالبًا باسم TARGA ، هو
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/python-net/dither/bmp/" name="BMP" description="صورة نقطية" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/python-net/dither/ico/" name="ICO" description="رمز Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/python-net/dither/jpg/" name="JPG" description="مجموعة خبراء التصوير المشتركة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/python-net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/python-net/dither/jpeg/" name="JPEG" description="مجموعة خبراء التصوير المشتركة" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/python-net/dither/dib/" name="DIB" description="صورة نقطية مستقلة عن الجهاز" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/python-net/dither/dicom/" name="DICOM" description="التصوير الرقمي والاتصالات" >}}

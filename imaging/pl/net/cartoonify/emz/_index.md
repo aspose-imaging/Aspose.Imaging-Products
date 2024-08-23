@@ -127,6 +127,7 @@ Plik z rozszerzeniem EMZ to skompresowany plik obrazu, dokładniej nazywany plik
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/cartoonify/cmx/" name="CMX" description="Obraz wymiany firmy Corel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/cartoonify/otg/" name="OTG" description="Standard OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/cartoonify/odg/" name="ODG" description="Apache OpenOffice Draw format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/cartoonify/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

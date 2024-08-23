@@ -100,6 +100,7 @@ Los archivos con la extensión WMF representan el metarchivo de Microsoft Window
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/python-net/dither/bmp/" name="BMP" description="Imagen de mapa de bits" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/python-net/dither/ico/" name="ICO" description="icono de ventanas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/python-net/dither/jpg/" name="JPG" description="Joint Photographic Experts Group" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/python-net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/python-net/dither/jpeg/" name="JPEG" description="Joint Photographic Experts Group" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/python-net/dither/dib/" name="DIB" description="Mapa de bits independiente del dispositivo" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/python-net/dither/dicom/" name="DICOM" description="Imágenes digitales y comunicaciones" >}}

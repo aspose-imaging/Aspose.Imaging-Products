@@ -120,6 +120,7 @@ ODG 파일 형식은 Apache OpenOffice의 그리기 응용 프로그램에서 �
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/python-net/change-background/cdr/" name="CDR" description="벡터 드로잉 이미지" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/python-net/change-background/cmx/" name="CMX" description="Corel 교환 이미지" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/python-net/change-background/otg/" name="OTG" description="OpenDocument 표준" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/python-net/change-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

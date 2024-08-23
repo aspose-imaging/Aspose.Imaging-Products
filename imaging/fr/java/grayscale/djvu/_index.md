@@ -124,6 +124,7 @@ DjVu, prononcé comme DJVU, est un format de fichier graphique destiné aux docu
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/grayscale/emz/" name="EMZ" description="Métafichier amélioré compressé Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/grayscale/gif/" name="GIF" description="Format d'échange graphique" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/grayscale/j2k/" name="J2K" description="Image compressée en ondelettes" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/grayscale/png/" name="PNG" description="Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/grayscale/tiff/" name="TIFF" description="Format d'image balisé" >}}

@@ -117,6 +117,7 @@ WMZ es una extensión de archivo para un formato de archivo de máscara en/para/
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/python-net/filter/wmf/" name="WMF" description="Metarchivo de Microsoft Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/python-net/filter/tga/" name="TGA" description="Gráfico Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/python-net/filter/svg/" name="SVG" description="gráficas vectoriales escalables" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/python-net/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/python-net/filter/eps/" name="EPS" description="Lenguaje PostScript Encapsulado" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/python-net/filter/cdr/" name="CDR" description="Imagen de dibujo vectorial" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/python-net/filter/cmx/" name="CMX" description="Imagen de intercambio de Corel" >}}

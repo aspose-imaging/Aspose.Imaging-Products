@@ -125,6 +125,7 @@ Un fichier J2K est une image compressée à l'aide de la compression par ondelet
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/grayscale/emz/" name="EMZ" description="Métafichier amélioré compressé Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/grayscale/gif/" name="GIF" description="Format d'échange graphique" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/grayscale/png/" name="PNG" description="Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/grayscale/tiff/" name="TIFF" description="Format d'image balisé" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/grayscale/tif/" name="TIF" description="Format d'image balisé" >}}

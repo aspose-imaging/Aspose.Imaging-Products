@@ -122,6 +122,7 @@ Dateien mit der Erweiterung .BMP stellen Bitmap-Bilddateien dar, die zum Speiche
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/python-net/cartoonify/cmx/" name="CMX" description="Corel Exchange-Bild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/python-net/cartoonify/otg/" name="OTG" description="OpenDocument-Standard" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/python-net/cartoonify/odg/" name="ODG" description="Apache OpenOffice Draw-Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/python-net/cartoonify/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

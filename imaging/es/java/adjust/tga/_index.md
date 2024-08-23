@@ -138,6 +138,7 @@ Truevision TGA, a menudo denominado TARGA, es un formato de archivo de gráficos
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/java/adjust/cmx/" name="CMX" description="Imagen de intercambio de Corel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/java/adjust/otg/" name="OTG" description="Estándar de documento abierto" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/java/adjust/odg/" name="ODG" description="Formato de dibujo de Apache OpenOffice" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/java/adjust/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

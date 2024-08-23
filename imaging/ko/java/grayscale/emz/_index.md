@@ -124,6 +124,7 @@ EMZ 파일 확장자를 가진 파일은 압축된 이미지 파일이며, 보�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/grayscale/emf/" name="EMF" description="향상된 메타파일 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/grayscale/gif/" name="GIF" description="그래픽 교환 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/grayscale/j2k/" name="J2K" description="웨이블릿 압축 이미지" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/grayscale/png/" name="PNG" description="휴대용 네트워크 그래픽" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/grayscale/tiff/" name="TIFF" description="태그가 지정된 이미지 형식" >}}

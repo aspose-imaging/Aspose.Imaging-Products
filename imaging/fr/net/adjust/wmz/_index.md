@@ -127,6 +127,7 @@ WMZ est une extension de fichier pour un format de fichier skin dans/pour/utilis
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/adjust/cmx/" name="CMX" description="Image d'échange Corel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/adjust/otg/" name="OTG" description="Norme OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/adjust/odg/" name="ODG" description="Format de dessin Apache OpenOffice" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/adjust/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

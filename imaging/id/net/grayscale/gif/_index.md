@@ -111,6 +111,7 @@ GIF atau Graphical Interchange Format adalah jenis gambar yang sangat terkompres
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/grayscale/emf/" name="EMF" description="Format Metafile yang Ditingkatkan" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/grayscale/emz/" name="EMZ" description="Metafile Terkompresi Windows yang Ditingkatkan" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/grayscale/j2k/" name="J2K" description="Gambar Terkompresi Wavelet" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/grayscale/png/" name="PNG" description="Grafik Jaringan Portabel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/grayscale/tiff/" name="TIFF" description="Format Gambar yang Ditandai" >}}

@@ -120,6 +120,7 @@ Aspose.Imaging API هو حل لمعالجة الصور لإنشاء أو تعد�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/python-net/remove-background/cdr/" name="CDR" description="ناقلات رسم الصورة" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/python-net/remove-background/cmx/" name="CMX" description="كوريل تبادل الصورة" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/python-net/remove-background/otg/" name="OTG" description="معيار OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/python-net/remove-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

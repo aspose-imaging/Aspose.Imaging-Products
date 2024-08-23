@@ -122,6 +122,7 @@ OTG फाइल एक ड्राइंग टेम्प्लेट है
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/net/filter/wmz/" name="WMZ" description="संपीड़ित विंडोज मीडिया प्लेयर त्वचा" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/net/filter/tga/" name="TGA" description="टार्गा ग्राफिक" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/net/filter/svg/" name="SVG" description="स्केलेबल वेक्टर ग्राफिक्स" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/net/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/net/filter/eps/" name="EPS" description="एनकैप्सुलेटेड पोस्टस्क्रिप्ट भाषा" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/net/filter/cdr/" name="CDR" description="वेक्टर ड्राइंग छवि" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/net/filter/cmx/" name="CMX" description="कोरल एक्सचेंज इमेज" >}}

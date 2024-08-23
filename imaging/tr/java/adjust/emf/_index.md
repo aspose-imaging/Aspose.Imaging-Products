@@ -138,6 +138,7 @@ Gelişmiş meta dosya biçimi (EMF), grafik görüntüleri aygıttan bağımsız
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/adjust/cmx/" name="CMX" description="Corel Exchange Görüntüsü" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/adjust/otg/" name="OTG" description="OpenDocument Standardı" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/adjust/odg/" name="ODG" description="Apache OpenOffice Çizim Formatı" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/adjust/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

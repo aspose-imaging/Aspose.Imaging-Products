@@ -100,6 +100,7 @@ DICOM is the acronym for Digital Imaging and Communications in Medicine and pert
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/python-net/dither/bmp/" name="BMP" description="Bitmap Picture" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/python-net/dither/ico/" name="ICO" description="Windows icon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/python-net/dither/jpg/" name="JPG" description="Joint Photographic Experts Group" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/python-net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/python-net/dither/jpeg/" name="JPEG" description="Joint Photographic Experts Group" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/python-net/dither/dib/" name="DIB" description="Device Independent Bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/python-net/dither/djvu/" name="DJVU" description="Graphics Format" >}}

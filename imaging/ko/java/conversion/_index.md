@@ -188,6 +188,7 @@ CDR의 변환 과정은 거의 동일하며, CDR 파일을 로드하고, 관련 
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/from/otg/" style="padding:15px;">다음에서 변환 OTG</a></div>
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/from/odg/" style="padding:15px;">다음에서 변환 ODG</a></div>
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/from/ico/" style="padding:15px;">다음에서 변환 ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/from/avif/" style="padding:15px;">다음에서 변환 AVIF</a></div>
                 </div>
         </div>
     </div>

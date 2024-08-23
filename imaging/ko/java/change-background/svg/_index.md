@@ -136,6 +136,7 @@ SVG 파일은 이미지의 모양을 설명하기 위해 XML 기반 텍스트 �
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/change-background/cmx/" name="CMX" description="Corel 교환 이미지" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/change-background/otg/" name="OTG" description="OpenDocument 표준" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/change-background/odg/" name="ODG" description="Apache OpenOffice 그리기 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/change-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

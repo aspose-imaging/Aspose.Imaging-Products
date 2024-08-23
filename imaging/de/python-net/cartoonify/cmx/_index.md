@@ -122,6 +122,7 @@ Dateien mit der Erweiterung CMX sind Corel Exchange-Bilddateiformate, die von Co
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/python-net/cartoonify/cdr/" name="CDR" description="Vektor-Zeichenbild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/python-net/cartoonify/otg/" name="OTG" description="OpenDocument-Standard" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/python-net/cartoonify/odg/" name="ODG" description="Apache OpenOffice Draw-Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/python-net/cartoonify/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

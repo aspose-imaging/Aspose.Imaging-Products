@@ -122,6 +122,7 @@ File dengan ekstensi CMX adalah format file gambar Corel Exchange yang digunakan
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/python-net/cartoonify/cdr/" name="CDR" description="Gambar Gambar Vektor" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/python-net/cartoonify/otg/" name="OTG" description="Standar Dokumen Terbuka" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/python-net/cartoonify/odg/" name="ODG" description="Format Undian Apache OpenOffice" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/python-net/cartoonify/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

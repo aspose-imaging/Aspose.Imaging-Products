@@ -138,6 +138,7 @@ Failai su CMX plėtiniu yra „Corel Exchange“ vaizdo failo formatas, naudojam
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/binarize/cdr/" name="CDR" description="Vektorinio piešimo vaizdas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/binarize/otg/" name="OTG" description="OpenDocument standartas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/binarize/odg/" name="ODG" description="Apache OpenOffice Draw formatas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/binarize/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

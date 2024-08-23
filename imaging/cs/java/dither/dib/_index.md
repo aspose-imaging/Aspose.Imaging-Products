@@ -116,6 +116,7 @@ Soubor DIB (Device Independent Bitmap) je soubor rastrového obrázku, který m�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/java/dither/bmp/" name="BMP" description="Bitmapový obrázek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/java/dither/ico/" name="ICO" description="ikona Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/java/dither/jpg/" name="JPG" description="Společná skupina fotografických expertů" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/java/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/java/dither/jpeg/" name="JPEG" description="Společná skupina fotografických expertů" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/java/dither/dicom/" name="DICOM" description="Digitální zobrazování a komunikace" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/java/dither/djvu/" name="DJVU" description="Grafický formát" >}}

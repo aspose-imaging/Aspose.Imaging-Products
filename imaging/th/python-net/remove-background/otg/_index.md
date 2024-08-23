@@ -120,6 +120,7 @@ Aspose.Imaging API เป็นโซลูชันการประมวล�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/python-net/remove-background/cdr/" name="CDR" description="วาดภาพเวกเตอร์" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/python-net/remove-background/cmx/" name="CMX" description="รูปภาพ Corel Exchange" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/python-net/remove-background/odg/" name="ODG" description="รูปแบบการวาด Apache OpenOffice" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/python-net/remove-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

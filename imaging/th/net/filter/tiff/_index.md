@@ -121,6 +121,7 @@ TIFF หรือ TIF ซึ่งเป็นรูปแบบไฟล์ภ�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/net/filter/wmz/" name="WMZ" description="สกิน Windows Media Player ที่บีบอัด" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/net/filter/tga/" name="TGA" description="Targa Graphic" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/net/filter/svg/" name="SVG" description="กราฟิกแบบเวกเตอร์ที่ปรับขนาดได้" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/net/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/net/filter/eps/" name="EPS" description="ภาษา PostScript ที่ห่อหุ้ม" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/net/filter/cdr/" name="CDR" description="วาดภาพเวกเตอร์" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/net/filter/cmx/" name="CMX" description="รูปภาพ Corel Exchange" >}}

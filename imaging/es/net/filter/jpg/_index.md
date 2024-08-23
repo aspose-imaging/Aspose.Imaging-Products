@@ -123,6 +123,7 @@ Un JPEG es un tipo de formato de imagen que se guarda mediante el método de com
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/net/filter/wmz/" name="WMZ" description="Máscara de Windows Media Player comprimida" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/net/filter/tga/" name="TGA" description="Gráfico Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/net/filter/svg/" name="SVG" description="gráficas vectoriales escalables" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/net/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/net/filter/eps/" name="EPS" description="Lenguaje PostScript Encapsulado" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/net/filter/cdr/" name="CDR" description="Imagen de dibujo vectorial" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/es/net/filter/cmx/" name="CMX" description="Imagen de intercambio de Corel" >}}

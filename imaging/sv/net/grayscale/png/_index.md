@@ -113,6 +113,7 @@ PNG, Portable Network Graphics, hänvisar till en typ av rasterbildsfilformat so
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/net/grayscale/emz/" name="EMZ" description="Windows komprimerad förbättrad metafil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/net/grayscale/gif/" name="GIF" description="Grafiskt utbytesformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/net/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/net/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/net/grayscale/j2k/" name="J2K" description="Wavelet komprimerad bild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/net/grayscale/tiff/" name="TIFF" description="Taggad bildformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/net/grayscale/tif/" name="TIF" description="Taggad bildformat" >}}

@@ -122,6 +122,7 @@ Apache OpenOffice 的 Draw 應用程序使用 ODG 文件格式將繪圖元素存
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/cartoonify/cdr/" name="CDR" description="矢量繪圖圖像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/cartoonify/cmx/" name="CMX" description="Corel 交換圖像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/cartoonify/otg/" name="OTG" description="開放文檔標準" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/python-net/cartoonify/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

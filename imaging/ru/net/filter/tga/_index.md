@@ -122,6 +122,7 @@ Truevision TGA, часто называемый TARGA, представляет 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/filter/wmf/" name="WMF" description="Метафайл Microsoft Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/filter/wmz/" name="WMZ" description="Сжатая оболочка проигрывателя Windows Media" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/filter/svg/" name="SVG" description="Масштабируемая векторная графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/filter/eps/" name="EPS" description="Инкапсулированный язык PostScript" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/filter/cdr/" name="CDR" description="Векторный рисунок изображения" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/filter/cmx/" name="CMX" description="Обмен изображениями Corel" >}}

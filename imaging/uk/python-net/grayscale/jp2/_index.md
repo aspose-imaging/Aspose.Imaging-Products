@@ -108,6 +108,7 @@ JPEG 2000 (JP2) — це система кодування зображень і
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/python-net/grayscale/emf/" name="EMF" description="Розширений формат метафайлу" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/python-net/grayscale/emz/" name="EMZ" description="Windows Compressed Enhanced Metafile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/python-net/grayscale/gif/" name="GIF" description="Графічний формат обміну" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/python-net/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/python-net/grayscale/j2k/" name="J2K" description="Wavelet Compressed Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/python-net/grayscale/png/" name="PNG" description="Портативна мережева графіка" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/python-net/grayscale/tiff/" name="TIFF" description="Формат зображення з тегами" >}}

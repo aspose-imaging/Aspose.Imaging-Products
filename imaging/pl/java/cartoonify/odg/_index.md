@@ -138,6 +138,7 @@ Format pliku ODG jest używany przez aplikację Draw Apache OpenOffice do przech
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/cartoonify/cdr/" name="CDR" description="Obraz rysunku wektorowego" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/cartoonify/cmx/" name="CMX" description="Obraz wymiany firmy Corel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/cartoonify/otg/" name="OTG" description="Standard OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/cartoonify/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

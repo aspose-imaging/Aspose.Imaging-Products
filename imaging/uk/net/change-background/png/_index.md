@@ -124,6 +124,7 @@ PNG, Portable Network Graphics, відноситься до типу форма�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/net/change-background/cmx/" name="CMX" description="Corel Exchange Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/net/change-background/otg/" name="OTG" description="Стандарт OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/net/change-background/odg/" name="ODG" description="Формат Apache OpenOffice Draw" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/uk/net/change-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

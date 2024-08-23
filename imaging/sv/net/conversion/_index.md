@@ -188,6 +188,7 @@ Nedan presenteras en fullständig lista över bildformat som du kan konvertera t
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/sv/net/conversion/from/otg/" style="padding:15px;">Konvertera från OTG</a></div>
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/sv/net/conversion/from/odg/" style="padding:15px;">Konvertera från ODG</a></div>
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/sv/net/conversion/from/ico/" style="padding:15px;">Konvertera från ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/sv/net/conversion/from/avif/" style="padding:15px;">Konvertera från AVIF</a></div>
                 </div>
         </div>
     </div>

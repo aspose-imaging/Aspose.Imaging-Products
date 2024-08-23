@@ -122,6 +122,7 @@ Un file con estensione EMZ è un file di immagine compresso, più specificamente
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/python-net/adjust/cmx/" name="CMX" description="Immagine di scambio di Corel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/python-net/adjust/otg/" name="OTG" description="Standard OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/python-net/adjust/odg/" name="ODG" description="Formato Apache OpenOffice Draw" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/python-net/adjust/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

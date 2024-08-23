@@ -134,6 +134,7 @@ FIles with EPS extension essentially describe an Encapsulated PostScript languag
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/filter/wmz/" name="WMZ" description="Compressed Windows Media Player Skin" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/filter/tga/" name="TGA" description="Targa Graphic" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/filter/svg/" name="SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/filter/cdr/" name="CDR" description="Vector Drawing Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/filter/cmx/" name="CMX" description="Corel Exchange Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/filter/otg/" name="OTG" description="OpenDocument Standard" >}}

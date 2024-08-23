@@ -138,6 +138,7 @@ Les fichiers avec l'extension EPS décrivent essentiellement un programme de lan
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/cartoonify/cmx/" name="CMX" description="Image d'échange Corel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/cartoonify/otg/" name="OTG" description="Norme OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/cartoonify/odg/" name="ODG" description="Format de dessin Apache OpenOffice" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/cartoonify/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

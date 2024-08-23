@@ -117,6 +117,7 @@ WMZ adalah ekstensi file untuk format file kulit di/untuk/digunakan oleh Windows
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/python-net/filter/wmf/" name="WMF" description="Metafile Microsoft Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/python-net/filter/tga/" name="TGA" description="Grafis Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/python-net/filter/svg/" name="SVG" description="Grafik Vektor Skalabel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/python-net/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/python-net/filter/eps/" name="EPS" description="Bahasa PostScript Terenkapsulasi" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/python-net/filter/cdr/" name="CDR" description="Gambar Gambar Vektor" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/python-net/filter/cmx/" name="CMX" description="Corel Exchange Gambar" >}}

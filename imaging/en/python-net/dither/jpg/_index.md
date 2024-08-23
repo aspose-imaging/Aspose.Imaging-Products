@@ -99,6 +99,7 @@ A JPEG is a type of image format that is saved using the method of lossy compres
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/python-net/dither/apng/" name="APNG" description="Animated Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/python-net/dither/bmp/" name="BMP" description="Bitmap Picture" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/python-net/dither/ico/" name="ICO" description="Windows icon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/python-net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/python-net/dither/jpeg/" name="JPEG" description="Joint Photographic Experts Group" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/python-net/dither/dib/" name="DIB" description="Device Independent Bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/python-net/dither/dicom/" name="DICOM" description="Digital Imaging & Communications" >}}

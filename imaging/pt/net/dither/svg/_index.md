@@ -105,6 +105,7 @@ Os arquivos SVG são arquivos gráficos vetoriais escaláveis ​​que usam o f
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/dither/bmp/" name="BMP" description="Imagem de bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/dither/ico/" name="ICO" description="ícone do Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/dither/jpg/" name="JPG" description="Grupo Conjunto de Especialistas em Fotografia" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/dither/jpeg/" name="JPEG" description="Grupo Conjunto de Especialistas em Fotografia" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/dither/dib/" name="DIB" description="Bitmap independente de dispositivo" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/dither/dicom/" name="DICOM" description="Imagens e comunicações digitais" >}}

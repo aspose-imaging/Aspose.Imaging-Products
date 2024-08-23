@@ -134,6 +134,7 @@ An OTG file is a drawing template that is created using the OpenDocument standar
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/filter/wmz/" name="WMZ" description="Compressed Windows Media Player Skin" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/filter/tga/" name="TGA" description="Targa Graphic" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/filter/svg/" name="SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/filter/eps/" name="EPS" description="Encapsulated PostScript Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/filter/cdr/" name="CDR" description="Vector Drawing Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/filter/cmx/" name="CMX" description="Corel Exchange Image" >}}

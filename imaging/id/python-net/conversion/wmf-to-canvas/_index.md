@@ -54,8 +54,8 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows / Linux dengan .NET Core Runtime.
-- Manajer paket Python dan PyPi.
++ Sistem operasi: Windows atau Linux.
++ Lingkungan pengembangan: Mendukung .NET Core 7 dan lebih tinggi, seperti Microsoft Visual Studio.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

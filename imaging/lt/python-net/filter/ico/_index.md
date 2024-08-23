@@ -117,6 +117,7 @@ ICO failo formatas yra vaizdo failo formatas, skirtas kompiuterio piktogramoms �
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/python-net/filter/wmz/" name="WMZ" description="Suspausta Windows Media Player oda" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/python-net/filter/tga/" name="TGA" description="Targa grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/python-net/filter/svg/" name="SVG" description="Keičiama vektorinė grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/python-net/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/python-net/filter/eps/" name="EPS" description="Inkapsuliuota PostScript kalba" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/python-net/filter/cdr/" name="CDR" description="Vektorinio piešimo vaizdas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/python-net/filter/cmx/" name="CMX" description="Corel Exchange vaizdas" >}}

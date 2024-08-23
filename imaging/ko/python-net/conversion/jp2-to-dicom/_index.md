@@ -54,8 +54,8 @@ description: 데스크탑 및 웹 애플리케이션에서 JP2에서 DICOM 이�
 
 {{% /blocks/products/pf/agp/text %}}
 
-- .NET Core 런타임이 포함된 Microsoft Windows/Linux.
-- Python 및 PyPi 패키지 관리자.
++ 운영 체제: Windows 또는 Linux.
++ 개발 환경: Microsoft Visual Studio 등 .NET Core 7 이상을 지원합니다.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -122,6 +122,7 @@ File yang berekstensi .BMP merupakan file Gambar Bitmap yang digunakan untuk men
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/python-net/adjust/cmx/" name="CMX" description="Corel Exchange Gambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/python-net/adjust/otg/" name="OTG" description="Standar Dokumen Terbuka" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/python-net/adjust/odg/" name="ODG" description="Format Undian Apache OpenOffice" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/python-net/adjust/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

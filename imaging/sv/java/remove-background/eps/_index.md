@@ -136,6 +136,7 @@ Filer med EPS-tillägg beskriver i huvudsak ett Encapsulated PostScript-språkpr
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/java/remove-background/cmx/" name="CMX" description="Corel Exchange-bild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/java/remove-background/otg/" name="OTG" description="OpenDocument Standard" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/java/remove-background/odg/" name="ODG" description="Apache OpenOffice ritformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/java/remove-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -120,6 +120,7 @@ Filer med WMF-tillägg representerar Microsoft Windows Metafile (WMF) för lagri
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/python-net/change-background/cmx/" name="CMX" description="Corel Exchange-bild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/python-net/change-background/otg/" name="OTG" description="OpenDocument Standard" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/python-net/change-background/odg/" name="ODG" description="Apache OpenOffice ritformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/sv/python-net/change-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -99,6 +99,7 @@ Format pliku ICO to format pliku obrazu dla ikon komputera w systemie Microsoft 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/python-net/dither/apng/" name="APNG" description="Animowana przenośna grafika sieciowa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/python-net/dither/bmp/" name="BMP" description="Obraz bitmapowy" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/python-net/dither/jpg/" name="JPG" description="Wspólna Grupa Ekspertów Fotograficznych" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/python-net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/python-net/dither/jpeg/" name="JPEG" description="Wspólna Grupa Ekspertów Fotograficznych" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/python-net/dither/dib/" name="DIB" description="Mapa bitowa niezależna od urządzenia" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/python-net/dither/dicom/" name="DICOM" description="Obrazowanie cyfrowe i komunikacja" >}}

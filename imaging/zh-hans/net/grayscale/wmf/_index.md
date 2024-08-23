@@ -112,6 +112,7 @@ Aspose.Imaging API 是一种图像处理解决方案，用于在应用程序中�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/grayscale/emz/" name="EMZ" description="Windows 压缩增强元文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/grayscale/gif/" name="GIF" description="图形交换格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/grayscale/j2k/" name="J2K" description="小波压缩图像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/grayscale/png/" name="PNG" description="便携式网络图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/grayscale/tiff/" name="TIFF" description="标记图像格式" >}}

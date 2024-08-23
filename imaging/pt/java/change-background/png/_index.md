@@ -136,6 +136,7 @@ PNG, Portable Network Graphics, refere-se a um tipo de formato de arquivo de ima
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/change-background/cmx/" name="CMX" description="Imagem do Corel Exchange" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/change-background/otg/" name="OTG" description="Padrão OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/change-background/odg/" name="ODG" description="Formato de desenho do Apache OpenOffice" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/change-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

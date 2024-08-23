@@ -122,6 +122,7 @@ Formát souboru ODG používá aplikace Draw Apache OpenOffice k ukládání prv
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/python-net/binarize/cdr/" name="CDR" description="Vektorové Kreslení Obrázek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/python-net/binarize/cmx/" name="CMX" description="Obrázek Corel Exchange" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/python-net/binarize/otg/" name="OTG" description="OpenDocument Standard" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/cs/python-net/binarize/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

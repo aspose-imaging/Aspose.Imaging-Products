@@ -122,6 +122,7 @@ WMZ là một phần mở rộng tệp cho định dạng tệp da trong / cho /
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/filter/wmf/" name="WMF" description="Microsoft Windows Metafile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/filter/tga/" name="TGA" description="Đồ họa Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/filter/svg/" name="SVG" description="Đồ họa vector có thể mở rộng" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/filter/eps/" name="EPS" description="Ngôn ngữ PostScript được đóng gói" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/filter/cdr/" name="CDR" description="Hình ảnh Bản vẽ Véc tơ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/filter/cmx/" name="CMX" description="Hình ảnh trao đổi Corel" >}}

@@ -113,6 +113,7 @@ Aspose.Imaging API — это решение для обработки изоб�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/grayscale/emf/" name="EMF" description="Расширенный формат метафайла" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/grayscale/emz/" name="EMZ" description="Сжатый расширенный метафайл Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/grayscale/j2k/" name="J2K" description="Сжатое изображение вейвлета" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/grayscale/png/" name="PNG" description="Портативная сетевая графика" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/grayscale/tiff/" name="TIFF" description="Формат изображения с тегами" >}}

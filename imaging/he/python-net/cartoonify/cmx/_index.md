@@ -122,6 +122,7 @@ Aspose.Imaging API הוא פתרון לעיבוד תמונה ליצירה, שי�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/python-net/cartoonify/cdr/" name="CDR" description="תמונה של ציור וקטור" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/python-net/cartoonify/otg/" name="OTG" description="OpenDocument Standard" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/python-net/cartoonify/odg/" name="ODG" description="Apache OpenOffice Draw Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/python-net/cartoonify/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

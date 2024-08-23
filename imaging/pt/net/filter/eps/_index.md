@@ -123,6 +123,7 @@ Arquivos com extensão EPS descrevem essencialmente um programa de linguagem Pos
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/filter/wmz/" name="WMZ" description="Skin compactada do Windows Media Player" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/filter/tga/" name="TGA" description="Gráfico Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/filter/svg/" name="SVG" description="Gráficos vetoriais escalonáveis" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/filter/cdr/" name="CDR" description="Imagem de desenho vetorial" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/filter/cmx/" name="CMX" description="Imagem do Corel Exchange" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/filter/otg/" name="OTG" description="Padrão OpenDocument" >}}

@@ -108,6 +108,7 @@ EMZ फ़ाइल एक्सटेंशन वाली फ़ाइल ए
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/python-net/grayscale/emf/" name="EMF" description="उन्नत मेटाफ़ाइल प्रारूप" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/python-net/grayscale/gif/" name="GIF" description="ग्राफिकल इंटरचेंज प्रारूप" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/python-net/grayscale/jp2/" name="JP2" description="जेपीईजी 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/python-net/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/python-net/grayscale/j2k/" name="J2K" description="तरंगिका संपीड़ित छवि" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/python-net/grayscale/png/" name="PNG" description="पोर्टेबल नेटवर्क ग्राफ़िक्स" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/python-net/grayscale/tiff/" name="TIFF" description="टैग की गई छवि प्रारूप" >}}

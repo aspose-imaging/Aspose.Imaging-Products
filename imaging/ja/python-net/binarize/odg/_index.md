@@ -122,6 +122,7 @@ ODGファイル形式は、Apache OpenOfficeのDrawアプリケーションで�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/python-net/binarize/cdr/" name="CDR" description="ベクトル描画画像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/python-net/binarize/cmx/" name="CMX" description="CorelExchangeイメージ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/python-net/binarize/otg/" name="OTG" description="OpenDocument標準" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/python-net/binarize/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -120,6 +120,7 @@ GIF arba grafinis mainų formatas yra labai suspausto vaizdo tipas. „Unisys“
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/python-net/change-background/cmx/" name="CMX" description="Corel Exchange vaizdas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/python-net/change-background/otg/" name="OTG" description="OpenDocument standartas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/python-net/change-background/odg/" name="ODG" description="Apache OpenOffice Draw formatas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/python-net/change-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

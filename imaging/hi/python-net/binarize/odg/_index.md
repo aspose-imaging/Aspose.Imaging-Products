@@ -122,6 +122,7 @@ ODG फ़ाइल स्वरूप का उपयोग Apache OpenOffice 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/python-net/binarize/cdr/" name="CDR" description="वेक्टर ड्राइंग छवि" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/python-net/binarize/cmx/" name="CMX" description="कोरल एक्सचेंज इमेज" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/python-net/binarize/otg/" name="OTG" description="OpenDocument मानक" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/python-net/binarize/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -138,6 +138,7 @@ CMX एक्सटेंशन वाली फ़ाइलें Corel Exchang
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/adjust/cdr/" name="CDR" description="वेक्टर ड्राइंग छवि" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/adjust/otg/" name="OTG" description="OpenDocument मानक" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/adjust/odg/" name="ODG" description="अपाचे ओपनऑफिस ड्रा प्रारूप" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/java/adjust/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

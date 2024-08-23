@@ -115,6 +115,7 @@ Dateien mit der Erweiterung .BMP stellen Bitmap-Bilddateien dar, die zum Speiche
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/dither/apng/" name="APNG" description="Animierte tragbare Netzwerkgrafiken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/dither/ico/" name="ICO" description="Windows-Symbol" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/dither/jpg/" name="JPG" description="Gemeinsame fotografische Expertengruppe" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/dither/jpeg/" name="JPEG" description="Gemeinsame fotografische Expertengruppe" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/dither/dib/" name="DIB" description="Geräteunabhängige Bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/dither/dicom/" name="DICOM" description="Digitale Bildgebung und Kommunikation" >}}

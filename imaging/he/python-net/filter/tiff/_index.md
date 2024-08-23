@@ -117,6 +117,7 @@ TIFF או TIF, Tagged Image File Format, מייצגים תמונות רסטר ה
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/python-net/filter/wmz/" name="WMZ" description="עור דחוס של Windows Media Player" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/python-net/filter/tga/" name="TGA" description="טארגה גרפיקה" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/python-net/filter/svg/" name="SVG" description="גרפיקה וקטורית ניתנת להרחבה" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/python-net/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/python-net/filter/eps/" name="EPS" description="שפת PostScript מובלעת" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/python-net/filter/cdr/" name="CDR" description="תמונה של ציור וקטור" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/python-net/filter/cmx/" name="CMX" description="תמונת Corel Exchange" >}}

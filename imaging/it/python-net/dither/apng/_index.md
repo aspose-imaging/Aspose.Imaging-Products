@@ -99,6 +99,7 @@ Un file con estensione .apng (Animated Portable Network Graphics) è un formato 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/python-net/dither/bmp/" name="BMP" description="Immagine bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/python-net/dither/ico/" name="ICO" description="Icona di Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/python-net/dither/jpg/" name="JPG" description="Gruppo congiunto di esperti fotografici" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/python-net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/python-net/dither/jpeg/" name="JPEG" description="Gruppo congiunto di esperti fotografici" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/python-net/dither/dib/" name="DIB" description="Bitmap indipendente dal dispositivo" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/python-net/dither/dicom/" name="DICOM" description="Immagini e comunicazioni digitali" >}}

@@ -115,6 +115,7 @@ JPEG เป็นรูปแบบรูปภาพประเภทหนึ
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/java/dither/apng/" name="APNG" description="กราฟิกเครือข่ายแบบพกพาแบบเคลื่อนไหว" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/java/dither/bmp/" name="BMP" description="รูปภาพบิตแมป" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/java/dither/ico/" name="ICO" description="ไอคอน Windows" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/java/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/java/dither/jpeg/" name="JPEG" description="กลุ่มผู้เชี่ยวชาญด้านการถ่ายภาพร่วม" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/java/dither/dib/" name="DIB" description="บิตแมปอิสระของอุปกรณ์" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/java/dither/dicom/" name="DICOM" description="การถ่ายภาพและการสื่อสารดิจิทัล" >}}

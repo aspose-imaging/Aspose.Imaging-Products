@@ -138,6 +138,7 @@ ODG dosya formatı, çizim öğelerini bir vektör görüntüsü olarak depolama
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/adjust/cdr/" name="CDR" description="Vektör Çizim Görüntüsü" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/adjust/cmx/" name="CMX" description="Corel Exchange Görüntüsü" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/adjust/otg/" name="OTG" description="OpenDocument Standardı" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/adjust/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

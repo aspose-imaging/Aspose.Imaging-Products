@@ -122,6 +122,7 @@ DICOM è l'acronimo di Digital Imaging and Communications in Medicine e appartie
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/python-net/cartoonify/cmx/" name="CMX" description="Immagine di scambio di Corel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/python-net/cartoonify/otg/" name="OTG" description="Standard OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/python-net/cartoonify/odg/" name="ODG" description="Formato Apache OpenOffice Draw" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/python-net/cartoonify/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

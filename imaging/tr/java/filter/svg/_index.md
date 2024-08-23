@@ -133,6 +133,7 @@ SVG dosyaları, görüntünün görünümünü açıklamak için XML tabanlı me
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/filter/wmf/" name="WMF" description="Microsoft Windows Meta Dosyası" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/filter/wmz/" name="WMZ" description="Sıkıştırılmış Windows Media Player Dış Görünümü" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/filter/tga/" name="TGA" description="Targa Grafiği" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/filter/eps/" name="EPS" description="Kapsüllenmiş PostScript Dili" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/filter/cdr/" name="CDR" description="Vektör Çizim Görüntüsü" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/filter/cmx/" name="CMX" description="Corel Exchange Görüntüsü" >}}

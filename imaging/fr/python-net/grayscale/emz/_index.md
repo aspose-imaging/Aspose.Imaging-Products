@@ -108,6 +108,7 @@ Un fichier avec l'extension de fichier EMZ est un fichier image compressé, plus
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/python-net/grayscale/emf/" name="EMF" description="Format de métafichier amélioré" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/python-net/grayscale/gif/" name="GIF" description="Format d'échange graphique" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/python-net/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/python-net/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/python-net/grayscale/j2k/" name="J2K" description="Image compressée en ondelettes" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/python-net/grayscale/png/" name="PNG" description="Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/python-net/grayscale/tiff/" name="TIFF" description="Format d'image balisé" >}}

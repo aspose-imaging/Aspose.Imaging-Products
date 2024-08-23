@@ -116,6 +116,7 @@ SVG 파일은 이미지의 모양을 설명하기 위해 XML 기반 텍스트 �
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/dither/bmp/" name="BMP" description="비트맵 그림" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/dither/ico/" name="ICO" description="윈도우 아이콘" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/dither/jpg/" name="JPG" description="공동 사진 전문가 그룹" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/dither/jpeg/" name="JPEG" description="공동 사진 전문가 그룹" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/dither/dib/" name="DIB" description="장치 독립 비트맵" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/dither/dicom/" name="DICOM" description="디지털 이미징 및 통신" >}}

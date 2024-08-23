@@ -108,6 +108,7 @@ DIB（设备独立位图）文件是一种光栅图像文件，其结构类似�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/python-net/grayscale/emz/" name="EMZ" description="Windows 压缩增强元文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/python-net/grayscale/gif/" name="GIF" description="图形交换格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/python-net/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/python-net/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/python-net/grayscale/j2k/" name="J2K" description="小波压缩图像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/python-net/grayscale/png/" name="PNG" description="便携式网络图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/python-net/grayscale/tiff/" name="TIFF" description="标记图像格式" >}}

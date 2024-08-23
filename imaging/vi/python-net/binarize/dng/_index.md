@@ -122,6 +122,7 @@ DNG là một định dạng hình ảnh máy ảnh kỹ thuật số được s
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/python-net/binarize/cmx/" name="CMX" description="Hình ảnh trao đổi Corel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/python-net/binarize/otg/" name="OTG" description="Tiêu chuẩn OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/python-net/binarize/odg/" name="ODG" description="Apache OpenOffice Draw Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/python-net/binarize/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

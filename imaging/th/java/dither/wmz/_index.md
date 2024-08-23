@@ -116,6 +116,7 @@ WMZ เป็นนามสกุลไฟล์สำหรับรูปแ�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/java/dither/bmp/" name="BMP" description="รูปภาพบิตแมป" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/java/dither/ico/" name="ICO" description="ไอคอน Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/java/dither/jpg/" name="JPG" description="กลุ่มผู้เชี่ยวชาญด้านการถ่ายภาพร่วม" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/java/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/java/dither/jpeg/" name="JPEG" description="กลุ่มผู้เชี่ยวชาญด้านการถ่ายภาพร่วม" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/java/dither/dib/" name="DIB" description="บิตแมปอิสระของอุปกรณ์" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/th/java/dither/dicom/" name="DICOM" description="การถ่ายภาพและการสื่อสารดิจิทัล" >}}

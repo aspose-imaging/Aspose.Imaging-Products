@@ -100,6 +100,7 @@ DNG는 원시 파일 저장에 사용되는 디지털 카메라 이미지 형식
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/python-net/dither/bmp/" name="BMP" description="비트맵 그림" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/python-net/dither/ico/" name="ICO" description="윈도우 아이콘" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/python-net/dither/jpg/" name="JPG" description="공동 사진 전문가 그룹" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/python-net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/python-net/dither/jpeg/" name="JPEG" description="공동 사진 전문가 그룹" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/python-net/dither/dib/" name="DIB" description="장치 독립 비트맵" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/python-net/dither/dicom/" name="DICOM" description="디지털 이미징 및 통신" >}}

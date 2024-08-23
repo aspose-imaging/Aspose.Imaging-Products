@@ -124,6 +124,7 @@ File dengan ekstensi file EMZ adalah file gambar terkompresi, lebih khusus diseb
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/grayscale/emf/" name="EMF" description="Format Metafile yang Ditingkatkan" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/grayscale/gif/" name="GIF" description="Format Pertukaran Grafis" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/grayscale/j2k/" name="J2K" description="Gambar Terkompresi Wavelet" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/grayscale/png/" name="PNG" description="Grafik Jaringan Portabel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/grayscale/tiff/" name="TIFF" description="Format Gambar yang Ditandai" >}}

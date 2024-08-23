@@ -138,6 +138,7 @@ TIFF lub TIF, Tagged Image File Format, reprezentuje obrazy rastrowe przeznaczon
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/adjust/cmx/" name="CMX" description="Obraz wymiany firmy Corel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/adjust/otg/" name="OTG" description="Standard OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/adjust/odg/" name="ODG" description="Apache OpenOffice Draw format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/adjust/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

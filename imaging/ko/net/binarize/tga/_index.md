@@ -127,6 +127,7 @@ TARGA라고도 하는 Truevision TGA는 Truevision Inc.(현재 Avid Technology�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/binarize/cmx/" name="CMX" description="Corel 교환 이미지" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/binarize/otg/" name="OTG" description="OpenDocument 표준" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/binarize/odg/" name="ODG" description="Apache OpenOffice 그리기 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/binarize/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -120,6 +120,7 @@ Bestanden met de WMF-extensie vertegenwoordigen Microsoft Windows Metafile (WMF)
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/filter/wmz/" name="WMZ" description="Gecomprimeerde Windows Media Player-skin" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/filter/tga/" name="TGA" description="Targa-afbeelding" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/filter/svg/" name="SVG" description="Schaalbare vectorafbeeldingen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/filter/eps/" name="EPS" description="Encapsulated PostScript-taal" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/filter/cdr/" name="CDR" description="Vector tekening afbeelding" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/filter/cmx/" name="CMX" description="Corel Exchange-afbeelding" >}}

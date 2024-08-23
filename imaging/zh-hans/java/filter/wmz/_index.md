@@ -134,6 +134,7 @@ WMZ 是 Windows Media Player 中/用于/使用的皮肤文件格式的文件扩�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/filter/wmf/" name="WMF" description="微软视窗元文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/filter/tga/" name="TGA" description="塔加图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/filter/svg/" name="SVG" description="可缩放矢量图形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/filter/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/filter/eps/" name="EPS" description="封装的 PostScript 语言" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/filter/cdr/" name="CDR" description="矢量绘图图像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/filter/cmx/" name="CMX" description="Corel 交换图像" >}}

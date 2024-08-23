@@ -138,6 +138,7 @@ Bestanden met de WMF-extensie vertegenwoordigen Microsoft Windows Metafile (WMF)
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/binarize/cmx/" name="CMX" description="Corel Exchange-afbeelding" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/binarize/otg/" name="OTG" description="OpenDocument-standaard" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/binarize/odg/" name="ODG" description="Apache OpenOffice Draw-indeling" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/binarize/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

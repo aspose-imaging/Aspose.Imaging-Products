@@ -122,6 +122,7 @@ WMZ هو امتداد ملف لتنسيق ملف السطح في / من أجل /
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/net/change-background/cmx/" name="CMX" description="كوريل تبادل الصورة" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/net/change-background/otg/" name="OTG" description="معيار OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/net/change-background/odg/" name="ODG" description="تنسيق رسم Apache OpenOffice" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ar/net/change-background/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

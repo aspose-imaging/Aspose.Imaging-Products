@@ -125,6 +125,7 @@ TIFF או TIF, Tagged Image File Format, מייצגים תמונות רסטר ה
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/java/grayscale/emz/" name="EMZ" description="Metafile משופר דחוס של Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/java/grayscale/gif/" name="GIF" description="פורמט מחלף גרפי" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/java/grayscale/jp2/" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/java/grayscale/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/java/grayscale/j2k/" name="J2K" description="תמונה דחוסה של Wavelet" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/java/grayscale/png/" name="PNG" description="גרפיקת רשת ניידת" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/java/grayscale/tif/" name="TIF" description="פורמט תמונה מתויג" >}}

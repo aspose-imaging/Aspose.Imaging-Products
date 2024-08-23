@@ -57,9 +57,8 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows nebo kompatibilní OS s rozhraním .NET Framework, .NET Core, aplikací pro Windows, webovou aplikací ASP.NET.
-- Vývojové prostředí jako Microsoft Visual Studio.
-- Aspose.Imaging pro .NET odkazovaný ve vašem projektu.
++ Operační systém: Windows nebo Linux.
++ Vývojové prostředí: Podporuje .NET Core 7 a vyšší, jako je Microsoft Visual Studio.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

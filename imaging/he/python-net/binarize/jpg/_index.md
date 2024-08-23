@@ -122,6 +122,7 @@ JPEG הוא סוג של פורמט תמונה שנשמר בשיטת הדחיסה
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/python-net/binarize/cmx/" name="CMX" description="תמונת Corel Exchange" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/python-net/binarize/otg/" name="OTG" description="OpenDocument Standard" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/python-net/binarize/odg/" name="ODG" description="Apache OpenOffice Draw Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/he/python-net/binarize/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

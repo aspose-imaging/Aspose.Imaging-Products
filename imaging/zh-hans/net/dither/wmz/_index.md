@@ -103,6 +103,7 @@ WMZ 是 Windows Media Player 中/用于/使用的皮肤文件格式的文件扩�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/dither/bmp/" name="BMP" description="位图图片" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/dither/ico/" name="ICO" description="窗口图标" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/dither/jpg/" name="JPG" description="联合摄影专家组" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/dither/avif/" name="AVIF" description="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/dither/jpeg/" name="JPEG" description="联合摄影专家组" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/dither/dib/" name="DIB" description="设备无关位图" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/dither/dicom/" name="DICOM" description="数码影像与通讯" >}}

@@ -126,6 +126,7 @@ J2K फ़ाइल एक ऐसी छवि है जिसे DCT संप
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/net/adjust/cmx/" name="CMX" description="कोरल एक्सचेंज इमेज" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/net/adjust/otg/" name="OTG" description="OpenDocument मानक" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/net/adjust/odg/" name="ODG" description="अपाचे ओपनऑफिस ड्रा प्रारूप" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/hi/net/adjust/avif/" name="AVIF" description="" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
