@@ -24,6 +24,10 @@ description: قم بتبسيط مهام تحويل التنسيق باستخدا
 
 <p align="justify" style="font-size:18px;text-indent:50px;">يجمع Aspose.Imaging.Heic.Adapter for .NET دون عناء بين مكتبتين قويتين، Aspose.Imaging لـ .NET وFileFormat.Heic لـ .NET، لتقديم حل كامل يرفع من إمكانيات تحويل التنسيق. FileFormat.Heic، وهو SDK مفتوح المصدر، يشتمل على وحدة فك ترميز تنسيق ملف HEIF، ويدعم الصور المشفرة HEVC (ترميز الفيديو عالي الكفاءة). نظرًا لأن HEIC هو تنسيق الصورة الافتراضي على أجهزة iOS، فإن تحويله إلى تنسيق أكثر توافقًا عالميًا لنقل الصور من iPhone إلى الكمبيوتر الشخصي يصبح أمرًا ضروريًا. يسهل هذا المزيج القوي التحويل السلس بين تنسيق HEIC ومجموعة واسعة من الصور النقطية والمتجهة. من خلال الاستفادة من الميزات الفريدة لكلتا المكتبتين، يفتح المحول مجموعة كبيرة من الفرص، مما يتيح التحويلات السلسة من تنسيق صور HEIC إلى التنسيقات التي تدعمها مكتبة Aspose.Imaging، بما في ذلك JPEG وPNG وPDF وGIF وTIFF وWEBP والمزيد. سواء أكان تحسين أنظمة إدارة الصور، أو تبسيط سير عمل معالجة الوسائط، فإن Aspose.Imaging Heic.Adapter for .NET يمكّن المطورين من استكشاف آفاق تكنولوجية جديدة ودفع الابتكار في إدارة الأصول الرقمية.</p>
 
+<h3><a href="https://www.nuget.org/packages/Aspose.Imaging.AForge.Adapter">Aspose.Imaging.AForge.Adapter</a></h3>
+
+<p align="justify" style="font-size:18px;text-indent:50px;">تم تصميم Aspose.Imaging.AForge.Adapter لتوسيع وظائف مكتبة Aspose.Imaging عن طريق إضافة وظائف من مكتبة FileFormat.AForge. يسمح هذا الارتباط بتغطية جميع التنسيقات النقطية التي تدعمها مكتبة Aspose.Imaging بالطرق الشائعة من مكتبة FileFormat.AForge. تنطبق الطرق الشائعة التالية من مكتبة FileFormat.AForge على كافة التنسيقات النقطية لمكتبة Aspose.Imaging: <ul><li>EdgeDetector(Homogenity, Difference, Sobel, Canny),</li> <li>BlobDetector (DetectBlobs ، ExtractBiggestBlob، BlobsFiltering)،</li> <li>ExhaustiveTemplateMatching،</li> <li>ExhaustiveBlockMatching،</li> <li>CornersDetector (مورافيك، سوزان)</li></ul></p>
+
 
 {{% /blocks/products/pf/agp/content %}}
 

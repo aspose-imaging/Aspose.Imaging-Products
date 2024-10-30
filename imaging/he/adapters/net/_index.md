@@ -24,6 +24,10 @@ description: ייעל את משימות המרת הפורמט שלך באמצע�
 
 <p align="justify" style="font-size:18px;text-indent:50px;">מתאם ה-Aspose.Imaging.Heic.Net ל-.NET משלב ללא מאמץ שתי ספריות חזקות, Aspose.Imaging עבור .NET ו-FileFormat.Heic עבור .NET, כדי להציע פתרון שלם שמעלה את יכולות המרת הפורמט. FileFormat.Heic, SDK בקוד פתוח, משלבת את מפענח פורמט הקבצים HEIF, התומך בתמונות מקודדות HEVC (High Efficiency Video Coding). בהתחשב בעובדה ש-HEIC הוא פורמט התמונה המוגדר כברירת מחדל במכשירי iOS, המרתו לפורמט תואם אוניברסלי יותר להעברת תמונות מאייפון למחשב הינה הכרחית. תערובת עוצמתית זו מאפשרת המרה חלקה בין פורמט HEIC למגוון רחב של תמונות רסטר וויקטור. תוך מינוף התכונות הייחודיות של שתי הספריות, המתאם פותח שפע של הזדמנויות, ומאפשר המרות חלקות מפורמט תמונה HEIC לפורמטים הנתמכים על ידי ספריית Aspose.Imaging, כולל JPEG, PNG, PDF, GIF, TIFF, WEBP ועוד. בין אם מייעלים מערכות ניהול תמונות, פישוט זרימות עבודה של עיבוד מדיה, ה-Aspose.Imaging Heic.Adapter עבור .NET מאפשר למפתחים לחקור אופקים טכנולוגיים חדשים ולהניע חדשנות בניהול נכסים דיגיטליים.</p>
 
+<h3><a href="https://www.nuget.org/packages/Aspose.Imaging.AForge.Adapter">Aspose.Imaging.AForge.Adapter</a></h3>
+
+<p align="justify" style="font-size:18px;text-indent:50px;">Aspose.Imaging.AForge.Adapter נועד להרחיב את הפונקציונליות של ספריית Aspose.Imaging על ידי הוספת פונקציות מספריית FileFormat.AForge. שיוך זה מאפשר לכסות את כל פורמטי הרסטר הנתמכים על ידי ספריית Aspose.Imaging בשיטות פופולריות מספריית FileFormat.AForge. השיטות הפופולריות הבאות מספריית FileFormat.AForge חלות על כל פורמטי הרסטר של ספריית Aspose.Imaging: <ul><li>EdgeDetector(Homogenity, Difference, Sobel, Canny),</li> <li>BlobDetector (DetectBlobs , ExtractBiggestBlob, BlobsFiltering),</li> <li>ExhaustiveTemplateMatching,</li> <li>ExhaustiveBlockMatching,</li> <li>CornersDetector (Moravec, Susan)</li></ul></p>
+
 
 {{% /blocks/products/pf/agp/content %}}
 

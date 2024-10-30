@@ -24,6 +24,10 @@ description: 使用 Aspose.Imaging Adapters 和各种 Aspose 产品简化格式�
 
 <p align="justify" style="font-size:18px;text-indent:50px;">Aspose.Imaging.Heic.Adapter for .NET 轻松结合了两个功能强大的库：Aspose.Imaging for .NET 和 FileFormat.Heic for .NET，提供了提升格式转换功能的完整解决方案。 FileFormat.Heic是一个开源SDK，集成了HEIF文件格式解码器，支持HEVC（高效视频编码）编码图像。鉴于 HEIC 是 iOS 设备上的默认图像格式，将其转换为更通用的兼容格式以将照片从 iPhone 传输到 PC 势在必行。这种强大的混合有助于 HEIC 格式与各种光栅和矢量图像之间的无缝转换。利用这两个库的独特功能，该适配器开辟了丰富的机会，可以从 HEIC 图像格式顺利转换为 Aspose.Imaging 库支持的格式，包括 JPEG、PNG、PDF、GIF、TIFF、WEBP 等。无论是优化图像管理系统、简化媒体处理工作流程，Aspose.Imaging Heic.Adapter for .NET 都使开发人员能够探索新的技术视野并推动管理数字资产的创新。</p>
 
+<h3><a href="https://www.nuget.org/packages/Aspose.Imaging.AForge.Adapter">Aspose.Imaging.AForge.Adapter</a></h3>
+
+<p align="justify" style="font-size:18px;text-indent:50px;">Aspose.Imaging.AForge.Adapter 旨在通过添加 FileFormat.AForge 库中的函数来扩展 Aspose.Imaging 库的功能。这种关联允许 FileFormat.AForge 库中的流行方法覆盖 Aspose.Imaging 库支持的所有光栅格式。 FileFormat.AForge 库中的以下流行方法适用于 Aspose.Imaging 库的所有栅格格式：<ul><li>EdgeDetector(Homogenity、Difference、Sobel、Canny)、</li> <li>BlobDetector (DetectBlobs) ，ExtractBiggestBlob，BlobsFiltering），</li> <li>ExhaustiveTemplateMatching，</li> <li>ExhaustiveBlockMatching，</li> <li>CornersDetector（Moravec，Susan）</li></ul></p>
+
 
 {{% /blocks/products/pf/agp/content %}}
 

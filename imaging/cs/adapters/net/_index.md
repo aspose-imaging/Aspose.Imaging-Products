@@ -24,6 +24,10 @@ description: Zjednodušte své úlohy převodu formátu pomocí adaptérů Aspos
 
 <p align="justify" style="font-size:18px;text-indent:50px;">Aspose.Imaging.Heic.Adapter pro .NET bez námahy kombinuje dvě výkonné knihovny, Aspose.Imaging pro .NET a FileFormat.Heic pro .NET, a nabízí tak kompletní řešení, které zvyšuje možnosti převodu formátů. FileFormat.Heic, open-source SDK, obsahuje dekodér formátu souborů HEIF, který podporuje kódované obrázky HEVC (High Efficiency Video Coding). Vzhledem k tomu, že HEIC je výchozím formátem obrázků na zařízeních se systémem iOS, je jeho převod na univerzálněji kompatibilní formát pro přenos fotografií z iPhone do PC nutností. Tato výkonná směs umožňuje bezproblémovou konverzi mezi formátem HEIC a širokou škálou rastrových a vektorových obrázků. Adaptér s využitím jedinečných funkcí obou knihoven otevírá spoustu příležitostí a umožňuje plynulé převody z obrazového formátu HEIC do formátů podporovaných knihovnou Aspose.Imaging, včetně JPEG, PNG, PDF, GIF, TIFF, WEBP a dalších. Ať už se jedná o optimalizaci systémů správy obrázků, zjednodušení pracovních postupů při zpracování médií, Aspose.Imaging Heic.Adapter for .NET umožňuje vývojářům objevovat nové technologické horizonty a podporovat inovace ve správě digitálních aktiv.</p>
 
+<h3><a href="https://www.nuget.org/packages/Aspose.Imaging.AForge.Adapter">Aspose.Imaging.AForge.Adapter</a></h3>
+
+<p align="justify" style="font-size:18px;text-indent:50px;">Aspose.Imaging.AForge.Adapter je navržen tak, aby rozšířil funkčnost knihovny Aspose.Imaging přidáním funkcí z knihovny FileFormat.AForge. Toto přidružení umožňuje pokrýt všechny rastrové formáty podporované knihovnou Aspose.Imaging oblíbenými metodami z knihovny FileFormat.AForge. Následující oblíbené metody z knihovny FileFormat.AForge jsou použitelné pro všechny rastrové formáty knihovny Aspose.Imaging: <ul><li>EdgeDetector(Homogenity, Difference, Sobel, Canny),</li> <li>BlobDetector (DetectBlobs) , ExtractBiggestBlob, BlobsFiltering),</li> <li>ExhaustiveTemplateMatching,</li> <li>ExhaustiveBlockMatching,</li> <li>CornersDetector (Moravec, Susan)</li></ul></p>
+
 
 {{% /blocks/products/pf/agp/content %}}
 

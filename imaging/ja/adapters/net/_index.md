@@ -24,6 +24,10 @@ description: Aspose.Imaging アダプターとさまざまな Aspose 製品を�
 
 <p align="justify" style="font-size:18px;text-indent:50px;">Aspose.Imaging.Heic.Adapter for .NET は、2 つの強力なライブラリ、Aspose.Imaging for .NET と FileFormat.Heic for .NET を簡単に組み合わせて、形式変換機能を強化する完全なソリューションを提供します。オープンソース SDK である FileFormat.Heic には、HEIF ファイル形式デコーダが組み込まれており、HEVC (High Efficiency Videocoding) エンコード画像をサポートしています。 HEIC が iOS デバイスのデフォルトの画像形式であることを考えると、iPhone から PC に写真を転送するには、HEIC をより汎用性の高い形式に変換することが不可欠になります。この強力な混合により、HEIC 形式と幅広いラスター画像およびベクター画像間のシームレスな変換が容易になります。両方のライブラリの独自の機能を活用するこのアダプターは、HEIC 画像形式から JPEG、PNG、PDF、GIF、TIFF、WEBP などの Aspose.Imaging ライブラリでサポートされている形式へのスムーズな変換を可能にし、豊富な機会を開きます。画像管理システムの最適化でも、メディア処理ワークフローの簡素化でも、Aspose.Imaging Heic.Adapter for .NET は、開発者が新しい技術の地平を探索し、デジタル資産管理の革新を推進できるようにします。</p>
 
+<h3><a href="https://www.nuget.org/packages/Aspose.Imaging.AForge.Adapter">Aspose.Imaging.AForge.Adapter</a></h3>
+
+<p align="justify" style="font-size:18px;text-indent:50px;">Aspose.Imaging.AForge.Adapter は、FileFormat.AForge ライブラリから関数を追加することで、Aspose.Imaging ライブラリの機能を拡張するように設計されています。この関連付けにより、Aspose.Imaging ライブラリでサポートされるすべてのラスター形式を、FileFormat.AForge ライブラリの一般的なメソッドでカバーできるようになります。 FileFormat.AForge ライブラリの次の一般的なメソッドは、Aspose.Imaging ライブラリのすべてのラスター形式に適用できます: <ul><li>EdgeDetector(Homogenity, Difference, Sobel, Canny)、</li> <li>BlobDetector (DetectBlobs) 、ExtractBiggestBlob、BlobsFiltering)、</li> <li>ExhaustiveTemplateMatching、</li> <li>ExhaustiveBlockMatching、</li> <li>CornersDetector (Moravec、Susan)</li></ul></p>
+
 
 {{% /blocks/products/pf/agp/content %}}
 
