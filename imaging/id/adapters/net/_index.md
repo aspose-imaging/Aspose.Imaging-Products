@@ -28,6 +28,9 @@ description: Sederhanakan tugas konversi format Anda menggunakan Aspose.Imaging 
 
 <p align="justify" style="font-size:18px;text-indent:50px;">Aspose.Imaging.AForge.Adapter dirancang untuk memperluas fungsionalitas perpustakaan Aspose.Imaging dengan menambahkan fungsi dari perpustakaan FileFormat.AForge. Asosiasi ini memungkinkan semua format raster yang didukung oleh pustaka Aspose.Imaging dicakup oleh metode populer dari pustaka FileFormat.AForge. Metode populer berikut dari pustaka FileFormat.AForge berlaku untuk semua format raster pustaka Aspose.Imaging: <ul><li>EdgeDetector(Homogenity, Difference, Sobel, Canny),</li> <li>BlobDetector (DetectBlobs , ExtractBiggestBlob, BlobsFiltering),</li> <li>ExhaustiveTemplateMatching,</li> <li>ExhaustiveBlockMatching,</li> <li>CornersDetector (Moravec, Susan)</li></ul></p>
 
+<h3><a href="https://www.nuget.org/packages/Aspose.Imaging.Accord.Adapter">Aspose.Imaging.Accord.Adapter</a></h3>
+
+<p align="justify" style="font-size:18px;text-indent:50px;">Aspose.Imaging.Accord.Adapter dirancang untuk memperluas fungsionalitas perpustakaan Aspose.Imaging dengan menambahkan fungsi dari perpustakaan FileFormat.Accord. Asosiasi ini memungkinkan semua format raster yang didukung oleh pustaka Aspose.Imaging dicakup oleh metode populer dari pustaka FileFormat.Accord. Metode berikut dari pustaka FileFormat.Aссord berlaku untuk semua format raster pustaka Aspose.Imaging:<ul><li><b>Algoritme visi komputer dan deteksi batas objek:</b></li><li> <b>Representasi gabungan Gambar Integral dan Gambar Integral Kuadrat</b></li><li><b>Algoritme pemfilteran gambar</b></li></ul><br/></p>
 
 {{% /blocks/products/pf/agp/content %}}
 

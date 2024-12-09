@@ -28,6 +28,9 @@ description: Effektivisera dina formatkonverteringsuppgifter med Aspose.Imaging-
 
 <p align="justify" style="font-size:18px;text-indent:50px;">Aspose.Imaging.AForge.Adapter är utformad för att utöka funktionaliteten i Aspose.Imaging-biblioteket genom att lägga till funktioner från FileFormat.AForge-biblioteket. Denna koppling tillåter alla rasterformat som stöds av Aspose.Imaging-biblioteket att täckas av populära metoder från FileFormat.AForge-biblioteket. Följande populära metoder från FileFormat.AForge-biblioteket är tillämpliga på alla rasterformat i Aspose.Imaging-biblioteket: <ul><li>EdgeDetector(Homogenity, Difference, Sobel, Canny),</li> <li>BlobDetector (DetectBlobs) , ExtractBiggestBlob, BlobsFiltering),</li> <li>ExhaustiveTemplateMatching,</li> <li>ExhaustiveBlockMatching,</li> <li>CornersDetector (Moravec, Susan)</li></ul></p>
 
+<h3><a href="https://www.nuget.org/packages/Aspose.Imaging.Accord.Adapter">Aspose.Imaging.Accord.Adapter</a></h3>
+
+<p align="justify" style="font-size:18px;text-indent:50px;">Aspose.Imaging.Accord.Adapter är utformad för att utöka funktionaliteten i Aspose.Imaging-biblioteket genom att lägga till funktioner från FileFormat.Accord-biblioteket. Denna koppling tillåter alla rasterformat som stöds av Aspose.Imaging-biblioteket att täckas av populära metoder från FileFormat.Accord-biblioteket. Följande metoder från FileFormat.Aссord-biblioteket är tillämpliga på alla rasterformat i Aspose.Imaging-biblioteket:<ul><li><b>Computer vision-algoritmer och objektgränsdetektering:</b></li><li> <b>Gemensam representation av både integrerad bild och kvadratisk integrerad bild</b></li><li><b>Algoritmer för bildfiltrering</b></li></ul><br/></p>
 
 {{% /blocks/products/pf/agp/content %}}
 

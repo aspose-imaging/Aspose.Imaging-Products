@@ -28,6 +28,9 @@ description: Hợp lý hóa các tác vụ chuyển đổi định dạng của 
 
 <p align="justify" style="font-size:18px;text-indent:50px;">Aspose.Imaging.AForge.Adapter được thiết kế để mở rộng chức năng của thư viện Aspose.Imaging bằng cách thêm các chức năng từ thư viện FileFormat.AForge. Liên kết này cho phép tất cả các định dạng raster được thư viện Aspose.Imaging hỗ trợ được bao phủ bởi các phương pháp phổ biến từ thư viện FileFormat.AForge. Các phương pháp phổ biến sau đây từ thư viện FileFormat.AForge có thể áp dụng cho tất cả các định dạng raster của thư viện Aspose.Imaging: <ul><li>EdgeDetector(Homogenity, Difference, Sobel, Canny),</li> <li>BlobDetector (DetectBlobs , ExtractBiggestBlob, BlobsFiltering),</li> <li>ExhaustiveTemplateMatching,</li> <li>ExhaustiveBlockMatching,</li> <li>CornersDetector (Moravec, Susan)</li></ul></p>
 
+<h3><a href="https://www.nuget.org/packages/Aspose.Imaging.Accord.Adapter">Aspose.Imaging.Accord.Adapter</a></h3>
+
+<p align="justify" style="font-size:18px;text-indent:50px;">Aspose.Imaging.Accord.Adapter được thiết kế để mở rộng chức năng của thư viện Aspose.Imaging bằng cách thêm các chức năng từ thư viện FileFormat.Accord. Liên kết này cho phép tất cả các định dạng raster được thư viện Aspose.Imaging hỗ trợ được bao phủ bởi các phương pháp phổ biến từ thư viện FileFormat.Accord. Các phương pháp sau từ thư viện FileFormat.Aссord có thể áp dụng cho tất cả các định dạng raster của thư viện Aspose.Imaging:<ul><li><b>Thuật toán thị giác máy tính và phát hiện ranh giới đối tượng:</b></li><li> <b>Biểu diễn chung của cả Hình ảnh tích phân và Hình ảnh tích phân bình phương</b></li><li><b>Thuật toán lọc hình ảnh</b></li></ul><br/></p>
 
 {{% /blocks/products/pf/agp/content %}}
 

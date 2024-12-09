@@ -28,6 +28,9 @@ description: ייעל את משימות המרת הפורמט שלך באמצע�
 
 <p align="justify" style="font-size:18px;text-indent:50px;">Aspose.Imaging.AForge.Adapter נועד להרחיב את הפונקציונליות של ספריית Aspose.Imaging על ידי הוספת פונקציות מספריית FileFormat.AForge. שיוך זה מאפשר לכסות את כל פורמטי הרסטר הנתמכים על ידי ספריית Aspose.Imaging בשיטות פופולריות מספריית FileFormat.AForge. השיטות הפופולריות הבאות מספריית FileFormat.AForge חלות על כל פורמטי הרסטר של ספריית Aspose.Imaging: <ul><li>EdgeDetector(Homogenity, Difference, Sobel, Canny),</li> <li>BlobDetector (DetectBlobs , ExtractBiggestBlob, BlobsFiltering),</li> <li>ExhaustiveTemplateMatching,</li> <li>ExhaustiveBlockMatching,</li> <li>CornersDetector (Moravec, Susan)</li></ul></p>
 
+<h3><a href="https://www.nuget.org/packages/Aspose.Imaging.Accord.Adapter">Aspose.Imaging.Accord.Adapter</a></h3>
+
+<p align="justify" style="font-size:18px;text-indent:50px;">Aspose.Imaging.Accord.Adapter נועד להרחיב את הפונקציונליות של ספריית Aspose.Imaging על ידי הוספת פונקציות מספריית FileFormat.Accord. שיוך זה מאפשר לכל פורמטי הרסטר הנתמכים על ידי ספריית Aspose.Imaging להיות מכוסים בשיטות פופולריות מספריית FileFormat.Accord. השיטות הבאות מספריית FileFormat.Aссord חלות על כל פורמטי הרסטר של ספריית Aspose.Imaging:<ul><li><b>אלגוריתמי ראיית מחשב וזיהוי גבול אובייקטים:</b></li><li> <b>ייצוג משותף של תמונה אינטגרלית ושל תמונה אינטגרלית מרובעת</b></li><li>אלגוריתמים לסינון תמונות</li></ul><br/></p>
 
 {{% /blocks/products/pf/agp/content %}}
 

@@ -28,6 +28,9 @@ description: Aspose.Imaging 어댑터와 다양한 Aspose 제품을 사용하여
 
 <p align="justify" style="font-size:18px;text-indent:50px;">Aspose.Imaging.AForge.Adapter는 FileFormat.AForge 라이브러리의 기능을 추가하여 Aspose.Imaging 라이브러리의 기능을 확장하도록 설계되었습니다. 이 연결을 통해 Aspose.Imaging 라이브러리에서 지원하는 모든 래스터 형식을 FileFormat.AForge 라이브러리의 널리 사용되는 메서드로 처리할 수 있습니다. FileFormat.AForge 라이브러리의 다음 인기 메소드는 Aspose.Imaging 라이브러리의 모든 래스터 형식에 적용 가능합니다: <ul><li>EdgeDetector(Homogenity, Difference, Sobel, Canny),</li> <li>BlobDetector(DetectBlobs , ExtractBiggestBlob, BlobsFiltering),</li> <li>ExhaustiveTemplateMatching,</li> <li>ExhaustiveBlockMatching,</li> <li>CornersDetector(Moravec, Susan)</li></ul></p>
 
+<h3><a href="https://www.nuget.org/packages/Aspose.Imaging.Accord.Adapter">Aspose.Imaging.Accord.Adapter</a></h3>
+
+<p align="justify" style="font-size:18px;text-indent:50px;">Aspose.Imaging.Accord.Adapter는 FileFormat.Accord 라이브러리의 기능을 추가하여 Aspose.Imaging 라이브러리의 기능을 확장하도록 설계되었습니다. 이 연결을 통해 Aspose.Imaging 라이브러리에서 지원하는 모든 래스터 형식을 FileFormat.Accord 라이브러리의 널리 사용되는 메서드로 처리할 수 있습니다. FileFormat.Aссord 라이브러리의 다음 방법은 Aspose.Imaging 라이브러리의 모든 래스터 형식에 적용 가능합니다:<ul><li><b>컴퓨터 비전 알고리즘 및 객체 경계 감지:</b></li><li> <b>적분 이미지와 제곱 적분 이미지의 공동 표현</b></li><li><b>이미지 필터링 알고리즘</b></li></ul><br/></p>
 
 {{% /blocks/products/pf/agp/content %}}
 

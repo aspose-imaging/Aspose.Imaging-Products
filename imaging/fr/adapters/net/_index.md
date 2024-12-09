@@ -28,6 +28,9 @@ description: Rationalisez vos tâches de conversion de format à l’aide des ad
 
 <p align="justify" style="font-size:18px;text-indent:50px;">Aspose.Imaging.AForge.Adapter est conçu pour étendre les fonctionnalités de la bibliothèque Aspose.Imaging en ajoutant des fonctions de la bibliothèque FileFormat.AForge. Cette association permet à tous les formats raster pris en charge par la bibliothèque Aspose.Imaging d'être couverts par les méthodes populaires de la bibliothèque FileFormat.AForge. Les méthodes populaires suivantes de la bibliothèque FileFormat.AForge sont applicables à tous les formats raster de la bibliothèque Aspose.Imaging : <ul><li>EdgeDetector(Homogenity, Difference, Sobel, Canny),</li> <li>BlobDetector (DetectBlobs , ExtractBiggestBlob, BlobsFiltering),</li> <li>ExhaustiveTemplateMatching,</li> <li>ExhaustiveBlockMatching,</li> <li>CornersDetector (Moravec, Susan)</li></ul></p>
 
+<h3><a href="https://www.nuget.org/packages/Aspose.Imaging.Accord.Adapter">Aspose.Imaging.Accord.Adapter</a></h3>
+
+<p align="justify" style="font-size:18px;text-indent:50px;">Aspose.Imaging.Accord.Adapter est conçu pour étendre les fonctionnalités de la bibliothèque Aspose.Imaging en ajoutant des fonctions de la bibliothèque FileFormat.Accord. Cette association permet à tous les formats raster pris en charge par la bibliothèque Aspose.Imaging d'être couverts par les méthodes populaires de la bibliothèque FileFormat.Accord. Les méthodes suivantes de la bibliothèque FileFormat.Aссord sont applicables à tous les formats raster de la bibliothèque Aspose.Imaging :<ul><li><b>Algorithmes de vision par ordinateur et détection des limites des objets :</b></li><li> <b>Représentation conjointe de l'image intégrale et de l'image intégrale au carré</b></li><li><b>Algorithmes de filtrage d'image</b></li></ul><br/></p>
 
 {{% /blocks/products/pf/agp/content %}}
 

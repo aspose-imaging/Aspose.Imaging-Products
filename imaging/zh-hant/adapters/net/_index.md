@@ -28,6 +28,9 @@ description: 使用 Aspose.Imaging Adapters 和各種 Aspose 產品簡化格式�
 
 <p align="justify" style="font-size:18px;text-indent:50px;">Aspose.Imaging.AForge.Adapter 旨在透過新增 FileFormat.AForge 函式庫中的函式來擴充 Aspose.Imaging 函式庫的功能。這種關聯允許 FileFormat.AForge 庫中的流行方法覆蓋 Aspose.Imaging 庫支援的所有光柵格式。 FileFormat.AForge 庫中的以下流行方法適用於 Aspose.Imaging 庫的所有柵格格式：<ul><li>EdgeDetector(Homogenity、Difference、Sobel、Canny)、</li> <li>BlobDetector (DetectBlobs) ， ExtractBiggestBlob，BlobsFiltering），</li> <li>ExhaustiveTemplateMatching，</li> <li>ExhaustiveBlockMatching，</li> <li>CornersDetector（Moravec，Susan）</li></ul></p>
 
+<h3><a href="https://www.nuget.org/packages/Aspose.Imaging.Accord.Adapter">Aspose.Imaging.Accord.Adapter</a></h3>
+
+<p align="justify" style="font-size:18px;text-indent:50px;">Aspose.Imaging.Accord.Adapter 旨在透過新增 FileFormat.Accord 函式庫中的函式來擴充 Aspose.Imaging 函式庫的功能。這種關聯允許 FileFormat.Accord 庫中的流行方法覆蓋 Aspose.Imaging 庫支援的所有光柵格式。 FileFormat.Aссord 函式庫中的以下方法適用於 Aspose.Imaging 函式庫的所有光柵格式：<ul><li><b>電腦視覺演算法和物件邊界偵測：</b></li><li> <b>積分影像和平方積分影像的聯合表示</b></li><li><b>影像過濾演算法</b></li></ul><br/></p>
 
 {{% /blocks/products/pf/agp/content %}}
 

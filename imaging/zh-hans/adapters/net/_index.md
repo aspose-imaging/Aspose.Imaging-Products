@@ -28,6 +28,9 @@ description: 使用 Aspose.Imaging Adapters 和各种 Aspose 产品简化格式�
 
 <p align="justify" style="font-size:18px;text-indent:50px;">Aspose.Imaging.AForge.Adapter 旨在通过添加 FileFormat.AForge 库中的函数来扩展 Aspose.Imaging 库的功能。这种关联允许 FileFormat.AForge 库中的流行方法覆盖 Aspose.Imaging 库支持的所有光栅格式。 FileFormat.AForge 库中的以下流行方法适用于 Aspose.Imaging 库的所有栅格格式：<ul><li>EdgeDetector(Homogenity、Difference、Sobel、Canny)、</li> <li>BlobDetector (DetectBlobs) ，ExtractBiggestBlob，BlobsFiltering），</li> <li>ExhaustiveTemplateMatching，</li> <li>ExhaustiveBlockMatching，</li> <li>CornersDetector（Moravec，Susan）</li></ul></p>
 
+<h3><a href="https://www.nuget.org/packages/Aspose.Imaging.Accord.Adapter">Aspose.Imaging.Accord.Adapter</a></h3>
+
+<p align="justify" style="font-size:18px;text-indent:50px;">Aspose.Imaging.Accord.Adapter 旨在通过添加 FileFormat.Accord 库中的函数来扩展 Aspose.Imaging 库的功能。这种关联允许 FileFormat.Accord 库中的流行方法覆盖 Aspose.Imaging 库支持的所有光栅格式。 FileFormat.Aссord 库中的以下方法适用于 Aspose.Imaging 库的所有光栅格式：<ul><li><b>计算机视觉算法和对象边界检测：</b></li><li> <b>积分图像和平方积分图像的联合表示</b></li><li><b>图像过滤算法</b></li></ul><br/></p>
 
 {{% /blocks/products/pf/agp/content %}}
 

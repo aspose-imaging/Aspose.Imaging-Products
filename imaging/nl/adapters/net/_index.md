@@ -28,6 +28,9 @@ description: Stroomlijn uw formaatconversietaken met behulp van Aspose.Imaging A
 
 <p align="justify" style="font-size:18px;text-indent:50px;">Aspose.Imaging.AForge.Adapter is ontworpen om de functionaliteit van de Aspose.Imaging-bibliotheek uit te breiden door functies uit de FileFormat.AForge-bibliotheek toe te voegen. Dankzij deze koppeling kunnen alle rasterformaten die door de Aspose.Imaging-bibliotheek worden ondersteund, worden gedekt door populaire methoden uit de FileFormat.AForge-bibliotheek. De volgende populaire methoden uit de FileFormat.AForge-bibliotheek zijn van toepassing op alle rasterformaten van de Aspose.Imaging-bibliotheek: <ul><li>EdgeDetector(Homogenity, Difference, Sobel, Canny),</li> <li>BlobDetector (DetectBlobs , ExtractBiggestBlob, BlobsFiltering),</li> <li>ExhaustiveTemplateMatching,</li> <li>ExhaustiveBlockMatching,</li> <li>CornersDetector (Moravec, Susan)</li></ul></p>
 
+<h3><a href="https://www.nuget.org/packages/Aspose.Imaging.Accord.Adapter">Aspose.Imaging.Accord.Adapter</a></h3>
+
+<p align="justify" style="font-size:18px;text-indent:50px;">Aspose.Imaging.Accord.Adapter is ontworpen om de functionaliteit van de Aspose.Imaging-bibliotheek uit te breiden door functies uit de FileFormat.Accord-bibliotheek toe te voegen. Dankzij deze koppeling kunnen alle rasterformaten die door de Aspose.Imaging-bibliotheek worden ondersteund, worden gedekt door populaire methoden uit de FileFormat.Accord-bibliotheek. De volgende methoden uit de FileFormat.Aссord-bibliotheek zijn van toepassing op alle rasterformaten van de Aspose.Imaging-bibliotheek:<ul><li><b>Computer vision-algoritmen en objectgrensdetectie:</b></li><li> <b>Gezamenlijke weergave van zowel Integral Image als Squared Integral Image</b></li><li><b>Algoritmen voor het filteren van afbeeldingen</b></li></ul><br/></p>
 
 {{% /blocks/products/pf/agp/content %}}
 

@@ -28,6 +28,9 @@ description: قم بتبسيط مهام تحويل التنسيق باستخدا
 
 <p align="justify" style="font-size:18px;text-indent:50px;">تم تصميم Aspose.Imaging.AForge.Adapter لتوسيع وظائف مكتبة Aspose.Imaging عن طريق إضافة وظائف من مكتبة FileFormat.AForge. يسمح هذا الارتباط بتغطية جميع التنسيقات النقطية التي تدعمها مكتبة Aspose.Imaging بالطرق الشائعة من مكتبة FileFormat.AForge. تنطبق الطرق الشائعة التالية من مكتبة FileFormat.AForge على كافة التنسيقات النقطية لمكتبة Aspose.Imaging: <ul><li>EdgeDetector(Homogenity, Difference, Sobel, Canny),</li> <li>BlobDetector (DetectBlobs ، ExtractBiggestBlob، BlobsFiltering)،</li> <li>ExhaustiveTemplateMatching،</li> <li>ExhaustiveBlockMatching،</li> <li>CornersDetector (مورافيك، سوزان)</li></ul></p>
 
+<h3><a href="https://www.nuget.org/packages/Aspose.Imaging.Accord.Adapter">Aspose.Imaging.Accord.Adapter</a></h3>
+
+<p align="justify" style="font-size:18px;text-indent:50px;">تم تصميم Aspose.Imaging.Accord.Adapter لتوسيع وظائف مكتبة Aspose.Imaging عن طريق إضافة وظائف من مكتبة FileFormat.Accord. يسمح هذا الارتباط بتغطية جميع التنسيقات النقطية التي تدعمها مكتبة Aspose.Imaging بالطرق الشائعة من مكتبة FileFormat.Accord. تنطبق الطرق التالية من مكتبة FileFormat.Aссord على كافة التنسيقات النقطية لمكتبة Aspose.Imaging:<ul><li><b>خوارزميات رؤية الكمبيوتر واكتشاف حدود الكائنات:</b></li><li> <b>التمثيل المشترك لكل من الصورة المتكاملة والصورة المربعة المتكاملة</b></li><li>خوارزميات تصفية الصور</li></ul><br/></p>
 
 {{% /blocks/products/pf/agp/content %}}
 

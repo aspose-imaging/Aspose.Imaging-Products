@@ -28,6 +28,9 @@ description: Supaprastinkite formato konvertavimo užduotis naudodami Aspose.Ima
 
 <p align="justify" style="font-size:18px;text-indent:50px;">Aspose.Imaging.AForge.Adapter yra skirtas išplėsti Aspose.Imaging bibliotekos funkcionalumą, pridedant funkcijas iš FileFormat.AForge bibliotekos. Šis susiejimas leidžia visiems rastriniams formatams, kuriuos palaiko biblioteka Aspose.Imaging, aprėpti populiariais FileFormat.AForge bibliotekos metodais. Šie populiarūs metodai iš FileFormat.AForge bibliotekos yra taikomi visiems Aspose.Imaging bibliotekos rastriniams formatams: <ul><li>EdgeDetector(Homogenity, Difference, Sobel, Canny),</li> <li>BlobDetector (DetectBlobs) , ExtractBiggestBlob, BlobsFiltering),</li> <li>ExhaustiveTemplate Matching,</li> <li>ExhaustiveBlockMatching,</li> <li>CornersDetector (Moravec, Susan)</li></ul></p>
 
+<h3><a href="https://www.nuget.org/packages/Aspose.Imaging.Accord.Adapter">Aspose.Imaging.Accord.Adapter</a></h3>
+
+<p align="justify" style="font-size:18px;text-indent:50px;">Aspose.Imaging.Accord.Adapter skirtas išplėsti Aspose.Imaging bibliotekos funkcionalumą, pridedant funkcijas iš FileFormat.Accord bibliotekos. Šis susiejimas leidžia visiems rastriniams formatams, kuriuos palaiko biblioteka Aspose.Imaging, aprėpti populiariais FileFormat.Accord bibliotekos metodais. Šie FileFormat.Aссord bibliotekos metodai taikomi visiems Aspose.Imaging bibliotekos rastriniams formatams:<ul><li><b>kompiuterinio matymo algoritmai ir objekto ribų aptikimas:</b></li><li> <b>Bendras vientiso ir kvadratinio vientiso vaizdo vaizdavimas</b></li><li><b>Vaizdo filtravimo algoritmai</b></li></ul><br/></p>
 
 {{% /blocks/products/pf/agp/content %}}
 

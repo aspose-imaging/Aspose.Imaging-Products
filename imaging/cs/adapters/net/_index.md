@@ -28,6 +28,9 @@ description: Zjednodušte své úlohy převodu formátu pomocí adaptérů Aspos
 
 <p align="justify" style="font-size:18px;text-indent:50px;">Aspose.Imaging.AForge.Adapter je navržen tak, aby rozšířil funkčnost knihovny Aspose.Imaging přidáním funkcí z knihovny FileFormat.AForge. Toto přidružení umožňuje pokrýt všechny rastrové formáty podporované knihovnou Aspose.Imaging oblíbenými metodami z knihovny FileFormat.AForge. Následující oblíbené metody z knihovny FileFormat.AForge jsou použitelné pro všechny rastrové formáty knihovny Aspose.Imaging: <ul><li>EdgeDetector(Homogenity, Difference, Sobel, Canny),</li> <li>BlobDetector (DetectBlobs) , ExtractBiggestBlob, BlobsFiltering),</li> <li>ExhaustiveTemplateMatching,</li> <li>ExhaustiveBlockMatching,</li> <li>CornersDetector (Moravec, Susan)</li></ul></p>
 
+<h3><a href="https://www.nuget.org/packages/Aspose.Imaging.Accord.Adapter">Aspose.Imaging.Accord.Adapter</a></h3>
+
+<p align="justify" style="font-size:18px;text-indent:50px;">Aspose.Imaging.Accord.Adapter je navržen tak, aby rozšířil funkčnost knihovny Aspose.Imaging přidáním funkcí z knihovny FileFormat.Accord. Toto přidružení umožňuje pokrýt všechny rastrové formáty podporované knihovnou Aspose.Imaging oblíbenými metodami z knihovny FileFormat.Accord. Následující metody z knihovny FileFormat.Aссord jsou použitelné pro všechny rastrové formáty knihovny Aspose.Imaging:<ul><li><b>Algoritmy počítačového vidění a detekce hranic objektů:</b></li><li> <b>Společná reprezentace integrálního obrázku a čtvercového integrálního obrázku</b></li><li><b>Algoritmy filtrování obrázků</b></li></ul><br/></p>
 
 {{% /blocks/products/pf/agp/content %}}
 

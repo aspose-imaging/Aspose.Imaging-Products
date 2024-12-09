@@ -28,6 +28,9 @@ description: Aspose.Imaging アダプターとさまざまな Aspose 製品を�
 
 <p align="justify" style="font-size:18px;text-indent:50px;">Aspose.Imaging.AForge.Adapter は、FileFormat.AForge ライブラリから関数を追加することで、Aspose.Imaging ライブラリの機能を拡張するように設計されています。この関連付けにより、Aspose.Imaging ライブラリでサポートされるすべてのラスター形式を、FileFormat.AForge ライブラリの一般的なメソッドでカバーできるようになります。 FileFormat.AForge ライブラリの次の一般的なメソッドは、Aspose.Imaging ライブラリのすべてのラスター形式に適用できます: <ul><li>EdgeDetector(Homogenity, Difference, Sobel, Canny)、</li> <li>BlobDetector (DetectBlobs) 、ExtractBiggestBlob、BlobsFiltering)、</li> <li>ExhaustiveTemplateMatching、</li> <li>ExhaustiveBlockMatching、</li> <li>CornersDetector (Moravec、Susan)</li></ul></p>
 
+<h3><a href="https://www.nuget.org/packages/Aspose.Imaging.Accord.Adapter">Aspose.Imaging.Accord.Adapter</a></h3>
+
+<p align="justify" style="font-size:18px;text-indent:50px;">Aspose.Imaging.Accord.Adapter は、FileFormat.Accord ライブラリから関数を追加することで、Aspose.Imaging ライブラリの機能を拡張するように設計されています。この関連付けにより、Aspose.Imaging ライブラリでサポートされるすべてのラスター形式を、FileFormat.Accord ライブラリの一般的なメソッドでカバーできるようになります。 FileFormat.Aссord ライブラリの次のメソッドは、Aspose.Imaging ライブラリのすべてのラスター形式に適用できます:<ul><li><b>コンピューター ビジョン アルゴリズムとオブジェクト境界検出:</b></li><li> <b>積分画像と二乗積分画像の両方の結合表現</b></li><li><b>画像フィルタリング アルゴリズム</b></li></ul><br/></p>
 
 {{% /blocks/products/pf/agp/content %}}
 

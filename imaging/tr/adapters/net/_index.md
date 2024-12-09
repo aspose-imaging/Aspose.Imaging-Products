@@ -28,6 +28,9 @@ description: Aspose.Imaging Adaptörlerini ve çeşitli Aspose Ürünlerini kull
 
 <p align="justify" style="font-size:18px;text-indent:50px;">Aspose.Imaging.AForge.Adapter, FileFormat.AForge kütüphanesinden işlevler ekleyerek Aspose.Imaging kütüphanesinin işlevselliğini genişletmek için tasarlanmıştır. Bu ilişkilendirme, Aspose.Imaging kütüphanesi tarafından desteklenen tüm raster formatlarının FileFormat.AForge kütüphanesindeki popüler yöntemlerle kapsanmasına olanak tanır. FileFormat.AForge kütüphanesindeki aşağıdaki popüler yöntemler, Aspose.Imaging kütüphanesinin tüm raster formatlarına uygulanabilir: <ul><li>EdgeDetector(Homogenity, Difference, Sobel, Canny),</li> <li>BlobDetector (DetectBlobs) , ExtractBiggestBlob, BlobsFiltering),</li> <li>ExhaustiveTemplateMatching,</li> <li>ExhaustiveBlockMatching,</li> <li>CornersDetector (Moravec, Susan)</li></ul></p>
 
+<h3><a href="https://www.nuget.org/packages/Aspose.Imaging.Accord.Adapter">Aspose.Imaging.Accord.Adapter</a></h3>
+
+<p align="justify" style="font-size:18px;text-indent:50px;">Aspose.Imaging.Accord.Adapter, FileFormat.Accord kütüphanesinden işlevler ekleyerek Aspose.Imaging kütüphanesinin işlevselliğini genişletmek için tasarlanmıştır. Bu ilişkilendirme, Aspose.Imaging kütüphanesi tarafından desteklenen tüm raster formatlarının FileFormat.Accord kütüphanesindeki popüler yöntemlerle kapsanmasına olanak tanır. FileFormat.Aссord kütüphanesindeki aşağıdaki yöntemler, Aspose.Imaging kütüphanesinin tüm raster formatlarına uygulanabilir:<ul><li><b>Bilgisayarlı görme algoritmaları ve nesne sınırı tespiti:</b></li><li> <b>Hem İntegral Görüntünün hem de Kareli İntegral Görüntünün ortak gösterimi</b></li><li><b>Görüntü filtreleme algoritmaları</b></li></ul><br/></p>
 
 {{% /blocks/products/pf/agp/content %}}
 

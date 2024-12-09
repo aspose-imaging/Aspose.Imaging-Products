@@ -28,6 +28,9 @@ description: Оптимізуйте завдання перетворення ф
 
 <p align="justify" style="font-size:18px;text-indent:50px;">Aspose.Imaging.AForge.Adapter розроблено для розширення функціональності бібліотеки Aspose.Imaging шляхом додавання функцій із бібліотеки FileFormat.AForge. Цей зв’язок дозволяє охоплювати всі растрові формати, підтримувані бібліотекою Aspose.Imaging, популярними методами бібліотеки FileFormat.AForge. Наступні популярні методи з бібліотеки FileFormat.AForge застосовні до всіх растрових форматів бібліотеки Aspose.Imaging: <ul><li>EdgeDetector(Homogenity, Difference, Sobel, Canny),</li> <li>BlobDetector (DetectBlobs , ExtractBiggestBlob, BlobsFiltering),</li> <li>ExhaustiveTemplateMatching,</li> <li>ExhaustiveBlockMatching,</li> <li>CornersDetector (Moravec, Susan)</li></ul></p>
 
+<h3><a href="https://www.nuget.org/packages/Aspose.Imaging.Accord.Adapter">Aspose.Imaging.Accord.Adapter</a></h3>
+
+<p align="justify" style="font-size:18px;text-indent:50px;">Aspose.Imaging.Accord.Adapter розроблено для розширення функціональності бібліотеки Aspose.Imaging шляхом додавання функцій із бібліотеки FileFormat.Accord. Цей зв’язок дозволяє охоплювати всі растрові формати, які підтримує бібліотека Aspose.Imaging, популярними методами з бібліотеки FileFormat.Accord. Наступні методи з бібліотеки FileFormat.Aссord застосовні до всіх растрових форматів бібліотеки Aspose.Imaging:<ul><li><b>Алгоритми комп’ютерного зору та визначення меж об’єктів:</b></li><li> <b>Спільне представлення інтегрального зображення та квадратного інтегрального зображення</b></li><li><b>Алгоритми фільтрації зображення</b></li></ul><br/></p>
 
 {{% /blocks/products/pf/agp/content %}}
 
