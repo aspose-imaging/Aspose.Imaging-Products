@@ -54,9 +54,8 @@ Before running the conversion example code, make sure that you have the followin
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Operating system: Windows or Linux.
-+ Development environment: Supports .NET Core 7 and higher, such as Microsoft Visual Studio.
-  
++ Operating system: Windows, Linux, MacOS (arm64/x86_64).
++ Development environment: Supports .NET Core 6 and higher, Python 3.5 and higher
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -73,7 +72,7 @@ Before running the conversion example code, make sure that you have the followin
 
 {{% blocks/products/pf/agp/code-block title="Convert AVIF to PSD - Python" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "e1d418ed58a1f4598f259e62914511d4" "convert-image-to-other-format.py" >}}
+{{< gist "aspose-com-gists" "636230be89cc7d55e66006823ebce531" "convert-avif-to-psd.py" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

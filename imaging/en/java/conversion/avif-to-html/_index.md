@@ -71,9 +71,8 @@ Before running the conversion example code, make sure that you have the followin
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Operating system: Windows or Linux.
-+ Development environment: Supports .NET Core 7 and higher, such as Microsoft Visual Studio.
-  
++ Operating system: Windows, Linux, MacOS.
++ Development environment: Java 1.8 and later.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -90,7 +89,7 @@ Before running the conversion example code, make sure that you have the followin
 
 {{% blocks/products/pf/agp/code-block title="Convert AVIF to HTML - Java" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+{{< gist "aspose-com-gists" "979827d1274e683a528a7a37ac8c5ffd" "convert-avif-to-html.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
