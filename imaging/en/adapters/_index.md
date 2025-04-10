@@ -19,6 +19,10 @@ description: Explore how Aspose.Imaging Adapters combine the capabilities to fac
 Target Windows or Linux platforms with any type of application based on .NET Core 7 or later.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Imaging Adapters" title="for Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" productLink="/imaging/en/adapters/java/" >}}
+Target Windows, Linux or macOS platforms with any type of application based on Java 8 or later.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 
